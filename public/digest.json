@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 20:45 IST",
+  "generated_at": "2026-02-05 20:46 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -29,13 +29,6 @@
         "source": "Hacker News Top",
         "category": "Cloud/Infrastructure",
         "link": "https://blog.comma.ai/datacenter/"
-      },
-      {
-        "title": "Jeffrey Epstein's Money Mingled with Silicon Valley Startups(nytimes.com)",
-        "summary": "nytimes.com Please enable JS and disable any ad blocker.",
-        "source": "Hacker News New",
-        "category": "Startups/Funding",
-        "link": "https://www.nytimes.com/2026/02/05/business/epstein-investments-palantir-coinbase-thiel.html"
       },
       {
         "title": "Company as Code(42futures.com)",
@@ -107,6 +100,13 @@
     ],
     "DEVELOPMENT": [
       {
+        "title": "The Oldest Webcam(fogcam.org)",
+        "summary": "FogCam - The World's Oldest Webcam The San Francisco FogCam! The world's oldest webcam.",
+        "source": "Hacker News New",
+        "category": "Web Development",
+        "link": "https://fogcam.org/"
+      },
+      {
         "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "summary": "Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "source": "Hacker News Front",
@@ -140,13 +140,6 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
-      },
-      {
-        "title": "A Broken Heart(allenpike.com)",
-        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://allenpike.com/2026/a-broken-heart/"
       }
     ],
     "COMMUNITY": [
