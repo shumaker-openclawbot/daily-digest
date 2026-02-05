@@ -51,6 +51,12 @@
             font-family: 'Inter', sans-serif;
         }
 
+        .timestamp {
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.5);
+            margin-top: 0.5rem;
+        }
+
         main {
             max-width: 900px;
             margin: 0 auto;
@@ -89,6 +95,16 @@
             line-height: 1.4;
         }
 
+        .article-title a {
+            color: #ffffff;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .article-title a:hover {
+            color: rgba(255, 255, 255, 0.8);
+        }
+
         .article-summary {
             font-size: 0.95rem;
             color: rgba(255, 255, 255, 0.8);
@@ -99,8 +115,9 @@
         .article-meta {
             font-size: 0.85rem;
             color: rgba(255, 255, 255, 0.5);
-            font-family: 'Inter', sans-serif;
-            margin-bottom: 0.75rem;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
         }
 
         .source-badge {
@@ -108,9 +125,8 @@
             background: rgba(255, 255, 255, 0.08);
             padding: 0.25rem 0.75rem;
             border-radius: 20px;
+            font-family: 'Inter', sans-serif;
             font-size: 0.8rem;
-            margin-right: 0.5rem;
-            margin-bottom: 0.5rem;
         }
 
         .category-badge {
@@ -118,72 +134,66 @@
             background: rgba(255, 255, 255, 0.05);
             padding: 0.25rem 0.75rem;
             border-radius: 20px;
+            font-family: 'Inter', sans-serif;
             font-size: 0.8rem;
-            margin-right: 0.5rem;
             border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-
-        a {
-            color: rgba(255, 255, 255, 0.7);
-            text-decoration: none;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-            transition: all 0.2s ease;
-        }
-
-        a:hover {
-            color: rgba(255, 255, 255, 1);
-            border-bottom-color: rgba(255, 255, 255, 0.6);
         }
 
         footer {
             text-align: center;
             padding: 2rem 1rem;
-            border-top: 1px solid rgba(255, 255, 255, 0.1);
-            font-size: 0.85rem;
-            color: rgba(255, 255, 255, 0.5);
-            font-family: 'Inter', sans-serif;
+            color: rgba(255, 255, 255, 0.4);
+            font-size: 0.9rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
         }
 
-        /* Bottom nav bar for mobile */
+        /* Navigation */
         .nav-bar {
-            display: none;
             position: fixed;
-            bottom: 1.5rem;
-            left: 50%;
-            transform: translateX(-50%);
-            background: rgba(255, 255, 255, 0.08);
-            backdrop-filter: blur(12px);
-            border: 1px solid rgba(255, 255, 255, 0.15);
-            border-radius: 50px;
-            padding: 1rem 1.5rem;
-            z-index: 1000;
-            max-width: 400px;
-            width: 90%;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(0, 0, 0, 0.95);
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 1rem;
+            display: none;
+            justify-content: center;
+            z-index: 100;
         }
 
         .nav-bar nav {
             display: flex;
-            justify-content: space-around;
             gap: 2rem;
+            font-family: 'Inter', sans-serif;
         }
 
         .nav-bar a {
-            font-family: 'Inter', sans-serif;
+            color: rgba(255, 255, 255, 0.8);
+            text-decoration: none;
             font-size: 0.9rem;
-            border: none;
-            color: rgba(255, 255, 255, 0.7);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
             transition: color 0.2s ease;
         }
 
         .nav-bar a:hover {
-            color: rgba(255, 255, 255, 1);
+            color: #ffffff;
         }
 
         .section-link {
-            scroll-behavior: smooth;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            background: rgba(255, 255, 255, 0.05);
         }
 
-        /* Responsive */
+        /* Desktop */
+        @media (min-width: 1024px) {
+            .nav-bar {
+                display: none;
+            }
+        }
+
+        /* Tablet */
         @media (max-width: 768px) {
             h1 {
                 font-size: 2rem;
@@ -194,7 +204,7 @@
             }
 
             .article-title {
-                font-size: 1rem;
+                font-size: 1.1rem;
             }
 
             body {
@@ -206,7 +216,7 @@
             }
 
             .nav-bar {
-                display: block;
+                display: flex;
             }
 
             header {
@@ -263,12 +273,14 @@
             text-align: center;
             padding: 2rem;
             color: rgba(255, 255, 255, 0.6);
+            font-family: 'Inter', sans-serif;
         }
 
         .error {
             text-align: center;
             padding: 2rem;
             color: rgba(255, 255, 255, 0.5);
+            font-family: 'Inter', sans-serif;
         }
     </style>
 </head>
@@ -276,6 +288,7 @@
     <header>
         <h1>Daily Tech Digest</h1>
         <p class="tagline">Curated tech news. Every morning.</p>
+        <p class="timestamp" id="digest-time">Loading...</p>
     </header>
 
     <main id="content">
@@ -295,161 +308,58 @@
     </div>
 
     <script>
-        // Sample data - In production, this would be fetched from an API
-        const digestData = {
-            'TOP NEWS': [
-                {
-                    title: 'It primarily ships with a CLI and Web.',
-                    summary: 'bytedance/UI-TARS-desktop open-source multimodal AI agent stack.',
-                    source: 'GitHub Trending',
-                    category: 'AI/ML',
-                    link: 'https://github.com/bytedance/UI-TARS-desktop'
-                },
-                {
-                    title: 'Agent Skills',
-                    summary: 'Folders of instructions, scripts, and resources that AI agents can discover and use.',
-                    source: 'GitHub Trending',
-                    category: 'AI/ML',
-                    link: 'https://github.com/openai/skills'
-                },
-                {
-                    title: 'A case study in PDF forensics: The Epstein PDFs',
-                    summary: 'Deep dive into PDF document analysis and forensics.',
-                    source: 'Hacker News Front',
-                    category: 'Research',
-                    link: 'https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/'
-                },
-                {
-                    title: 'Don\'t rent the cloud, own instead',
-                    summary: 'These days it seems you need a trillion fake dollars, or lunch with politicians to get your own data center.',
-                    source: 'Hacker News Top',
-                    category: 'Cloud/Infrastructure',
-                    link: 'https://blog.comma.ai/datacenter/'
-                }
-            ],
-            'TRENDING NOW': [
-                {
-                    title: 'AI is killing B2B SaaS',
-                    summary: 'SaaS is the most profitable business model on Earth.',
-                    source: 'Hacker News Front',
-                    category: 'Tech News',
-                    link: 'https://nmn.gl/blog/ai-killing-b2b-saas'
-                },
-                {
-                    title: 'Claude Code: Connect to local model when quota runs out',
-                    summary: 'If you want to keep going, you can connect to a local open source model instead of Anthropic.',
-                    source: 'Hacker News Front',
-                    category: 'Tech News',
-                    link: 'https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/'
-                },
-                {
-                    title: 'I miss thinking hard',
-                    summary: 'Thoughts on deep work and focused thinking.',
-                    source: 'Hacker News Front',
-                    category: 'Tech News',
-                    link: 'https://www.jernesto.com/articles/thinking_hard'
-                }
-            ],
-            'RESEARCH & INNOVATION': [
-                {
-                    title: 'thedotmack/claude-mem',
-                    summary: 'A Claude Code plugin that automatically captures everything.',
-                    source: 'GitHub Trending',
-                    category: 'Open Source',
-                    link: 'https://github.com/thedotmack/claude-mem'
-                },
-                {
-                    title: 'prek - Better pre-commit in Rust',
-                    summary: 'pre-commit framework re-engineered in Rust for speed.',
-                    source: 'GitHub Trending',
-                    category: 'Open Source',
-                    link: 'https://github.com/j178/prek'
-                },
-                {
-                    title: 'Cognee - AI Memory',
-                    summary: 'Accurate and Persistent AI Memory in 6 lines of code.',
-                    source: 'GitHub Trending',
-                    category: 'AI/ML',
-                    link: 'https://github.com/topoteretes/cognee'
-                }
-            ],
-            'DEVELOPMENT': [
-                {
-                    title: 'CSS Anchor Positioning',
-                    summary: 'Let one element position itself relative to another, without JavaScript.',
-                    source: 'Hacker News New',
-                    category: 'Web Development',
-                    link: 'https://rolandfranke.nl/frontend-stories/drawing-connections-with-css-anchor-positioning/'
-                },
-                {
-                    title: 'Craftplan - Production management for bakery',
-                    summary: 'I built my wife a production management tool for her bakery.',
-                    source: 'Hacker News Front',
-                    category: 'DevTools',
-                    link: 'https://github.com/puemos/craftplan'
-                },
-                {
-                    title: 'fish-shell - The user-friendly command line shell',
-                    summary: 'Smart and user-friendly command line shell for macOS, Linux.',
-                    source: 'GitHub Trending',
-                    category: 'Open Source',
-                    link: 'https://github.com/fish-shell/fish-shell'
-                }
-            ],
-            'COMMUNITY': [
-                {
-                    title: 'Layoffs in January 2026',
-                    summary: '108,435 layoffs announced - up 118% from last year.',
-                    source: 'Hacker News New',
-                    category: 'Tech News',
-                    link: 'https://www.cnbc.com/2026/02/05/layoff-and-hiring-announcements-hit-their-worst-january-levels-since-2009-challenger-says.html'
-                },
-                {
-                    title: 'Agentic search vs. embedding-based search',
-                    summary: 'Exploring different search paradigms and truth layers.',
-                    source: 'Hacker News New',
-                    category: 'Tech News',
-                    link: 'https://markmhendrickson.com/posts/agentic-search-and-the-truth-layer/'
-                }
-            ]
-        };
-
-        function renderDigest() {
-            const content = document.getElementById('content');
-            let html = '';
-
-            let sectionId = 'top-news';
-            for (const [section, articles] of Object.entries(digestData)) {
-                const sectionClass = section.toLowerCase().replace(/\s+/g, '-');
-                sectionId = sectionClass;
-
-                html += `<section id="${sectionId}">`;
-                html += `<h2>${section}</h2>`;
-
-                articles.forEach(article => {
-                    html += `
-                        <div class="article">
-                            <div class="article-title">${article.title}</div>
-                            <div class="article-summary">${article.summary}</div>
+        async function loadDigest() {
+            try {
+                // Fetch the live digest JSON
+                const response = await fetch('./digest.json');
+                if (!response.ok) throw new Error('Failed to load digest');
+                
+                const data = await response.json();
+                
+                // Update timestamp
+                document.getElementById('digest-time').textContent = `Last updated: ${data.generated_at}`;
+                
+                // Build HTML from JSON
+                let html = '';
+                
+                for (const [sectionName, items] of Object.entries(data.sections)) {
+                    const sectionId = sectionName.toLowerCase().replace(/\s+/g, '-');
+                    html += `<section id="${sectionId}">
+                        <h2>${sectionName}</h2>`;
+                    
+                    for (const item of items) {
+                        html += `<article class="article">
+                            <h3 class="article-title">
+                                <a href="${item.link}" target="_blank" rel="noopener noreferrer">
+                                    ${item.title}
+                                </a>
+                            </h3>
+                            <p class="article-summary">${item.summary || 'No summary available'}</p>
                             <div class="article-meta">
-                                <div>
-                                    <span class="source-badge">${article.source}</span>
-                                    <span class="category-badge">${article.category}</span>
-                                </div>
-                                <a href="${article.link}" target="_blank" rel="noopener noreferrer">Read more →</a>
+                                <span class="source-badge">${item.source}</span>
+                                <span class="category-badge">${item.category || 'News'}</span>
                             </div>
-                        </div>
-                    `;
-                });
-
-                html += '</section>';
+                        </article>`;
+                    }
+                    
+                    html += '</section>';
+                }
+                
+                document.getElementById('content').innerHTML = html;
+                
+            } catch (error) {
+                console.error('Error loading digest:', error);
+                document.getElementById('content').innerHTML = `
+                    <div class="error">
+                        <p>Error loading digest. Please refresh the page.</p>
+                        <p>${error.message}</p>
+                    </div>
+                `;
             }
-
-            content.innerHTML = html;
         }
-
-        // Render on load
-        document.addEventListener('DOMContentLoaded', renderDigest);
+        
+        // Load digest when page loads
+        document.addEventListener('DOMContentLoaded', loadDigest);
     </script>
 </body>
 </html>
