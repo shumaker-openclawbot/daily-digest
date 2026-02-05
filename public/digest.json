@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 19:20 IST",
+  "generated_at": "2026-02-05 19:23 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -100,11 +100,25 @@
     ],
     "DEVELOPMENT": [
       {
+        "title": "Show HN: Playwright Recorder v1.3.0 \u2013 Session Persistence and Network Recording(chromewebstore.google.com)",
+        "summary": "Playwright Recorder Add to Chrome 5.0 ( 1 rating ) Ratings are updated daily and may not reflect the most recent reviews.",
+        "source": "Hacker News New",
+        "category": "Web Development",
+        "link": "https://chromewebstore.google.com/detail/playwright-recorder/bapaclfmcgookbglclacfgeemaehkkme"
+      },
+      {
         "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "summary": "Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "source": "Hacker News Front",
         "category": "DevTools",
         "link": "https://github.com/puemos/craftplan"
+      },
+      {
+        "title": "ICE surveillance tools and tactics raise questions about civil liberties(pbs.org)",
+        "summary": "ICE surveillance tools and tactics raise questions about civil liberties",
+        "source": "Hacker News New",
+        "category": "DevTools",
+        "link": "https://www.pbs.org/newshour/show/immigration-agents-surveillance-tools-and-tactics-raise-questions-about-civil-liberties"
       },
       {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
@@ -126,20 +140,6 @@
         "source": "GitHub Trending",
         "category": "Open Source",
         "link": "https://github.com/fish-shell/fish-shell"
-      },
-      {
-        "title": "Building a 24-bit arcade CRT display adapter from scratch(scd31.com)",
-        "summary": "In November, my friend and fellow Recurser, Frank , picked up an arcade machine for the Recurse Center.",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
-      },
-      {
-        "title": "When internal hostnames are leaked to the clown(rachelbythebay.com)",
-        "summary": "When internal hostnames are leaked to the clown",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://rachelbythebay.com/w/2026/02/03/badnas/"
       }
     ],
     "COMMUNITY": [
@@ -151,18 +151,18 @@
         "link": "https://yagmin.com/blog/the-missing-layer/"
       },
       {
-        "title": "CIA to Sunset the World Factbook(abc.net.au)",
-        "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
-      },
-      {
         "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp(github.com/vkazanov)",
         "summary": "ElCity (Emacs Lisp City) Overview ElCity is a small, turn-based city builder that runs entirely inside Emacs.",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://github.com/vkazanov/elcity"
+      },
+      {
+        "title": "CIA to Sunset the World Factbook(abc.net.au)",
+        "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
       },
       {
         "title": "A Broken Heart(allenpike.com)",
