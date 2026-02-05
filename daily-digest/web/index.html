@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech Digest</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #000000;
+            color: #ffffff;
+            font-family: 'Merriweather', serif;
+            line-height: 1.8;
+            font-size: 16px;
+        }
+
+        /* Glassmorphic effect */
+        .glass {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+        }
+
+        header {
+            padding: 2rem 1rem;
+            text-align: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            letter-spacing: -1px;
+            margin-bottom: 0.5rem;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .tagline {
+            font-size: 0.95rem;
+            color: rgba(255, 255, 255, 0.6);
+            font-style: italic;
+            font-family: 'Inter', sans-serif;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+            padding-bottom: 100px;
+        }
+
+        section {
+            margin-bottom: 3rem;
+        }
+
+        h2 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-family: 'Inter', sans-serif;
+            color: rgba(255, 255, 255, 0.95);
+        }
+
+        .article {
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .article:last-child {
+            border-bottom: none;
+        }
+
+        .article-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+
+        .article-summary {
+            font-size: 0.95rem;
+            color: rgba(255, 255, 255, 0.8);
+            margin-bottom: 0.75rem;
+            font-style: italic;
+        }
+
+        .article-meta {
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.5);
+            font-family: 'Inter', sans-serif;
+            margin-bottom: 0.75rem;
+        }
+
+        .source-badge {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.08);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .category-badge {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-right: 0.5rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        a {
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+            transition: all 0.2s ease;
+        }
+
+        a:hover {
+            color: rgba(255, 255, 255, 1);
+            border-bottom-color: rgba(255, 255, 255, 0.6);
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem 1rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.5);
+            font-family: 'Inter', sans-serif;
+        }
+
+        /* Bottom nav bar for mobile */
+        .nav-bar {
+            display: none;
+            position: fixed;
+            bottom: 1.5rem;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 50px;
+            padding: 1rem 1.5rem;
+            z-index: 1000;
+            max-width: 400px;
+            width: 90%;
+        }
+
+        .nav-bar nav {
+            display: flex;
+            justify-content: space-around;
+            gap: 2rem;
+        }
+
+        .nav-bar a {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.9rem;
+            border: none;
+            color: rgba(255, 255, 255, 0.7);
+            transition: color 0.2s ease;
+        }
+
+        .nav-bar a:hover {
+            color: rgba(255, 255, 255, 1);
+        }
+
+        .section-link {
+            scroll-behavior: smooth;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.2rem;
+            }
+
+            .article-title {
+                font-size: 1rem;
+            }
+
+            body {
+                font-size: 15px;
+            }
+
+            main {
+                padding-bottom: 120px;
+            }
+
+            .nav-bar {
+                display: block;
+            }
+
+            header {
+                padding: 1.5rem 1rem;
+            }
+
+            main {
+                padding: 1.5rem 1rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.6rem;
+            }
+
+            h2 {
+                font-size: 1rem;
+            }
+
+            .article-title {
+                font-size: 0.95rem;
+            }
+
+            body {
+                font-size: 14px;
+            }
+
+            .article {
+                margin-bottom: 1.5rem;
+                padding-bottom: 1.5rem;
+            }
+
+            .nav-bar {
+                padding: 0.75rem 1rem;
+                bottom: 1rem;
+            }
+
+            .nav-bar nav {
+                gap: 1.5rem;
+            }
+
+            .nav-bar a {
+                font-size: 0.8rem;
+            }
+        }
+
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .error {
+            text-align: center;
+            padding: 2rem;
+            color: rgba(255, 255, 255, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Daily Tech Digest</h1>
+        <p class="tagline">Curated tech news. Every morning.</p>
+    </header>
+
+    <main id="content">
+        <div class="loading">Loading digest...</div>
+    </main>
+
+    <footer>
+        <p>Updated daily at 4:00 AM IST</p>
+        <p>© 2026 Daily Tech Digest</p>
+    </footer>
+
+    <!-- Bottom Nav Bar -->
+    <div class="nav-bar">
+        <nav>
+            <a href="#top-news" class="section-link">Top News</a>
+            <a href="#trending" class="section-link">Trending</a>
+            <a href="#research" class="section-link">Research</a>
+            <a href="#development" class="section-link">Dev</a>
+            <a href="#community" class="section-link">Community</a>
+        </nav>
+    </div>
+
+    <script>
+        // Sample data - In production, this would be fetched from an API
+        const digestData = {
+            'TOP NEWS': [
+                {
+                    title: 'It primarily ships with a CLI and Web.',
+                    summary: 'bytedance/UI-TARS-desktop open-source multimodal AI agent stack.',
+                    source: 'GitHub Trending',
+                    category: 'AI/ML',
+                    link: 'https://github.com/bytedance/UI-TARS-desktop'
+                },
+                {
+                    title: 'Agent Skills',
+                    summary: 'Folders of instructions, scripts, and resources that AI agents can discover and use.',
+                    source: 'GitHub Trending',
+                    category: 'AI/ML',
+                    link: 'https://github.com/openai/skills'
+                },
+                {
+                    title: 'A case study in PDF forensics: The Epstein PDFs',
+                    summary: 'Deep dive into PDF document analysis and forensics.',
+                    source: 'Hacker News Front',
+                    category: 'Research',
+                    link: 'https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/'
+                },
+                {
+                    title: 'Don\'t rent the cloud, own instead',
+                    summary: 'These days it seems you need a trillion fake dollars, or lunch with politicians to get your own data center.',
+                    source: 'Hacker News Top',
+                    category: 'Cloud/Infrastructure',
+                    link: 'https://blog.comma.ai/datacenter/'
+                }
+            ],
+            'TRENDING NOW': [
+                {
+                    title: 'AI is killing B2B SaaS',
+                    summary: 'SaaS is the most profitable business model on Earth.',
+                    source: 'Hacker News Front',
+                    category: 'Tech News',
+                    link: 'https://nmn.gl/blog/ai-killing-b2b-saas'
+                },
+                {
+                    title: 'Claude Code: Connect to local model when quota runs out',
+                    summary: 'If you want to keep going, you can connect to a local open source model instead of Anthropic.',
+                    source: 'Hacker News Front',
+                    category: 'Tech News',
+                    link: 'https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/'
+                },
+                {
+                    title: 'I miss thinking hard',
+                    summary: 'Thoughts on deep work and focused thinking.',
+                    source: 'Hacker News Front',
+                    category: 'Tech News',
+                    link: 'https://www.jernesto.com/articles/thinking_hard'
+                }
+            ],
+            'RESEARCH & INNOVATION': [
+                {
+                    title: 'thedotmack/claude-mem',
+                    summary: 'A Claude Code plugin that automatically captures everything.',
+                    source: 'GitHub Trending',
+                    category: 'Open Source',
+                    link: 'https://github.com/thedotmack/claude-mem'
+                },
+                {
+                    title: 'prek - Better pre-commit in Rust',
+                    summary: 'pre-commit framework re-engineered in Rust for speed.',
+                    source: 'GitHub Trending',
+                    category: 'Open Source',
+                    link: 'https://github.com/j178/prek'
+                },
+                {
+                    title: 'Cognee - AI Memory',
+                    summary: 'Accurate and Persistent AI Memory in 6 lines of code.',
+                    source: 'GitHub Trending',
+                    category: 'AI/ML',
+                    link: 'https://github.com/topoteretes/cognee'
+                }
+            ],
+            'DEVELOPMENT': [
+                {
+                    title: 'CSS Anchor Positioning',
+                    summary: 'Let one element position itself relative to another, without JavaScript.',
+                    source: 'Hacker News New',
+                    category: 'Web Development',
+                    link: 'https://rolandfranke.nl/frontend-stories/drawing-connections-with-css-anchor-positioning/'
+                },
+                {
+                    title: 'Craftplan - Production management for bakery',
+                    summary: 'I built my wife a production management tool for her bakery.',
+                    source: 'Hacker News Front',
+                    category: 'DevTools',
+                    link: 'https://github.com/puemos/craftplan'
+                },
+                {
+                    title: 'fish-shell - The user-friendly command line shell',
+                    summary: 'Smart and user-friendly command line shell for macOS, Linux.',
+                    source: 'GitHub Trending',
+                    category: 'Open Source',
+                    link: 'https://github.com/fish-shell/fish-shell'
+                }
+            ],
+            'COMMUNITY': [
+                {
+                    title: 'Layoffs in January 2026',
+                    summary: '108,435 layoffs announced - up 118% from last year.',
+                    source: 'Hacker News New',
+                    category: 'Tech News',
+                    link: 'https://www.cnbc.com/2026/02/05/layoff-and-hiring-announcements-hit-their-worst-january-levels-since-2009-challenger-says.html'
+                },
+                {
+                    title: 'Agentic search vs. embedding-based search',
+                    summary: 'Exploring different search paradigms and truth layers.',
+                    source: 'Hacker News New',
+                    category: 'Tech News',
+                    link: 'https://markmhendrickson.com/posts/agentic-search-and-the-truth-layer/'
+                }
+            ]
+        };
+
+        function renderDigest() {
+            const content = document.getElementById('content');
+            let html = '';
+
+            let sectionId = 'top-news';
+            for (const [section, articles] of Object.entries(digestData)) {
+                const sectionClass = section.toLowerCase().replace(/\s+/g, '-');
+                sectionId = sectionClass;
+
+                html += `<section id="${sectionId}">`;
+                html += `<h2>${section}</h2>`;
+
+                articles.forEach(article => {
+                    html += `
+                        <div class="article">
+                            <div class="article-title">${article.title}</div>
+                            <div class="article-summary">${article.summary}</div>
+                            <div class="article-meta">
+                                <div>
+                                    <span class="source-badge">${article.source}</span>
+                                    <span class="category-badge">${article.category}</span>
+                                </div>
+                                <a href="${article.link}" target="_blank" rel="noopener noreferrer">Read more →</a>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                html += '</section>';
+            }
+
+            content.innerHTML = html;
+        }
+
+        // Render on load
+        document.addEventListener('DOMContentLoaded', renderDigest);
+    </script>
+</body>
+</html>
