@@ -165,18 +165,18 @@
         "link": "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom"
       },
       {
-        "title": "A Broken Heart(allenpike.com)",
-        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://allenpike.com/2026/a-broken-heart/"
-      },
-      {
         "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
         "summary": "Simply Scheme: Introducing Computer Science",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
+      },
+      {
+        "title": "A Broken Heart(allenpike.com)",
+        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://allenpike.com/2026/a-broken-heart/"
       }
     ]
   }
