@@ -114,13 +114,6 @@
         "link": "https://github.com/puemos/craftplan"
       },
       {
-        "title": "Show HN: Fault \u2013 a Rust-CLI to inject network and application faults(fault-project.com)",
-        "summary": "Get Started View on GitHub.",
-        "source": "Hacker News New",
-        "category": "DevTools",
-        "link": "https://fault-project.com/"
-      },
-      {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
         "summary": "How it works It starts from the moment you fire up your coding agent.",
         "source": "GitHub Trending",
@@ -147,6 +140,13 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://allenpike.com/2026/a-broken-heart/"
+      },
+      {
+        "title": "Fined $48k for using a jammer to keep commuters from using phones while driving(fcc.gov)",
+        "summary": "Fined $48k for using a jammer to keep commuters from using phones while driving",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://transition.fcc.gov/eb/Orders/2014/FCC-14-55A1.html"
       }
     ],
     "COMMUNITY": [
