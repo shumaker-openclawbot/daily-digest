@@ -7,8 +7,6 @@ __pycache__/
 *.log
 memory/
 proweb/
-daily-digest/scripts/
-daily-digest/SKILL.md
 SOUL.md
 USER.md
 TOOLS.md
