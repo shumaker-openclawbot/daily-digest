@@ -1,0 +1,7 @@
+{
+  "buildCommand": "echo 'Static site - no build needed'",
+  "outputDirectory": "public",
+  "env": {
+    "VERCEL_ENV": "production"
+  }
+}
