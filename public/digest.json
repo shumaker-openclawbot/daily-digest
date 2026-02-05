@@ -62,7 +62,7 @@
       },
       {
         "title": "Claude Code: connect to a local model when your quota runs out(boxc.net)",
-        "summary": "Claude Code: connect to a local model when your quota runs out",
+        "summary": "If you want to keep going, you can connect to a local open source model instead of Anthropic.",
         "source": "Hacker News Front",
         "category": "Tech News",
         "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/"
@@ -100,6 +100,13 @@
     ],
     "DEVELOPMENT": [
       {
+        "title": "Show HN: ClickLens modern web UI for ClickHouse management(github.com/ntk148v)",
+        "summary": "ClickLens A modern, powerful web interface for managing and monitoring ClickHouse databases.",
+        "source": "Hacker News New",
+        "category": "Web Development",
+        "link": "https://github.com/ntk148v/clicklens"
+      },
+      {
         "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "summary": "Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "source": "Hacker News Front",
@@ -133,13 +140,6 @@
         "source": "GitHub Trending",
         "category": "Open Source",
         "link": "https://github.com/fish-shell/fish-shell"
-      },
-      {
-        "title": "Building a 24-bit arcade CRT display adapter from scratch(scd31.com)",
-        "summary": "In November, my friend and fellow Recurser, Frank , picked up an arcade machine for the Recurse Center.",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
       }
     ],
     "COMMUNITY": [
