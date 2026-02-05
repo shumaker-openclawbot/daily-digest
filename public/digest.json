@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 21:07 IST",
+  "generated_at": "2026-02-05 21:08 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -114,13 +114,6 @@
         "link": "https://github.com/puemos/craftplan"
       },
       {
-        "title": "Show HN: Vercel for AI agents, one-click production deployment for any framework(ai-dank.xyz)",
-        "summary": "Dank Cloud - Dashboard Now in Beta \u2014 $10 free credits to get started Deploy AI agents as production services As easy as Vercel, but for AI agents.",
-        "source": "Hacker News New",
-        "category": "DevTools",
-        "link": "https://cloud.ai-dank.xyz/"
-      },
-      {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
         "summary": "How it works It starts from the moment you fire up your coding agent.",
         "source": "GitHub Trending",
@@ -140,6 +133,13 @@
         "source": "GitHub Trending",
         "category": "Open Source",
         "link": "https://github.com/fish-shell/fish-shell"
+      },
+      {
+        "title": "Building a 24-bit arcade CRT display adapter from scratch(scd31.com)",
+        "summary": "In November, my friend and fellow Recurser, Frank , picked up an arcade machine for the Recurse Center.",
+        "source": "Hacker News Front",
+        "category": "Tech News",
+        "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
       }
     ],
     "COMMUNITY": [
