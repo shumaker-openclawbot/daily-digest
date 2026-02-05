@@ -1,218 +1,189 @@
 {
   "generated_at": "2026-02-05 20:05 IST",
-  "total_sources": 34,
   "sections": {
     "TOP NEWS": [
       {
-        "title": "Can I offer you a tiny Bluetooth speaker in these trying times?",
-        "summary": "I knew as soon as I laid eyes on Vappeby that I had to have it. Sure, it would be right at home on my desk, given that everything in and around my workstation is from Ikea, from the Skadis on the wall",
-        "source": "The Verge",
+        "title": "bytedance/UI-TARS-desktop: The Open-Source Multimodal AI Agent Stack: Connecting Cuttin",
+        "summary": "It primarily ships with a CLI and Web.",
+        "source": "GitHub Trending",
         "category": "AI/ML",
-        "link": "https://www.theverge.com/tech/874009/bluetooth-speaker-gadget-ikea-vappeby"
+        "link": "https://github.com/bytedance/UI-TARS-desktop"
       },
       {
-        "title": "Senators ask Meta why it waited so long to make teen accounts private by default",
-        "summary": "A group of senators has written a letter to Meta CEO Mark Zuckerberg asking why his company delayed launching key protections for users under 18. The letter, signed by Brian Schatz (D-HI), Katie Britt",
-        "source": "The Verge",
+        "title": "openai/skills: Skills Catalog for Codex",
+        "summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks.",
+        "source": "GitHub Trending",
         "category": "AI/ML",
-        "link": "https://www.theverge.com/news/874158/senators-meta-teen-accounts-private-default"
+        "link": "https://github.com/openai/skills"
       },
       {
-        "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
-        "summary": "Let\u2019s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face \u2014 and maybe spark your creativity, too. All of them were d",
-        "source": "Smashing Magazine",
+        "title": "A case study in PDF forensics: The Epstein PDFs(pdfa.org)",
+        "summary": "A case study in PDF forensics: The Epstein PDFs",
+        "source": "Hacker News Front",
         "category": "Research",
-        "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/"
+        "link": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/"
       },
       {
-        "title": "Judge gives Musk bad news, says Trump hasn't intervened to block SEC lawsuit",
-        "summary": "Musk is stuck fighting SEC suit seeking $150M in disgorgements from his Twitter takeover.",
-        "source": "Ars Technica",
-        "category": "Cloud/Infrastructure",
-        "link": "https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/"
-      },
-      {
-        "title": "Don't rent the cloud, own instead",
-        "summary": "Comments",
-        "source": "Hacker News",
+        "title": "Don't rent the cloud, own instead(comma.ai)",
+        "summary": "These days it seems you need a trillion fake dollars, or lunch with politicians to get your own data center.",
+        "source": "Hacker News Top",
         "category": "Cloud/Infrastructure",
         "link": "https://blog.comma.ai/datacenter/"
       },
       {
-        "title": "Escaping the Dumbzone, Part 4: Advanced Patterns",
-        "summary": "Part 4 of 4 in the \"Escaping the Dumbzone\" series\n\n\n\n\nWe've covered the fundamentals: understanding the Dumbzone (Part 1), isolating work with subagents (Part 2), and managing knowledge across session",
-        "source": "Dev.to",
-        "category": "Startups/Funding",
-        "link": "https://dev.to/diggidydale/escaping-the-dumbzone-part-4-advanced-patterns-151m"
-      },
-      {
-        "title": "Bharat VISTAAR: Do Agritech Startups Need To Compete With The Government?",
-        "summary": "The agricultural sector continues to be the biggest employer in India, with over 46% of the population engaged in agricultural&#8230;",
-        "source": "Inc42",
-        "category": "Startups/Funding",
-        "link": "https://inc42.com/features/bharat-vistaar-do-agritech-startups-need-to-compete-with-the-government/"
-      },
-      {
-        "title": "Spotify\u2019s Page Match syncs your audiobooks and your physical ones",
-        "summary": "Spotify has launched a new feature called Page Match that lets you quickly sync your spot in a physical or ebook with an audiobook. Point your camera at a page, and the Spotify app uses computer visio",
-        "source": "The Verge",
+        "title": "Voxtral Transcribe 2(mistral.ai)",
+        "summary": "Voxtral Transcribe 2 Listening...",
+        "source": "Hacker News Front",
         "category": "Tech News",
-        "link": "https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync"
+        "link": "https://mistral.ai/news/voxtral-transcribe-2"
+      },
+      {
+        "title": "Data centers in space makes no sense(civai.org)",
+        "summary": "Enable JavaScript and cookies to continue.",
+        "source": "Hacker News Front",
+        "category": "Tech News",
+        "link": "https://civai.org/blog/space-data-centers"
       }
     ],
     "TRENDING NOW": [
       {
-        "title": "Year recap and future goals for the GitHub Innovation Graph",
-        "summary": "Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025.\nThe post Year recap and future goals for the GitHub Innov",
-        "source": "GitHub Blog",
-        "category": "Open Source",
-        "link": "https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/"
-      },
-      {
-        "title": "Etawah: Inside a long-running sports goods enterprise serving local players",
-        "summary": "For over three decades, sports goods trader S.P. Gupta of Etawah district has run a business shaped by routine travel, steady learning",
-        "source": "YourStory",
-        "category": "India Tech",
-        "link": "https://yourstory.com/2026/02/etawah-sports-goods-trader-sp-gupta-racket-stringing-cm-yuva"
-      },
-      {
-        "title": "How rest sharpens focus and improves decision-making",
-        "summary": "Rest is not laziness. Discover how proper rest improves focus, emotional balance and decision-making, helping you think clearly without burnout.",
-        "source": "YourStory",
-        "category": "India Tech",
-        "link": "https://yourstory.com/2026/02/rest-supports-better-focus"
-      },
-      {
-        "title": "FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone",
-        "summary": "Post reporter was compelled to unlock MacBook Pro with fingerprint, however.",
-        "source": "Ars Technica",
+        "title": "I miss thinking hard(jernesto.com)",
+        "summary": "I miss thinking hard",
+        "source": "Hacker News Front",
         "category": "Tech News",
-        "link": "https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/"
+        "link": "https://www.jernesto.com/articles/thinking_hard"
       },
       {
-        "title": "US House takes first step toward creating \"commercial\" deep space program",
-        "summary": "\"We will continue to rely on the ingenuity of the private sector.\"",
-        "source": "Ars Technica",
+        "title": "AI is killing B2B SaaS(nmn.gl)",
+        "summary": "By Namanyay Goel Feb 4 2026 Subscribe SaaS is the most profitable business model on Earth.",
+        "source": "Hacker News Front",
         "category": "Tech News",
-        "link": "https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/"
+        "link": "https://nmn.gl/blog/ai-killing-b2b-saas"
+      },
+      {
+        "title": "Claude Code: connect to a local model when your quota runs out(boxc.net)",
+        "summary": "If you want to keep going, you can connect to a local open source model instead of Anthropic.",
+        "source": "Hacker News Front",
+        "category": "Tech News",
+        "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/"
       }
     ],
     "RESEARCH & INNOVATION": [
       {
-        "title": "OpenAI Frontier is a single platform to control your AI agents",
-        "summary": "Managing humans is hard. Managing AI agents is\u2026 also hard. That's why OpenAI is launching a new platform called OpenAI Frontier, which it says will help businesses \"build, deploy, and manage\" AI agent",
-        "source": "The Verge",
-        "category": "AI/ML",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management"
+        "title": "Case Study: Life at Selgars(supernuclear.substack.com)",
+        "summary": "To see others, visit the Supernuclear directory.",
+        "source": "Hacker News New",
+        "category": "Research",
+        "link": "https://supernuclear.substack.com/p/case-study-life-at-selgars"
       },
       {
-        "title": "Tesla hit with another wrongful death suit over its electronic door handles",
-        "summary": "The mother of 20-year-old man who died after becoming trapped in his burning Tesla Model Y is suing the company over its electronic door handles. It's the latest wrongful death case centering on Tesla",
-        "source": "The Verge",
-        "category": "AI/ML",
-        "link": "https://www.theverge.com/transportation/874283/tesla-door-handle-wrongful-death-tremblett"
+        "title": "thedotmack/claude-mem: A Claude Code plugin that automatically captures everything ",
+        "summary": "thedotmack/claude-mem: A Claude Code plugin that automatically captures everything",
+        "source": "GitHub Trending",
+        "category": "Open Source",
+        "link": "https://github.com/thedotmack/claude-mem"
       },
       {
-        "title": "Spotify is partnering with Bookshop.org to sell physical books",
-        "summary": "Spotify is going all in on books in 2026 and partnering with Bookshop.org to let you buy physical copies of audiobooks and support local retailers starting in the Spring. The announcement dovetails wi",
-        "source": "The Verge",
-        "category": "AI/ML",
-        "link": "https://www.theverge.com/entertainment/874150/spotify-bookshop-org-physical-books"
+        "title": "j178/prek: \u26a1 Better `pre-commit`, re-engineered in Rust",
+        "summary": "prek pre-commit is a framework to run hooks written in many languages, and it manages the language toolchain and dependencies for running the hooks.",
+        "source": "GitHub Trending",
+        "category": "Open Source",
+        "link": "https://github.com/j178/prek"
       },
       {
-        "title": "Pick your agent: Use Claude and Codex on\u00a0Agent\u00a0HQ",
-        "summary": "Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription. Here's what you need to know and how to get start",
-        "source": "GitHub Blog",
+        "title": "topoteretes/cognee: Memory for AI Agents in 6 lines of code",
+        "summary": "Cognee - Accurate and Persistent AI Memory Demo.",
+        "source": "GitHub Trending",
         "category": "AI/ML",
-        "link": "https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/"
+        "link": "https://github.com/topoteretes/cognee"
       },
       {
-        "title": "How to maximize GitHub Copilot\u2019s agentic capabilities",
-        "summary": "A senior engineer's guide to architecting and extending Copilot's real-world applications.\nThe post How to maximize GitHub Copilot&#8217;s agentic capabilities appeared first on The GitHub Blog.",
-        "source": "GitHub Blog",
+        "title": "Increase of AI bots on the Internet sparks arms race",
+        "summary": "Instead of a place primarily inhabited by humans, the web may ver.",
+        "source": "Ars Technica",
         "category": "AI/ML",
-        "link": "https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/"
+        "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/"
       }
     ],
     "DEVELOPMENT": [
       {
-        "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
-        "summary": "Anders Hejlsberg shares lessons from C# and TypeScript on fast feedback loops, scaling software, open source visibility, and building tools that last.\nThe post 7 learnings from Anders Hejlsberg: The a",
-        "source": "GitHub Blog",
-        "category": "Web Development",
-        "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/"
-      },
-      {
-        "title": "Tired of over-bloated developer tool sites?",
-        "summary": "Since I wasn't really happy with the current developer tools I found on the web, I just vibe-coded a static site with the tools I usually use. It's simple and doesn't have anywhere near the amount of",
-        "source": "Dev.to",
-        "category": "Web Development",
-        "link": "https://dev.to/daniel_castaosanchez_a8/tired-of-over-bloated-developer-tool-sites-2g91"
-      },
-      {
-        "title": "Unstacking CSS Stacking Contexts",
-        "summary": "In CSS, we can create \u201cstacking contexts\u201d where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly",
-        "source": "Smashing Magazine",
-        "category": "Web Development",
-        "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/"
-      },
-      {
-        "title": "The Trump administration exempts new nuclear reactors from environmental review",
-        "summary": "The announcement comes just days after NPR revealed the administration had secretly rewritten safety and environmental standards.",
-        "source": "NPR Tech",
-        "category": "Web Development",
-        "link": "https://www.npr.org/2026/02/02/nx-s1-5696525/trump-nuclear-safety-regulations-environmental-review"
-      },
-      {
-        "title": "Announcing Supporters of Chromium-based Browsers",
-        "summary": "Since Google announced the Chromium project in 2008, we have been excited to build on the great foundations of open-source web browsers and contribute to the continued development of a rich web platf",
-        "source": "Chromium Blog",
-        "category": "Web Development",
-        "link": "https://blog.chromium.org/2025/01/announcing-supporters-of-chromium-based.html"
-      },
-      {
-        "title": "What the fastest-growing tools reveal about how software is being built",
-        "summary": "What languages are growing fastest, and why? What about the projects that people are interested in the most? Where are new developers cutting their teeth? Let\u2019s take a look at Octoverse data to find o",
-        "source": "GitHub Blog",
+        "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
+        "summary": "Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
+        "source": "Hacker News Front",
         "category": "DevTools",
-        "link": "https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/"
+        "link": "https://github.com/puemos/craftplan"
+      },
+      {
+        "title": "obra/superpowers: An agentic skills framework & software development methodolo",
+        "summary": "How it works It starts from the moment you fire up your coding agent.",
+        "source": "GitHub Trending",
+        "category": "Open Source",
+        "link": "https://github.com/obra/superpowers"
+      },
+      {
+        "title": "aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in co",
+        "summary": "\ud83d\udcd6 Documentation Trivy ( pronunciation ) is a comprehensive and versatile security scanner.",
+        "source": "GitHub Trending",
+        "category": "Open Source",
+        "link": "https://github.com/aquasecurity/trivy"
+      },
+      {
+        "title": "fish-shell/fish-shell: The user-friendly command line shell.",
+        "summary": "fish - the friendly interactive shell fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family.",
+        "source": "GitHub Trending",
+        "category": "Open Source",
+        "link": "https://github.com/fish-shell/fish-shell"
+      },
+      {
+        "title": "Building a 24-bit arcade CRT display adapter from scratch(scd31.com)",
+        "summary": "In November, my friend and fellow Recurser, Frank , picked up an arcade machine for the Recurse Center.",
+        "source": "Hacker News Front",
+        "category": "Tech News",
+        "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
+      },
+      {
+        "title": "OpenAI Frontier(openai.com)",
+        "summary": "Enable JavaScript and cookies to continue.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://openai.com/index/introducing-openai-frontier/"
       }
     ],
     "COMMUNITY": [
       {
-        "title": "PhysicsWallah Q3: Profit Zooms 33% YoY To \u20b9102 Cr",
-        "summary": "Listed edtech major PhysicsWallah (PW) reported a 33.4% jump in its consolidated net profit to \u20b9102.3 Cr in the quarter&#8230;",
-        "source": "Inc42",
-        "category": "India Tech",
-        "link": "https://inc42.com/buzz/physicswallah-q3-profit-zooms-33-yoy-to-%e2%82%b9102-cr/"
+        "title": "When internal hostnames are leaked to the clown(rachelbythebay.com)",
+        "summary": "When internal hostnames are leaked to the clown",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://rachelbythebay.com/w/2026/02/03/badnas/"
       },
       {
-        "title": "The PR Template I Use to Keep Reviews Fast (and Teams Sane)",
-        "summary": "I unexpectedly found myself leading a small team of junior developers who quickly started using me as their go-to for code reviews. To help them (and honestly, to save my own time), we adopted a simpl",
-        "source": "Dev.to",
+        "title": "CIA to Sunset the World Factbook(abc.net.au)",
+        "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
+        "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://dev.to/crlian/the-pr-template-i-use-to-keep-reviews-fast-and-teams-sane-kl1"
+        "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
       },
       {
-        "title": "UUID v4 vs v7: What Changed and Why It Matters",
-        "summary": "UUIDs are everywhere. Database primary keys, API request IDs, session tokens, distributed system identifiers \u2014 if you've written backend code, you've generated millions of them.\n\nBut here's a question",
-        "source": "Dev.to",
+        "title": "A Broken Heart(allenpike.com)",
+        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
+        "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://dev.to/santacruz/uuid-v4-vs-v7-what-changed-and-why-it-matters-2bj6"
+        "link": "https://allenpike.com/2026/a-broken-heart/"
       },
       {
-        "title": "Recreating Epstein PDFs from raw encoded attachments",
-        "summary": "Comments",
-        "source": "Lobsters",
+        "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
+        "summary": "Simply Scheme: Introducing Computer Science",
+        "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/"
+        "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
       },
       {
-        "title": "FOSDEM 26 - My Hallway Track Takeaways",
-        "summary": "Comments",
-        "source": "Lobsters",
+        "title": "The Missing Layer(yagmin.com)",
+        "summary": "Vibe coding is too much work.",
+        "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways"
+        "link": "https://yagmin.com/blog/the-missing-layer/"
       }
     ]
   }
