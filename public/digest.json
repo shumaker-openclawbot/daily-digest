@@ -142,48 +142,48 @@
         "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
       },
       {
+        "title": "Show HN: A minimal identity registry for AI agents(aiagentid.org)",
+        "summary": "What is an AI Agent? An AI agent is not just a model, a chatbot, or a tool.",
+        "source": "Hacker News New",
+        "category": "Tech News",
+        "link": "http://aiagentid.org/"
+      }
+    ],
+    "COMMUNITY": [
+      {
+        "title": "\u00c6THRA \u2013 Write music as code (notes, chords, emotion-driven music)",
+        "summary": "\u00c6THRA \u2013 Write music as code (notes, chords, emotion-driven music)",
+        "source": "Hacker News New",
+        "category": "Tech News",
+        "link": "item?id=46900068"
+      },
+      {
+        "title": "Ask HN: How much more power AI requires over Python's list sort",
+        "summary": "How much more power AI requires over Python's list sort",
+        "source": "Hacker News New",
+        "category": "Tech News",
+        "link": "item?id=46900066"
+      },
+      {
+        "title": "Shell Theory: Solving the AI Amplification Paradox(telemetryagent.dev)",
+        "summary": "My teammate and I keep having the same argument.",
+        "source": "Hacker News New",
+        "category": "Tech News",
+        "link": "https://telemetryagent.dev/blog/shell-theory"
+      },
+      {
+        "title": "Show HN: VillageSQL \u2013 A Fork of MySQL with Extensions(villagesql.com)",
+        "summary": "MySQL is the world's most popular open-source database by many measures but a persistent innovation gap has emerged.",
+        "source": "Hacker News New",
+        "category": "Tech News",
+        "link": "https://villagesql.com/blog/introducing-villagesql/"
+      },
+      {
         "title": "OpenAI Frontier(openai.com)",
         "summary": "Enable JavaScript and cookies to continue.",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://openai.com/index/introducing-openai-frontier/"
-      }
-    ],
-    "COMMUNITY": [
-      {
-        "title": "When internal hostnames are leaked to the clown(rachelbythebay.com)",
-        "summary": "When internal hostnames are leaked to the clown",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://rachelbythebay.com/w/2026/02/03/badnas/"
-      },
-      {
-        "title": "CIA to Sunset the World Factbook(abc.net.au)",
-        "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
-      },
-      {
-        "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
-        "summary": "Simply Scheme: Introducing Computer Science",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
-      },
-      {
-        "title": "A Broken Heart(allenpike.com)",
-        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://allenpike.com/2026/a-broken-heart/"
-      },
-      {
-        "title": "The Missing Layer(yagmin.com)",
-        "summary": "Vibe coding is too much work.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://yagmin.com/blog/the-missing-layer/"
       }
     ]
   }
