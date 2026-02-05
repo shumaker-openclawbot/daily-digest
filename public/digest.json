@@ -121,6 +121,13 @@
         "link": "https://github.com/puemos/craftplan"
       },
       {
+        "title": "AGI Blueprint 119 modules using today's tools(visualthoughtagi.com)",
+        "summary": "As of January 2026, with 464 pages and 119 modules,.",
+        "source": "Hacker News New",
+        "category": "DevTools",
+        "link": "https://visualthoughtagi.com/agi"
+      },
+      {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
         "summary": "How it works It starts from the moment you fire up your coding agent.",
         "source": "GitHub Trending",
@@ -147,13 +154,6 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://yagmin.com/blog/the-missing-layer/"
-      },
-      {
-        "title": "Making Ferrite Core Inductors at Home(danielmangum.com)",
-        "summary": "I have recently been working on tuning circuits, which typically consist of an inductor and a capacitor (i.e.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://danielmangum.com/posts/making-ferrite-core-inductors-home/"
       }
     ],
     "COMMUNITY": [
