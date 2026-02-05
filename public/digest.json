@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 20:25 IST",
+  "generated_at": "2026-02-05 20:26 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -142,11 +142,11 @@
         "link": "https://yagmin.com/blog/the-missing-layer/"
       },
       {
-        "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp(github.com/vkazanov)",
-        "summary": "ElCity (Emacs Lisp City) Overview ElCity is a small, turn-based city builder that runs entirely inside Emacs.",
+        "title": "Making Ferrite Core Inductors at Home(danielmangum.com)",
+        "summary": "I have recently been working on tuning circuits, which typically consist of an inductor and a capacitor (i.e.",
         "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://github.com/vkazanov/elcity"
+        "link": "https://danielmangum.com/posts/making-ferrite-core-inductors-home/"
       }
     ],
     "COMMUNITY": [
