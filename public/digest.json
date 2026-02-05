@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 20:15 IST",
+  "generated_at": "2026-02-05 20:16 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -24,13 +24,6 @@
         "link": "https://www.ft.com/content/8ea9eb6d-736a-4ccf-aa6b-3f9a9fb81294"
       },
       {
-        "title": "More room to build: AWS serverless services now support payloads up to 1 MB(amazon.com)",
-        "summary": "Developers can use this enhancement to build and maintain context-rich.",
-        "source": "Hacker News New",
-        "category": "Cloud/Infrastructure",
-        "link": "https://aws.amazon.com/blogs/compute/more-room-to-build-serverless-services-now-support-payloads-up-to-1-mb/"
-      },
-      {
         "title": "Don't rent the cloud, own instead(comma.ai)",
         "summary": "These days it seems you need a trillion fake dollars, or lunch with politicians to get your own data center.",
         "source": "Hacker News Top",
@@ -38,41 +31,48 @@
         "link": "https://blog.comma.ai/datacenter/"
       },
       {
-        "title": "Time in C++: Closing Thoughts(sandordargo.com)",
-        "summary": "Time in C++: Closing Thoughts",
+        "title": "More room to build: AWS serverless services now support payloads up to 1 MB(amazon.com)",
+        "summary": "Developers can use this enhancement to build and maintain context-rich.",
         "source": "Hacker News New",
-        "category": "Tech News",
-        "link": "https://www.sandordargo.com/blog/2026/02/04/clocks-part-10-conclusion"
+        "category": "Cloud/Infrastructure",
+        "link": "https://aws.amazon.com/blogs/compute/more-room-to-build-serverless-services-now-support-payloads-up-to-1-mb/"
       },
       {
-        "title": "Show HN: A macOS app for consistent work logs",
-        "summary": "A macOS app for consistent work logs",
-        "source": "Hacker News New",
+        "title": "Company as Code(42futures.com)",
+        "summary": "Company as Code Reimagining organisational structure for the digital age.",
+        "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "item?id=46900182"
+        "link": "https://blog.42futures.com/p/company-as-code"
+      },
+      {
+        "title": "When internal hostnames are leaked to the clown(rachelbythebay.com)",
+        "summary": "When internal hostnames are leaked to the clown",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://rachelbythebay.com/w/2026/02/03/badnas/"
       }
     ],
     "TRENDING NOW": [
       {
-        "title": "Gamma Function at Reciprocals of Integers(johndcook.com)",
-        "summary": "If n is a positive integer, then rounding \u0393(1/ n ) up to the nearest integer gives n.",
-        "source": "Hacker News New",
+        "title": "CIA to Sunset the World Factbook(abc.net.au)",
+        "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
+        "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://www.johndcook.com/blog/2026/02/04/gamma-reciprocal/"
+        "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
       },
       {
-        "title": "Introduction of the Atari 400/800 in 1979(goto10retro.com)",
-        "summary": "At that time, the primary personal computers were the TRS-80, Commodore PET and the Apple II.",
-        "source": "Hacker News New",
+        "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
+        "summary": "Simply Scheme: Introducing Computer Science",
+        "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://www.goto10retro.com/p/introduction-of-the-atari-400800"
+        "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
       },
       {
-        "title": "Fined $48k for using a jammer to keep commuters from using phones while driving(fcc.gov)",
-        "summary": "Fined $48k for using a jammer to keep commuters from using phones while driving",
-        "source": "Hacker News New",
+        "title": "A Broken Heart(allenpike.com)",
+        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
+        "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://transition.fcc.gov/eb/Orders/2014/FCC-14-55A1.html"
+        "link": "https://allenpike.com/2026/a-broken-heart/"
       }
     ],
     "RESEARCH & INNOVATION": [
@@ -142,55 +142,55 @@
         "link": "https://github.com/fish-shell/fish-shell"
       },
       {
+        "title": "OpenAI Frontier(openai.com)",
+        "summary": "Enable JavaScript and cookies to continue.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://openai.com/index/introducing-openai-frontier/"
+      },
+      {
+        "title": "The Missing Layer(yagmin.com)",
+        "summary": "Vibe coding is too much work.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://yagmin.com/blog/the-missing-layer/"
+      }
+    ],
+    "COMMUNITY": [
+      {
+        "title": "Show HN: A macOS app for consistent work logs",
+        "summary": "A macOS app for consistent work logs",
+        "source": "Hacker News New",
+        "category": "Tech News",
+        "link": "item?id=46900182"
+      },
+      {
+        "title": "Gamma Function at Reciprocals of Integers(johndcook.com)",
+        "summary": "If n is a positive integer, then rounding \u0393(1/ n ) up to the nearest integer gives n.",
+        "source": "Hacker News New",
+        "category": "Tech News",
+        "link": "https://www.johndcook.com/blog/2026/02/04/gamma-reciprocal/"
+      },
+      {
+        "title": "Introduction of the Atari 400/800 in 1979(goto10retro.com)",
+        "summary": "At that time, the primary personal computers were the TRS-80, Commodore PET and the Apple II.",
+        "source": "Hacker News New",
+        "category": "Tech News",
+        "link": "https://www.goto10retro.com/p/introduction-of-the-atari-400800"
+      },
+      {
+        "title": "Fined $48k for using a jammer to keep commuters from using phones while driving(fcc.gov)",
+        "summary": "Fined $48k for using a jammer to keep commuters from using phones while driving",
+        "source": "Hacker News New",
+        "category": "Tech News",
+        "link": "https://transition.fcc.gov/eb/Orders/2014/FCC-14-55A1.html"
+      },
+      {
         "title": "Show HN: Kling 3.0 video generation with native audio synthesis(freyavideo.com)",
         "summary": "Product Rotation Smooth 360-degree rotation with cinematic lighting, showcasing Kling 3.0's precision motion control.",
         "source": "Hacker News New",
         "category": "Tech News",
         "link": "https://freyavideo.com/video-models/kling-3-0"
-      },
-      {
-        "title": "Voxtral Transcribe 2(mistral.ai)",
-        "summary": "Voxtral Transcribe 2 Listening...",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://mistral.ai/news/voxtral-transcribe-2"
-      }
-    ],
-    "COMMUNITY": [
-      {
-        "title": "I miss thinking hard(jernesto.com)",
-        "summary": "I miss thinking hard",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://www.jernesto.com/articles/thinking_hard"
-      },
-      {
-        "title": "AI is killing B2B SaaS(nmn.gl)",
-        "summary": "By Namanyay Goel Feb 4 2026 Subscribe SaaS is the most profitable business model on Earth.",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://nmn.gl/blog/ai-killing-b2b-saas"
-      },
-      {
-        "title": "Claude Code: connect to a local model when your quota runs out(boxc.net)",
-        "summary": "If you want to keep going, you can connect to a local open source model instead of Anthropic.",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/"
-      },
-      {
-        "title": "Building a 24-bit arcade CRT display adapter from scratch(scd31.com)",
-        "summary": "In November, my friend and fellow Recurser, Frank , picked up an arcade machine for the Recurse Center.",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
-      },
-      {
-        "title": "Company as Code(42futures.com)",
-        "summary": "Company as Code Reimagining organisational structure for the digital age.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://blog.42futures.com/p/company-as-code"
       }
     ]
   }
