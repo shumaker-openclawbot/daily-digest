@@ -54,18 +54,18 @@
         "link": "https://github.com/vkazanov/elcity"
       },
       {
-        "title": "The Missing Layer(yagmin.com)",
-        "summary": "Vibe coding is too much work.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://yagmin.com/blog/the-missing-layer/"
-      },
-      {
         "title": "CIA to Sunset the World Factbook(abc.net.au)",
         "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
+      },
+      {
+        "title": "The Missing Layer(yagmin.com)",
+        "summary": "Vibe coding is too much work.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://yagmin.com/blog/the-missing-layer/"
       }
     ],
     "RESEARCH & INNOVATION": [
