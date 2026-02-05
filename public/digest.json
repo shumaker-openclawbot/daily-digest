@@ -3,18 +3,18 @@
   "sections": {
     "TOP NEWS": [
       {
-        "title": "Increase of AI bots on the Internet sparks arms race",
-        "summary": "Instead of a place primarily inhabited by humans, the web may ver.",
-        "source": "Ars Technica",
-        "category": "AI/ML",
-        "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/"
-      },
-      {
         "title": "bytedance/UI-TARS-desktop: The Open-Source Multimodal AI Agent Stack: Connecting Cuttin",
         "summary": "It primarily ships with a CLI and Web.",
         "source": "GitHub Trending",
         "category": "AI/ML",
         "link": "https://github.com/bytedance/UI-TARS-desktop"
+      },
+      {
+        "title": "openai/skills: Skills Catalog for Codex",
+        "summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks.",
+        "source": "GitHub Trending",
+        "category": "AI/ML",
+        "link": "https://github.com/openai/skills"
       },
       {
         "title": "A case study in PDF forensics: The Epstein PDFs(pdfa.org)",
@@ -84,18 +84,18 @@
         "link": "https://github.com/j178/prek"
       },
       {
-        "title": "openai/skills: Skills Catalog for Codex",
-        "summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks.",
-        "source": "GitHub Trending",
-        "category": "AI/ML",
-        "link": "https://github.com/openai/skills"
-      },
-      {
         "title": "topoteretes/cognee: Memory for AI Agents in 6 lines of code",
         "summary": "Cognee - Accurate and Persistent AI Memory Demo.",
         "source": "GitHub Trending",
         "category": "AI/ML",
         "link": "https://github.com/topoteretes/cognee"
+      },
+      {
+        "title": "Increase of AI bots on the Internet sparks arms race",
+        "summary": "Instead of a place primarily inhabited by humans, the web may ver.",
+        "source": "Ars Technica",
+        "category": "AI/ML",
+        "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/"
       }
     ],
     "DEVELOPMENT": [
