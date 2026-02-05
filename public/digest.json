@@ -38,41 +38,41 @@
         "link": "https://www.nytimes.com/2026/02/05/business/epstein-investments-palantir-coinbase-thiel.html"
       },
       {
-        "title": "Company as Code(42futures.com)",
-        "summary": "Company as Code Reimagining organisational structure for the digital age.",
-        "source": "Hacker News Top",
+        "title": "Voxtral Transcribe 2(mistral.ai)",
+        "summary": "Voxtral Transcribe 2 Listening...",
+        "source": "Hacker News Front",
         "category": "Tech News",
-        "link": "https://blog.42futures.com/p/company-as-code"
+        "link": "https://mistral.ai/news/voxtral-transcribe-2"
       },
       {
-        "title": "The New Collabora Office for Desktop(collaboraonline.com)",
-        "summary": "Differences between Collabora Office and Collabora Office Classic.",
-        "source": "Hacker News Top",
+        "title": "Data centers in space makes no sense(civai.org)",
+        "summary": "Enable JavaScript and cookies to continue.",
+        "source": "Hacker News Front",
         "category": "Tech News",
-        "link": "https://www.collaboraonline.com/collabora-office/"
+        "link": "https://civai.org/blog/space-data-centers"
       }
     ],
     "TRENDING NOW": [
       {
-        "title": "When internal hostnames are leaked to the clown(rachelbythebay.com)",
-        "summary": "When internal hostnames are leaked to the clown",
-        "source": "Hacker News Top",
+        "title": "I miss thinking hard(jernesto.com)",
+        "summary": "I miss thinking hard",
+        "source": "Hacker News Front",
         "category": "Tech News",
-        "link": "https://rachelbythebay.com/w/2026/02/03/badnas/"
+        "link": "https://www.jernesto.com/articles/thinking_hard"
       },
       {
-        "title": "CIA to Sunset the World Factbook(abc.net.au)",
-        "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
-        "source": "Hacker News Top",
+        "title": "AI is killing B2B SaaS(nmn.gl)",
+        "summary": "By Namanyay Goel Feb 4 2026 Subscribe SaaS is the most profitable business model on Earth.",
+        "source": "Hacker News Front",
         "category": "Tech News",
-        "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
+        "link": "https://nmn.gl/blog/ai-killing-b2b-saas"
       },
       {
-        "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
-        "summary": "Simply Scheme: Introducing Computer Science",
-        "source": "Hacker News Top",
+        "title": "Claude Code: connect to a local model when your quota runs out(boxc.net)",
+        "summary": "If you want to keep going, you can connect to a local open source model instead of Anthropic.",
+        "source": "Hacker News Front",
         "category": "Tech News",
-        "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
+        "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/"
       }
     ],
     "RESEARCH & INNOVATION": [
@@ -142,48 +142,48 @@
         "link": "https://github.com/fish-shell/fish-shell"
       },
       {
-        "title": "A Broken Heart(allenpike.com)",
-        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://allenpike.com/2026/a-broken-heart/"
-      }
-    ],
-    "COMMUNITY": [
-      {
-        "title": "Data centers in space makes no sense(civai.org)",
-        "summary": "Enable JavaScript and cookies to continue.",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://civai.org/blog/space-data-centers"
-      },
-      {
-        "title": "I miss thinking hard(jernesto.com)",
-        "summary": "I miss thinking hard",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://www.jernesto.com/articles/thinking_hard"
-      },
-      {
-        "title": "AI is killing B2B SaaS(nmn.gl)",
-        "summary": "By Namanyay Goel Feb 4 2026 Subscribe SaaS is the most profitable business model on Earth.",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://nmn.gl/blog/ai-killing-b2b-saas"
-      },
-      {
-        "title": "Claude Code: connect to a local model when your quota runs out(boxc.net)",
-        "summary": "If you want to keep going, you can connect to a local open source model instead of Anthropic.",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/"
-      },
-      {
         "title": "Building a 24-bit arcade CRT display adapter from scratch(scd31.com)",
         "summary": "In November, my friend and fellow Recurser, Frank , picked up an arcade machine for the Recurse Center.",
         "source": "Hacker News Front",
         "category": "Tech News",
         "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
+      }
+    ],
+    "COMMUNITY": [
+      {
+        "title": "When internal hostnames are leaked to the clown(rachelbythebay.com)",
+        "summary": "When internal hostnames are leaked to the clown",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://rachelbythebay.com/w/2026/02/03/badnas/"
+      },
+      {
+        "title": "CIA to Sunset the World Factbook(abc.net.au)",
+        "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
+      },
+      {
+        "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
+        "summary": "Simply Scheme: Introducing Computer Science",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
+      },
+      {
+        "title": "A Broken Heart(allenpike.com)",
+        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://allenpike.com/2026/a-broken-heart/"
+      },
+      {
+        "title": "Fined $48k for using a jammer to keep commuters from using phones while driving(fcc.gov)",
+        "summary": "Fined $48k for using a jammer to keep commuters from using phones while driving",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://transition.fcc.gov/eb/Orders/2014/FCC-14-55A1.html"
       }
     ]
   }
