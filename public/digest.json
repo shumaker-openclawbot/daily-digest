@@ -47,18 +47,18 @@
     ],
     "TRENDING NOW": [
       {
-        "title": "The Missing Layer(yagmin.com)",
-        "summary": "Vibe coding is too much work.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://yagmin.com/blog/the-missing-layer/"
-      },
-      {
         "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp(github.com/vkazanov)",
         "summary": "ElCity (Emacs Lisp City) Overview ElCity is a small, turn-based city builder that runs entirely inside Emacs.",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://github.com/vkazanov/elcity"
+      },
+      {
+        "title": "The Missing Layer(yagmin.com)",
+        "summary": "Vibe coding is too much work.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://yagmin.com/blog/the-missing-layer/"
       },
       {
         "title": "CIA to Sunset the World Factbook(abc.net.au)",
