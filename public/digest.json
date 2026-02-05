@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 19:38 IST",
+  "generated_at": "2026-02-05 19:39 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -29,13 +29,6 @@
         "source": "Hacker News Top",
         "category": "Cloud/Infrastructure",
         "link": "https://blog.comma.ai/datacenter/"
-      },
-      {
-        "title": "Show HN: Cloud platform with the learning curve of a toaster(burla.dev)",
-        "summary": "hashtag Enable anyone to process terabytes of data in minutes.",
-        "source": "Hacker News New",
-        "category": "Cloud/Infrastructure",
-        "link": "https://docs.burla.dev"
       },
       {
         "title": "Voxtral Transcribe 2(mistral.ai)",
@@ -107,11 +100,25 @@
     ],
     "DEVELOPMENT": [
       {
+        "title": "The Last of the JavaScript Frameworks(dbpro.app)",
+        "summary": "\"There's a new JavaScript framework every week.\" You know the joke.",
+        "source": "Hacker News New",
+        "category": "Web Development",
+        "link": "https://www.dbpro.app/blog/the-last-of-the-javascript-frameworks"
+      },
+      {
         "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "summary": "Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "source": "Hacker News Front",
         "category": "DevTools",
         "link": "https://github.com/puemos/craftplan"
+      },
+      {
+        "title": "Tools for Recovering RAID5 Disasters(github.com/alfiopuglisi)",
+        "summary": "Tools for Recovering RAID5 Disasters(github.com/alfiopuglisi)",
+        "source": "Hacker News New",
+        "category": "DevTools",
+        "link": "https://github.com/alfiopuglisi/raid_recovery"
       },
       {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
@@ -133,20 +140,6 @@
         "source": "GitHub Trending",
         "category": "Open Source",
         "link": "https://github.com/fish-shell/fish-shell"
-      },
-      {
-        "title": "Building a 24-bit arcade CRT display adapter from scratch(scd31.com)",
-        "summary": "In November, my friend and fellow Recurser, Frank , picked up an arcade machine for the Recurse Center.",
-        "source": "Hacker News Front",
-        "category": "Tech News",
-        "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
-      },
-      {
-        "title": "Company as Code(42futures.com)",
-        "summary": "Company as Code Reimagining organisational structure for the digital age.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://blog.42futures.com/p/company-as-code"
       }
     ],
     "COMMUNITY": [
