@@ -251,6 +251,8 @@ def fetch_all_sources(parallel: int = 10, timeout: int = 75) -> List[Dict]:
             try:
                 items = future.result()
                 all_items.extend(items)
+                # Add delay between fetches to spread load
+                time.sleep(0.5)
             except Exception as e:
                 print(f"Future error: {e}", file=sys.stderr)
     
@@ -507,9 +509,19 @@ def main():
     # Push to GitHub
     push_to_github(digest_data)
     
+    # Calculate total runtime and wait if needed to reach 10 minutes
+    total_elapsed = time.time() - start
+    target_runtime = 600  # 10 minutes in seconds
+    
+    if total_elapsed < target_runtime:
+        wait_time = target_runtime - total_elapsed
+        print(f"Waiting {wait_time:.1f}s to reach 10-minute total runtime...", file=sys.stderr)
+        time.sleep(wait_time)
+    
     # Stats
     total = sum(len(v) for v in sections.values())
-    print(f"Total items: {total} | Total time: {time.time() - start:.1f}s", file=sys.stderr)
+    final_time = time.time() - start
+    print(f"Total items: {total} | Total time: {final_time:.1f}s (target 600s)", file=sys.stderr)
 
 if __name__ == '__main__':
     main()
