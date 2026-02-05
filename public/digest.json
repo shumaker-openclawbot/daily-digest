@@ -54,18 +54,18 @@
     ],
     "TRENDING NOW": [
       {
-        "title": "Fined $48k for using a jammer to keep commuters from using phones while driving(fcc.gov)",
-        "summary": "Fined $48k for using a jammer to keep commuters from using phones while driving",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://transition.fcc.gov/eb/Orders/2014/FCC-14-55A1.html"
-      },
-      {
         "title": "When internal hostnames are leaked to the clown(rachelbythebay.com)",
         "summary": "When internal hostnames are leaked to the clown",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://rachelbythebay.com/w/2026/02/03/badnas/"
+      },
+      {
+        "title": "Fined $48k for using a jammer to keep commuters from using phones while driving(fcc.gov)",
+        "summary": "Fined $48k for using a jammer to keep commuters from using phones while driving",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://transition.fcc.gov/eb/Orders/2014/FCC-14-55A1.html"
       },
       {
         "title": "CIA to Sunset the World Factbook(abc.net.au)",
