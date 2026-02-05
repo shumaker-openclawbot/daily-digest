@@ -100,18 +100,18 @@
     ],
     "DEVELOPMENT": [
       {
-        "title": "Show HN: ClickLens modern web UI for ClickHouse management(github.com/ntk148v)",
-        "summary": "ClickLens A modern, powerful web interface for managing and monitoring ClickHouse databases.",
-        "source": "Hacker News New",
-        "category": "Web Development",
-        "link": "https://github.com/ntk148v/clicklens"
-      },
-      {
         "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "summary": "Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "source": "Hacker News Front",
         "category": "DevTools",
         "link": "https://github.com/puemos/craftplan"
+      },
+      {
+        "title": "Show HN: KvatchCLI \u2013 Query Multiple Data Sources with SQL(Postgres,CSV,APIs)",
+        "summary": "KvatchCLI \u2013 Query Multiple Data Sources with SQL(Postgres,CSV,APIs)",
+        "source": "Hacker News New",
+        "category": "DevTools",
+        "link": "item?id=46900861"
       },
       {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
