@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 20:11 IST",
+  "generated_at": "2026-02-05 20:12 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -31,28 +31,21 @@
         "link": "https://blog.comma.ai/datacenter/"
       },
       {
-        "title": "OpenAI Frontier(openai.com)",
-        "summary": "Enable JavaScript and cookies to continue.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://openai.com/index/introducing-openai-frontier/"
-      },
-      {
         "title": "Company as Code(42futures.com)",
         "summary": "Company as Code Reimagining organisational structure for the digital age.",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://blog.42futures.com/p/company-as-code"
-      }
-    ],
-    "TRENDING NOW": [
+      },
       {
         "title": "When internal hostnames are leaked to the clown(rachelbythebay.com)",
         "summary": "When internal hostnames are leaked to the clown",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://rachelbythebay.com/w/2026/02/03/badnas/"
-      },
+      }
+    ],
+    "TRENDING NOW": [
       {
         "title": "CIA to Sunset the World Factbook(abc.net.au)",
         "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
@@ -66,6 +59,13 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
+      },
+      {
+        "title": "OpenAI Frontier(openai.com)",
+        "summary": "Enable JavaScript and cookies to continue.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://openai.com/index/introducing-openai-frontier/"
       }
     ],
     "RESEARCH & INNOVATION": [
@@ -114,6 +114,13 @@
         "link": "https://github.com/puemos/craftplan"
       },
       {
+        "title": "Show HN: Gilfoyle \u2013 Empirical RCA across observability tools(github.com/axiomhq)",
+        "summary": "Gilfoyle An SRE agent that does what you can't.",
+        "source": "Hacker News New",
+        "category": "DevTools",
+        "link": "https://github.com/axiomhq/gilfoyle"
+      },
+      {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
         "summary": "How it works It starts from the moment you fire up your coding agent.",
         "source": "GitHub Trending",
@@ -140,13 +147,6 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://allenpike.com/2026/a-broken-heart/"
-      },
-      {
-        "title": "The Missing Layer(yagmin.com)",
-        "summary": "Vibe coding is too much work.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://yagmin.com/blog/the-missing-layer/"
       }
     ],
     "COMMUNITY": [
