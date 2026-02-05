@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 20:49 IST",
+  "generated_at": "2026-02-05 20:50 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -38,21 +38,14 @@
         "link": "https://blog.42futures.com/p/company-as-code"
       },
       {
-        "title": "Fined $48k for using a jammer to keep commuters from using phones while driving(fcc.gov)",
-        "summary": "Fined $48k for using a jammer to keep commuters from using phones while driving",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://transition.fcc.gov/eb/Orders/2014/FCC-14-55A1.html"
-      }
-    ],
-    "TRENDING NOW": [
-      {
         "title": "The New Collabora Office for Desktop(collaboraonline.com)",
         "summary": "Differences between Collabora Office and Collabora Office Classic.",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://www.collaboraonline.com/collabora-office/"
-      },
+      }
+    ],
+    "TRENDING NOW": [
       {
         "title": "When internal hostnames are leaked to the clown(rachelbythebay.com)",
         "summary": "When internal hostnames are leaked to the clown",
@@ -66,6 +59,13 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
+      },
+      {
+        "title": "Programming Patterns: The Story of the Jacquard Loom(scienceandindustrymuseum.org.uk)",
+        "summary": "Read on to find out how it both revolutionised the production of patterned cloth and also inspired the dev.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom"
       }
     ],
     "RESEARCH & INNOVATION": [
@@ -135,11 +135,11 @@
         "link": "https://github.com/fish-shell/fish-shell"
       },
       {
-        "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
-        "summary": "Simply Scheme: Introducing Computer Science",
+        "title": "A Broken Heart(allenpike.com)",
+        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
         "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
+        "link": "https://allenpike.com/2026/a-broken-heart/"
       }
     ],
     "COMMUNITY": [
