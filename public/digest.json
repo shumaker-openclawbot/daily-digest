@@ -107,13 +107,6 @@
         "link": "https://github.com/puemos/craftplan"
       },
       {
-        "title": "ICE surveillance tools and tactics raise questions about civil liberties(pbs.org)",
-        "summary": "ICE surveillance tools and tactics raise questions about civil liberties",
-        "source": "Hacker News New",
-        "category": "DevTools",
-        "link": "https://www.pbs.org/newshour/show/immigration-agents-surveillance-tools-and-tactics-raise-questions-about-civil-liberties"
-      },
-      {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
         "summary": "How it works It starts from the moment you fire up your coding agent.",
         "source": "GitHub Trending",
@@ -140,6 +133,13 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://allenpike.com/2026/a-broken-heart/"
+      },
+      {
+        "title": "Making Ferrite Core Inductors at Home(danielmangum.com)",
+        "summary": "I have recently been working on tuning circuits, which typically consist of an inductor and a capacitor (i.e.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://danielmangum.com/posts/making-ferrite-core-inductors-home/"
       }
     ],
     "COMMUNITY": [
