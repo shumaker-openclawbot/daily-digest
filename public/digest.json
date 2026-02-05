@@ -100,11 +100,11 @@
     ],
     "DEVELOPMENT": [
       {
-        "title": "Show HN: Playwright Recorder v1.3.0 \u2013 Session Persistence and Network Recording(chromewebstore.google.com)",
-        "summary": "Playwright Recorder Add to Chrome 5.0 ( 1 rating ) Ratings are updated daily and may not reflect the most recent reviews.",
+        "title": "ICE surveillance tools and tactics raise questions about civil liberties(pbs.org)",
+        "summary": "ICE surveillance tools and tactics raise questions about civil liberties",
         "source": "Hacker News New",
-        "category": "Web Development",
-        "link": "https://chromewebstore.google.com/detail/playwright-recorder/bapaclfmcgookbglclacfgeemaehkkme"
+        "category": "DevTools",
+        "link": "https://www.pbs.org/newshour/show/immigration-agents-surveillance-tools-and-tactics-raise-questions-about-civil-liberties"
       },
       {
         "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
@@ -112,13 +112,6 @@
         "source": "Hacker News Front",
         "category": "DevTools",
         "link": "https://github.com/puemos/craftplan"
-      },
-      {
-        "title": "ICE surveillance tools and tactics raise questions about civil liberties(pbs.org)",
-        "summary": "ICE surveillance tools and tactics raise questions about civil liberties",
-        "source": "Hacker News New",
-        "category": "DevTools",
-        "link": "https://www.pbs.org/newshour/show/immigration-agents-surveillance-tools-and-tactics-raise-questions-about-civil-liberties"
       },
       {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
@@ -140,43 +133,50 @@
         "source": "GitHub Trending",
         "category": "Open Source",
         "link": "https://github.com/fish-shell/fish-shell"
+      },
+      {
+        "title": "A Broken Heart(allenpike.com)",
+        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://allenpike.com/2026/a-broken-heart/"
       }
     ],
     "COMMUNITY": [
       {
-        "title": "Data centers in space makes no sense(civai.org)",
-        "summary": "Enable JavaScript and cookies to continue.",
-        "source": "Hacker News Front",
+        "title": "Things: Reusable rockets AI via satellite and a real-time free speech platform(searls.co)",
+        "summary": "\"3 things: reusable rockets, AI via\u2026 \"3 things: reusable rockets, AI via satellite; and a real-time free speech platform.",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://civai.org/blog/space-data-centers"
+        "link": "https://justin.searls.co/takes/2026-02-05-08h27m58s/"
       },
       {
-        "title": "I miss thinking hard(jernesto.com)",
-        "summary": "I miss thinking hard",
-        "source": "Hacker News Front",
+        "title": "NVIDIA Transformer Engine(nvidia.com)",
+        "summary": "NVIDIA Transformer Engine",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://www.jernesto.com/articles/thinking_hard"
+        "link": "https://docs.nvidia.com/deeplearning/transformer-engine/index.html"
       },
       {
-        "title": "AI is killing B2B SaaS(nmn.gl)",
-        "summary": "By Namanyay Goel Feb 4 2026 Subscribe SaaS is the most profitable business model on Earth.",
-        "source": "Hacker News Front",
+        "title": "Show HN: Fastlog \u2013 Async C logging with thread-local hot path(github.com/j91981274-sudo)",
+        "summary": "fastlog fastlog is a high-performance asynchronous logging library written in pure C.",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://nmn.gl/blog/ai-killing-b2b-saas"
+        "link": "https://github.com/j91981274-sudo/fastlog"
       },
       {
-        "title": "Claude Code: connect to a local model when your quota runs out(boxc.net)",
-        "summary": "If you want to keep going, you can connect to a local open source model instead of Anthropic.",
-        "source": "Hacker News Front",
+        "title": "Time Poverty(wikipedia.org)",
+        "summary": "Time poverty is a result of time inequality, as a lack of autonomy over how to spend one's time fuels a lack of discretionary time.",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/"
+        "link": "https://en.wikipedia.org/wiki/Time_poverty"
       },
       {
-        "title": "Building a 24-bit arcade CRT display adapter from scratch(scd31.com)",
-        "summary": "In November, my friend and fellow Recurser, Frank , picked up an arcade machine for the Recurse Center.",
-        "source": "Hacker News Front",
+        "title": "Microbes in Space Mutated and Developed a Remarkable Ability(sciencealert.com)",
+        "summary": "Microbes in Space Mutated And Developed a Remarkable Ability Space 26 January 2026 By Jess Cockerill A phage rests on the surface of a host cell.",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
+        "link": "https://www.sciencealert.com/microbes-in-space-mutated-and-developed-a-remarkable-ability"
       }
     ]
   }
