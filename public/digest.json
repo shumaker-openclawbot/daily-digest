@@ -151,6 +151,13 @@
         "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
       },
       {
+        "title": "A Broken Heart(allenpike.com)",
+        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://allenpike.com/2026/a-broken-heart/"
+      },
+      {
         "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp(github.com/vkazanov)",
         "summary": "ElCity (Emacs Lisp City) Overview ElCity is a small, turn-based city builder that runs entirely inside Emacs.",
         "source": "Hacker News Top",
@@ -165,18 +172,11 @@
         "link": "https://yagmin.com/blog/the-missing-layer/"
       },
       {
-        "title": "A Broken Heart(allenpike.com)",
-        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
+        "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
+        "summary": "Simply Scheme: Introducing Computer Science",
         "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://allenpike.com/2026/a-broken-heart/"
-      },
-      {
-        "title": "Making Ferrite Core Inductors at Home(danielmangum.com)",
-        "summary": "I have recently been working on tuning circuits, which typically consist of an inductor and a capacitor (i.e.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://danielmangum.com/posts/making-ferrite-core-inductors-home/"
+        "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
       }
     ]
   }
