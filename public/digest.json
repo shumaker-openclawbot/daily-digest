@@ -77,13 +77,6 @@
     ],
     "RESEARCH & INNOVATION": [
       {
-        "title": "Show HN: Cc-hdrm \u2013 See your Claude Pro/Max Headroom before you hit rate limits(github.com/rajish)",
-        "summary": "cc-hdrm A macOS menu bar utility that shows how much Claude capacity you have left.",
-        "source": "Hacker News New",
-        "category": "Research",
-        "link": "https://github.com/rajish/cc-hdrm"
-      },
-      {
         "title": "thedotmack/claude-mem: A Claude Code plugin that automatically captures everything ",
         "summary": "thedotmack/claude-mem: A Claude Code plugin that automatically captures everything",
         "source": "GitHub Trending",
