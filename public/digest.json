@@ -114,13 +114,6 @@
         "link": "https://github.com/puemos/craftplan"
       },
       {
-        "title": "The GitButler CLI(gitbutler.com)",
-        "summary": "The GitButler CLI",
-        "source": "Hacker News New",
-        "category": "DevTools",
-        "link": "https://blog.gitbutler.com/but-cli"
-      },
-      {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
         "summary": "How it works It starts from the moment you fire up your coding agent.",
         "source": "GitHub Trending",
@@ -147,6 +140,13 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://allenpike.com/2026/a-broken-heart/"
+      },
+      {
+        "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
+        "summary": "Simply Scheme: Introducing Computer Science",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
       }
     ],
     "COMMUNITY": [
