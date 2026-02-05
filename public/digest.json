@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 21:15 IST",
+  "generated_at": "2026-02-05 21:16 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -29,6 +29,13 @@
         "source": "Hacker News Top",
         "category": "Cloud/Infrastructure",
         "link": "https://blog.comma.ai/datacenter/"
+      },
+      {
+        "title": "Jujutsu v0.38.0 Released(github.com/jj-vcs)",
+        "summary": "Filter Loading Sorry, something went wrong.",
+        "source": "Hacker News New",
+        "category": "Startups/Funding",
+        "link": "https://github.com/jj-vcs/jj/releases/tag/v0.38.0"
       },
       {
         "title": "Company as Code(42futures.com)",
@@ -107,13 +114,6 @@
         "link": "https://github.com/puemos/craftplan"
       },
       {
-        "title": "Show HN: KvatchCLI \u2013 Query Multiple Data Sources with SQL(Postgres,CSV,APIs)",
-        "summary": "KvatchCLI \u2013 Query Multiple Data Sources with SQL(Postgres,CSV,APIs)",
-        "source": "Hacker News New",
-        "category": "DevTools",
-        "link": "item?id=46900861"
-      },
-      {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
         "summary": "How it works It starts from the moment you fire up your coding agent.",
         "source": "GitHub Trending",
@@ -140,6 +140,13 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
+      },
+      {
+        "title": "GB Renewables Map(robinhawkes.com)",
+        "summary": "GB Renewables Map",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://renewables-map.robinhawkes.com/"
       }
     ],
     "COMMUNITY": [
