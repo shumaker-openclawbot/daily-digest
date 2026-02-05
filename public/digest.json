@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 20:09 IST",
+  "generated_at": "2026-02-05 20:10 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -165,18 +165,18 @@
         "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
       },
       {
-        "title": "A Broken Heart(allenpike.com)",
-        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://allenpike.com/2026/a-broken-heart/"
-      },
-      {
         "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
         "summary": "Simply Scheme: Introducing Computer Science",
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
+      },
+      {
+        "title": "A Broken Heart(allenpike.com)",
+        "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://allenpike.com/2026/a-broken-heart/"
       },
       {
         "title": "The Missing Layer(yagmin.com)",
