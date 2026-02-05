@@ -100,18 +100,18 @@
     ],
     "DEVELOPMENT": [
       {
-        "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
-        "summary": "Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
-        "source": "Hacker News Front",
-        "category": "DevTools",
-        "link": "https://github.com/puemos/craftplan"
-      },
-      {
         "title": "AGI Blueprint 119 modules using today's tools(visualthoughtagi.com)",
         "summary": "As of January 2026, with 464 pages and 119 modules,.",
         "source": "Hacker News New",
         "category": "DevTools",
         "link": "https://visualthoughtagi.com/agi"
+      },
+      {
+        "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
+        "summary": "Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
+        "source": "Hacker News Front",
+        "category": "DevTools",
+        "link": "https://github.com/puemos/craftplan"
       },
       {
         "title": "obra/superpowers: An agentic skills framework & software development methodolo",
@@ -144,39 +144,39 @@
     ],
     "COMMUNITY": [
       {
-        "title": "Data centers in space makes no sense(civai.org)",
-        "summary": "Enable JavaScript and cookies to continue.",
-        "source": "Hacker News Front",
+        "title": "GitHub Actions Is Slowly Killing Your Engineering Team(iankduncan.com)",
+        "summary": "I was an early employee at CircleCI.",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://civai.org/blog/space-data-centers"
+        "link": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/"
       },
       {
-        "title": "I miss thinking hard(jernesto.com)",
-        "summary": "I miss thinking hard",
-        "source": "Hacker News Front",
+        "title": "Show HN: Stui \u2013 terminal UI for slurm clusters(github.com/antvirf)",
+        "summary": "stui - Slurm Terminal User Interface for managing clusters Like k9s , but for Slurm clusters.",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://www.jernesto.com/articles/thinking_hard"
+        "link": "https://github.com/Antvirf/stui"
       },
       {
-        "title": "AI is killing B2B SaaS(nmn.gl)",
-        "summary": "By Namanyay Goel Feb 4 2026 Subscribe SaaS is the most profitable business model on Earth.",
-        "source": "Hacker News Front",
+        "title": "NativePHP for Mobile Goes Open Source(nativephp.com)",
+        "summary": "The core framework and essential plugins - everything you need to build and ship a native mobile app with Laravel - now costs absolutely nothing.",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://nmn.gl/blog/ai-killing-b2b-saas"
+        "link": "https://nativephp.com/blog/nativephp-for-mobile-is-now-free"
       },
       {
-        "title": "Claude Code: connect to a local model when your quota runs out(boxc.net)",
-        "summary": "If you want to keep going, you can connect to a local open source model instead of Anthropic.",
-        "source": "Hacker News Front",
+        "title": "Show HN: Loader.land \u2013 dotfiles management for AI coding assistants(loader.land)",
+        "summary": "# Cloud-Loader API AI Agent Services: Migration, MD Storage, Loader Tracker.",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/"
+        "link": "https://loader.land"
       },
       {
-        "title": "Building a 24-bit arcade CRT display adapter from scratch(scd31.com)",
-        "summary": "In November, my friend and fellow Recurser, Frank , picked up an arcade machine for the Recurse Center.",
-        "source": "Hacker News Front",
+        "title": "Open access, gen AI, and the criminology evidence base(crimrxiv.com)",
+        "summary": "We examined how deep-research tools from three popular genAI platforms handle criminology literature reviews.",
+        "source": "Hacker News New",
         "category": "Tech News",
-        "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter"
+        "link": "https://www.crimrxiv.com/pub/fgqe5t6c/release/2"
       }
     ]
   }
