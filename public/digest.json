@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 19:55 IST",
+  "generated_at": "2026-02-05 19:56 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -142,11 +142,11 @@
         "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
       },
       {
-        "title": "The Missing Layer(yagmin.com)",
-        "summary": "Vibe coding is too much work.",
+        "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp(github.com/vkazanov)",
+        "summary": "ElCity (Emacs Lisp City) Overview ElCity is a small, turn-based city builder that runs entirely inside Emacs.",
         "source": "Hacker News Top",
         "category": "Tech News",
-        "link": "https://yagmin.com/blog/the-missing-layer/"
+        "link": "https://github.com/vkazanov/elcity"
       }
     ],
     "COMMUNITY": [
