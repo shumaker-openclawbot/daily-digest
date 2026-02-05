@@ -32,11 +32,11 @@
         "link": "https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/"
       },
       {
-        "title": "Don't rent the cloud, own instead",
-        "summary": "Comments",
-        "source": "Hacker News",
+        "title": "Astro in 2026: Why It's Beating Next.js for Content Sites (And What Cloudflare's Acquisition Means)",
+        "summary": "Astro just got acquired by Cloudflare. Astro 6 beta dropped three weeks ago. The web development landscape shifted.\n\nIf you're building content-driven sites\u2014blogs, marketing pages, documentation, e-co",
+        "source": "Dev.to",
         "category": "Cloud/Infrastructure",
-        "link": "https://blog.comma.ai/datacenter/"
+        "link": "https://dev.to/polliog/astro-in-2026-why-its-beating-nextjs-for-content-sites-and-what-cloudflares-acquisition-means-6kl"
       },
       {
         "title": "Puppetlabs Modules Roundup \u2013 January 2026",
@@ -150,6 +150,13 @@
         "link": "https://dev.to/vinnyumtech/optimizacion-de-rendimiento-en-interactive-reports-arquitectura-sobre-configuracion-2a9k"
       },
       {
+        "title": "The Trump administration exempts new nuclear reactors from environmental review",
+        "summary": "The announcement comes just days after NPR revealed the administration had secretly rewritten safety and environmental standards.",
+        "source": "NPR Tech",
+        "category": "Web Development",
+        "link": "https://www.npr.org/2026/02/02/nx-s1-5696525/trump-nuclear-safety-regulations-environmental-review"
+      },
+      {
         "title": "Unstacking CSS Stacking Contexts",
         "summary": "In CSS, we can create \u201cstacking contexts\u201d where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly",
         "source": "Smashing Magazine",
@@ -162,13 +169,6 @@
         "source": "Chromium Blog",
         "category": "Web Development",
         "link": "https://blog.chromium.org/2025/01/announcing-supporters-of-chromium-based.html"
-      },
-      {
-        "title": "The Trump administration exempts new nuclear reactors from environmental review",
-        "summary": "The announcement comes just days after NPR revealed the administration had secretly rewritten safety and environmental standards.",
-        "source": "NPR Tech",
-        "category": "Web Development",
-        "link": "https://www.npr.org/2026/02/02/nx-s1-5696525/trump-nuclear-safety-regulations-environmental-review"
       },
       {
         "title": "What the fastest-growing tools reveal about how software is being built",
@@ -201,18 +201,18 @@
         "link": "https://inc42.com/buzz/pb-fintech-shares-surge-after-co-cancels-board-meet-to-mull-qip/"
       },
       {
-        "title": "Company as Code",
-        "summary": "Comments",
-        "source": "YC News",
+        "title": "Performance Tuning in Interactive Reports: Architecture Over Page Building",
+        "summary": "When \"Flexible\" Becomes \"Slow\"\n\n\n\ud83c\uddea\ud83c\uddf8 Leer en Espa\u00f1ol\n\nYou\u2019ve seen it before: a report that worked perfectly in dev with 100 rows starts to \"spin\" for 5 minutes in production with 100,000. The",
+        "source": "Dev.to",
         "category": "Tech News",
-        "link": "https://blog.42futures.com/p/company-as-code"
+        "link": "https://dev.to/vinnyumtech/performance-tuning-in-interactive-reports-architecture-over-page-building-1aol"
       },
       {
-        "title": "When internal hostnames are leaked to the clown",
-        "summary": "Comments",
-        "source": "YC News",
+        "title": "How to Start a Forex Brokerage Firm",
+        "summary": "Key takeaways\n\nYou can launch as an introducing broker (IB), go white-label, or build your own brokerage stack\u2014the trade-off is speed vs. control vs. risk.\nIn 2026, the hardest parts are usually lic",
+        "source": "Dev.to",
         "category": "Tech News",
-        "link": "https://rachelbythebay.com/w/2026/02/03/badnas/"
+        "link": "https://dev.to/devexperts/how-to-start-a-forex-brokerage-firm-3lm9"
       }
     ]
   }
