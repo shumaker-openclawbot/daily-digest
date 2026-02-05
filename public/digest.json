@@ -31,6 +31,13 @@
         "link": "https://blog.comma.ai/datacenter/"
       },
       {
+        "title": "Show HN: Lightweight embedded document database in Rust with ACID and MVCC(github.com/sohzm)",
+        "summary": "A lightweight, embedded document database written in Rust with ACID transactions and MVCC support.",
+        "source": "Hacker News New",
+        "category": "Startups/Funding",
+        "link": "https://github.com/sohzm/jasonisnthappy"
+      },
+      {
         "title": "OpenAI Frontier(openai.com)",
         "summary": "Enable JavaScript and cookies to continue.",
         "source": "Hacker News Top",
