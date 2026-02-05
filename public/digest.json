@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05 20:31 IST",
+  "generated_at": "2026-02-05 20:32 IST",
   "sections": {
     "TOP NEWS": [
       {
@@ -158,6 +158,13 @@
         "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
       },
       {
+        "title": "Fined $48k for using a jammer to keep commuters from using phones while driving(fcc.gov)",
+        "summary": "Fined $48k for using a jammer to keep commuters from using phones while driving",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://transition.fcc.gov/eb/Orders/2014/FCC-14-55A1.html"
+      },
+      {
         "title": "Simply Scheme: Introducing Computer Science (1999)(eecs.berkeley.edu)",
         "summary": "Simply Scheme: Introducing Computer Science",
         "source": "Hacker News Top",
@@ -177,13 +184,6 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://yagmin.com/blog/the-missing-layer/"
-      },
-      {
-        "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp(github.com/vkazanov)",
-        "summary": "ElCity (Emacs Lisp City) Overview ElCity is a small, turn-based city builder that runs entirely inside Emacs.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://github.com/vkazanov/elcity"
       }
     ]
   }
