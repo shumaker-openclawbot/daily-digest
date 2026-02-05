@@ -158,13 +158,6 @@
         "link": "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom"
       },
       {
-        "title": "CIA to Sunset the World Factbook(abc.net.au)",
-        "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
-      },
-      {
         "title": "A Broken Heart(allenpike.com)",
         "summary": "Like, it had been loading in a single second, but now it was taking ten seconds.",
         "source": "Hacker News Top",
@@ -177,6 +170,13 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
+      },
+      {
+        "title": "CIA to Sunset the World Factbook(abc.net.au)",
+        "summary": "( Reuters: Larry Downing ) The US Central Intelligence Agency (CIA) has announced it will cease publishing the World Factbook, a free on.",
+        "source": "Hacker News Top",
+        "category": "Tech News",
+        "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
       }
     ]
   }
