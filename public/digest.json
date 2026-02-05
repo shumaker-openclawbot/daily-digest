@@ -114,6 +114,13 @@
     ],
     "DEVELOPMENT": [
       {
+        "title": "Show HN: One Awk file \u2013 forever HTML frameset docs(github.com/tirrenotechnologies)",
+        "summary": "hellodocs Embedded project documentation.",
+        "source": "Hacker News New",
+        "category": "Web Development",
+        "link": "https://github.com/tirrenotechnologies/hellodocs"
+      },
+      {
         "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "summary": "Craftplan \u2013 I built my wife a production management tool for her bakery(github.com/puemos)",
         "source": "Hacker News Front",
@@ -147,13 +154,6 @@
         "source": "Hacker News Top",
         "category": "Tech News",
         "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
-      },
-      {
-        "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp(github.com/vkazanov)",
-        "summary": "ElCity (Emacs Lisp City) Overview ElCity is a small, turn-based city builder that runs entirely inside Emacs.",
-        "source": "Hacker News Top",
-        "category": "Tech News",
-        "link": "https://github.com/vkazanov/elcity"
       }
     ],
     "COMMUNITY": [
