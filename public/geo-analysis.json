@@ -1,0 +1,1498 @@
+{
+  "generated_at": "2026-02-06 10:19 ",
+  "total_articles": 40,
+  "methodology": {
+    "description": "Deep geopolitical analysis focusing on incentives, power dynamics, and hidden narratives",
+    "themes": [
+      "Trade & Sovereignty - Who surrenders what, who profits",
+      "Capital Flows - Investment strings, debt traps, leverage",
+      "Power & Dominance - Hegemony, influence, control",
+      "Military & Security - Wars, conflicts, resource competition",
+      "Resources & Extraction - Who controls what, at what cost",
+      "Elite Accountability - Corruption, conflicts of interest, whose interests are really served",
+      "Propaganda & Narratives - What story is being told vs. reality",
+      "Sovereignty Loss - Permanent concessions, constraints, obligations"
+    ]
+  },
+  "themes": {
+    "trade_sovereignty": {
+      "name": "Trade & Sovereignty",
+      "icon": "\ud83d\udcbc",
+      "article_count": 5,
+      "articles": [
+        {
+          "title": "Mexico\u2019s tariffs on India are a double whammy after US tariffs",
+          "link": "https://www.aljazeera.com/economy/2026/2/6/mexicos-tariffs-on-india-are-a-double-whammy-after-us-tariffs?traffic_source=rss",
+          "summary": "The steep hikes by Mexico have devastated several Indian industries already reeling under crushing US tariffs.",
+          "source": "Al Jazeera - World",
+          "published": "Fri, 06 Feb 2026 08:44:53 +0000",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc"
+            }
+          ],
+          "countries": [
+            "MEXICO",
+            "INDIA"
+          ],
+          "entities": [
+            "Mexico\u2019s",
+            "India"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcbc Trade & Sovereignty",
+            "\ud83c\udf0d Players: MEXICO, INDIA",
+            "\u26a0\ufe0f Red flags: Trade dynamics - who pays, who profits",
+            "\u2753 Who pays? Who profits? What's the real cost?"
+          ]
+        },
+        {
+          "title": "US Government Removes Embargo on Arms Sales to Cambodia",
+          "link": "https://thediplomat.com/2026/02/us-government-removes-embargo-on-arms-sales-to-cambodia/",
+          "summary": "The Department of Commerce's ruling is the latest sign of the positive momentum in relations between Phnom Penh and Washington.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 09:15:00 +0900",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Cambodia",
+            "Removes",
+            "Sales",
+            "Arms",
+            "Government"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcbc Trade & Sovereignty"
+          ]
+        },
+        {
+          "title": "The Paradox of Wartime Commerce",
+          "link": "https://www.foreignaffairs.com/united-states/paradox-wartime-commerce",
+          "summary": "Why states keep trading even in the midst of conflict.",
+          "source": "Foreign Affairs",
+          "published": "Tue, 03 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Wartime",
+            "The",
+            "Paradox",
+            "Commerce"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcbc Trade & Sovereignty, \ud83d\udd2b Military & Security",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Watch: Trump calls for new nuclear treaty as New START expires",
+          "link": "https://www.thehindu.com/videos/watch-trump-calls-for-new-nuclear-treaty-as-new-start-expires/article70599193.ece",
+          "summary": "U.S. President Donald Trump has called for a new nuclear arms treaty after the New START agreement with Russia expired, sparking fears of a renewed global arms race.",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 13:08:29 +0530",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "entities": [
+            "START",
+            "New",
+            "Trump",
+            "Watch:"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcbc Trade & Sovereignty, \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: RUSSIA",
+            "\u26a0\ufe0f Red flags: Deal announced without clear benefit analysis"
+          ]
+        },
+        {
+          "title": "Indonesia, Australia sign new security treaty to affirm deeper ties",
+          "link": "https://www.thehindu.com/news/international/indonesia-australia-sign-new-security-treaty-to-affirm-deeper-ties/article70598923.ece",
+          "summary": "Analysts said the treaty is becoming increasingly important to Australia in the face of growing tensions with China in the region",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 12:32:57 +0530",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc"
+            },
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            }
+          ],
+          "countries": [
+            "CHINA"
+          ],
+          "entities": [
+            "Indonesia",
+            "Australia"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcbc Trade & Sovereignty, \ud83d\udcb0 Capital Flows & Debt",
+            "\ud83c\udf0d Players: CHINA"
+          ]
+        }
+      ]
+    },
+    "capital_flows": {
+      "name": "Capital Flows & Debt",
+      "icon": "\ud83d\udcb0",
+      "article_count": 12,
+      "articles": [
+        {
+          "title": "\u2018They killed my sons\u2019: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+          "summary": "<p>Umar Bio Salihu, 53, the local head of Woro in Kwara state, says gunmen \u2018just came in and started shooting\u2019</p><p>The traditional chief of a village in western Nigeria where <a href=\"https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross\">jihadists massacred residents ",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 20:33:00 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Nigerian"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Ugandan opposition leader still in hiding as feud with president\u2019s son escalates",
+          "link": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+          "summary": "<p>Bobi Wine\u2019s whereabouts unknown since he fled what he said was night raid on his home by police and military</p><p>Bobi Wine, Uganda\u2019s most prominent opposition figure, remains in hiding nearly three weeks after a <a href=\"https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 12:07:57 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [
+            "AFRICA"
+          ],
+          "entities": [
+            "Ugandan"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: AFRICA",
+            "\u26a0\ufe0f Red flags: Check conflict of interest - follow the money",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Death of Nigerian singer after snakebite highlights crisis of \u2018preventable\u2019 fatalities",
+          "link": "https://www.theguardian.com/global-development/2026/feb/04/death-of-nigerian-singer-highlights-crisis-of-preventable-snakebite-fatalities",
+          "summary": "<p>Ifunanya Nwangene died in hospital after being bitten in her Abuja home, raising questions about&nbsp;the availability of effective antivenoms</p><p>In a last message to her friends, Ifunanya Nwangene wrote: \u201cPlease come.\u201d</p><p>The 26-year-old singer and former contestant on The Voice Nigeria ha",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 10:00:39 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Nigerian",
+            "Death"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt"
+          ]
+        },
+        {
+          "title": "Trump-led abuses amid \u2018democratic recession\u2019 put human rights in peril, HRW report says",
+          "link": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
+          "summary": "<p>Rights group says growing authoritarianism and abuses in US, Russia and China threaten global rules-based order</p><p>The world is in a \u201cdemocratic recession\u201d with almost three-quarters of the global population now living under autocratic rulers \u2013 levels not seen since the 1980s, according to a n",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 00:01:28 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            }
+          ],
+          "countries": [
+            "RUSSIA",
+            "CHINA"
+          ],
+          "entities": [
+            "HRW",
+            "Trump-led"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt",
+            "\ud83c\udf0d Players: RUSSIA, CHINA"
+          ]
+        },
+        {
+          "title": "Cuba open to talks with US \u2018without pressure\u2019 after months of Trump threats",
+          "link": "https://www.theguardian.com/world/2026/feb/05/trump-cuba-us-talks",
+          "summary": "<p>Miguel D\u00edaz\u2011Canel says Cuba is willing to engage Washington amid the island\u2019s deepening economic crisis</p><p>After months of threats from <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, the president of <a href=\"https://www.theguardian.com/world/cuba+americas\">Cuba</a",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 18:26:26 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Trump",
+            "Cuba"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\u26a0\ufe0f Red flags: Sovereignty at stake - examine concessions",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Eight current and former Toronto police arrested in organized crime inquiry",
+          "link": "https://www.theguardian.com/world/2026/feb/05/toronto-police-organized-crime-canada",
+          "summary": "<p>Investigation exposes \u2018corrosive\u2019 reach of organized crime in Canada, with links to bribes, drug trade and a murder plot</p><p>At least eight current and former <a href=\"https://www.theguardian.com/world/toronto--news-\">Toronto</a> police officers have been arrested following a sweeping investiga",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 17:34:41 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Toronto",
+            "Eight"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt",
+            "\u26a0\ufe0f Red flags: Trade dynamics - who pays, who profits"
+          ]
+        },
+        {
+          "title": "Maduro\u2019s alleged frontman Alex Saab reportedly detained in Caracas",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
+          "summary": "<p>FBI and Venezuela\u2019s intelligence agency also reportedly arrest billionaire media mogul Ra\u00fal Gorr\u00edn at same address</p><p>A close and powerful associate of the deposed Venezuelan president Nicol\u00e1s Maduro has reportedly been detained during a joint operation by Venezuela\u2019s intelligence agency and t",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 10:30:34 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Maduro\u2019s",
+            "Alex",
+            "Caracas",
+            "Saab"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \u26a1 Power & Dominance",
+            "\u26a0\ufe0f Red flags: Sovereignty at stake - examine concessions"
+          ]
+        },
+        {
+          "title": "Bill seeking to scrap pension benefits to Sri Lankan MPs gets Supreme Court nod",
+          "link": "https://www.thehindu.com/news/international/bill-seeking-to-scrap-pension-benefits-to-sri-lankan-mps-gets-supreme-court-nod/article70599294.ece",
+          "summary": "This comes after the Supreme Court was hearing on five fundamental rights petitions seeking the court's intervention to declare that the Bill was inconsistent with the Constitution",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 14:44:09 +0530",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Sri",
+            "Lankan",
+            "Supreme",
+            "Court",
+            "Bill"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt",
+            "\u2753 Capital strings attached? What's the leverage being built?"
+          ]
+        },
+        {
+          "title": "A deputy chief of Russian military intelligence was shot and wounded in Moscow",
+          "link": "https://www.thehindu.com/news/international/a-deputy-chief-of-russian-military-intelligence-was-shot-and-wounded-in-moscow/article70599302.ece",
+          "summary": "Lt. Gen. Vladimir Alekseyev was shot several time by an unidentified assailant in Moscow, Investigative Committee spokesperson Svetlana Petrenko said",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 14:13:34 +0530",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "entities": [
+            "Russian",
+            "Moscow"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: RUSSIA",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Death toll rises to 13 in bus mishap in western Nepal",
+          "link": "https://www.thehindu.com/news/international/death-toll-nepal-bus-mishap-friday-updates/article70599115.ece",
+          "summary": "Rescue workers said the accident likely occurred after a pressure pipe burst while the heavily loaded bus was climbing uphill",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 13:04:38 +0530",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Nepal",
+            "Death"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt"
+          ]
+        },
+        {
+          "title": "Indonesia, Australia sign new security treaty to affirm deeper ties",
+          "link": "https://www.thehindu.com/news/international/indonesia-australia-sign-new-security-treaty-to-affirm-deeper-ties/article70598923.ece",
+          "summary": "Analysts said the treaty is becoming increasingly important to Australia in the face of growing tensions with China in the region",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 12:32:57 +0530",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc"
+            },
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            }
+          ],
+          "countries": [
+            "CHINA"
+          ],
+          "entities": [
+            "Indonesia",
+            "Australia"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcbc Trade & Sovereignty, \ud83d\udcb0 Capital Flows & Debt",
+            "\ud83c\udf0d Players: CHINA"
+          ]
+        },
+        {
+          "title": "Kashmir will become a part of Pakistan: Shehbaz Sharif tells PoK Assembly",
+          "link": "https://www.thehindu.com/news/international/kashmir-will-become-a-part-of-pakistan-shehbaz-sharif-tells-pok-assembly/article70598807.ece",
+          "summary": "Mr. Shehbaz said that he had come to stand in solidarity with \"our brothers in Kashmir on behalf of the Pakistani people and the Pakistani leadership\"",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 11:43:29 +0530",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            }
+          ],
+          "countries": [
+            "PAKISTAN"
+          ],
+          "entities": [
+            "Assembly",
+            "Kashmir",
+            "Shehbaz",
+            "Sharif",
+            "PoK"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt",
+            "\ud83c\udf0d Players: PAKISTAN",
+            "\u26a0\ufe0f Red flags: Check conflict of interest - follow the money",
+            "\u2753 Follow their funding sources - whose interests do they represent?"
+          ]
+        }
+      ]
+    },
+    "power_dynamics": {
+      "name": "Power & Dominance",
+      "icon": "\u26a1",
+      "article_count": 9,
+      "articles": [
+        {
+          "title": "\u2018Magical atmosphere\u2019: Kite fever lights up Lahore as Basant boosts economy",
+          "link": "https://www.aljazeera.com/features/2026/2/6/magical-atmosphere-kite-fever-lights-up-lahore-as-basant-boosts-economy?traffic_source=rss",
+          "summary": "Spring festival comeback injects millions of dollars into local economy as businesses cash in on Basant frenzy.",
+          "source": "Al Jazeera - World",
+          "published": "Fri, 06 Feb 2026 08:57:38 +0000",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Kite",
+            "Basant",
+            "Lahore"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance"
+          ]
+        },
+        {
+          "title": "Maduro\u2019s alleged frontman Alex Saab reportedly detained in Caracas",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
+          "summary": "<p>FBI and Venezuela\u2019s intelligence agency also reportedly arrest billionaire media mogul Ra\u00fal Gorr\u00edn at same address</p><p>A close and powerful associate of the deposed Venezuelan president Nicol\u00e1s Maduro has reportedly been detained during a joint operation by Venezuela\u2019s intelligence agency and t",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 10:30:34 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Maduro\u2019s",
+            "Alex",
+            "Caracas",
+            "Saab"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \u26a1 Power & Dominance",
+            "\u26a0\ufe0f Red flags: Sovereignty at stake - examine concessions"
+          ]
+        },
+        {
+          "title": "Indonesia\u2019s Eighty Billion Dollar Wake-Up Call",
+          "link": "https://thediplomat.com/2026/02/indonesias-eighty-billion-dollar-wake-up-call/",
+          "summary": "The country's recent stock crash was a clear warning that the world will no longer invest in a market dominated by a handful of powerful families.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 06:51:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Eighty",
+            "Dollar",
+            "Billion",
+            "Indonesia\u2019s",
+            "Wake-Up"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance, \ud83d\udd2b Military & Security",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Bangladesh\u2019s 2026 Election Is a Litmus Test for Global Democratic Revival",
+          "link": "https://thediplomat.com/2026/02/bangladeshs-2026-election-is-a-litmus-test-for-global-democratic-revival/",
+          "summary": "If successful, Bangladesh could inspire beleaguered democrats across Asia and beyond. If not, it risks validating the resilience of hybrid regimes that mimic elections while stifling competition.",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 23:16:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            }
+          ],
+          "countries": [
+            "BANGLADESH",
+            "ASIA"
+          ],
+          "entities": [
+            "Election",
+            "Test",
+            "Litmus",
+            "Bangladesh\u2019s",
+            "Revival"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance",
+            "\ud83c\udf0d Players: BANGLADESH, ASIA",
+            "\u2753 Follow their funding sources - whose interests do they represent?"
+          ]
+        },
+        {
+          "title": "China and the US Want Africa\u2019s Critical Minerals. Will African Countries Actually Benefit?",
+          "link": "https://thediplomat.com/2026/02/china-and-the-us-want-africas-critical-minerals-will-african-countries-actually-benefit/",
+          "summary": "Amid the great power competition, do either the U.S. or Chinese strategies advance Africa\u2019s own vision for developing the continent\u2019s mining sector?",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 23:15:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "resources_extraction",
+              "name": "Resources & Extraction",
+              "icon": "\ud83e\udea8"
+            }
+          ],
+          "countries": [
+            "AFRICA",
+            "CHINA"
+          ],
+          "entities": [
+            "Will",
+            "Africa\u2019s",
+            "Critical",
+            "Countries",
+            "African"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance, \ud83e\udea8 Resources & Extraction",
+            "\ud83c\udf0d Players: AFRICA, CHINA"
+          ]
+        },
+        {
+          "title": "Europe\u2019s Next Hegemon",
+          "link": "https://www.foreignaffairs.com/germany/europes-next-hegemon-liana-fix",
+          "summary": "The perils of German power.",
+          "source": "Foreign Affairs",
+          "published": "Fri, 06 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            }
+          ],
+          "countries": [
+            "EUROPE"
+          ],
+          "entities": [
+            "Next",
+            "Europe\u2019s",
+            "Hegemon"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance",
+            "\ud83c\udf0d Players: EUROPE"
+          ]
+        },
+        {
+          "title": "The Real Risks of the Saudi-UAE Feud",
+          "link": "https://www.foreignaffairs.com/united-states/real-risks-saudi-uae-feud",
+          "summary": "Regional rivalry will raise tensions far beyond the Gulf.",
+          "source": "Foreign Affairs",
+          "published": "Fri, 06 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            }
+          ],
+          "countries": [
+            "SAUDI",
+            "UAE"
+          ],
+          "entities": [
+            "Saudi-UAE",
+            "Risks",
+            "Real",
+            "Feud",
+            "The"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance",
+            "\ud83c\udf0d Players: SAUDI, UAE"
+          ]
+        },
+        {
+          "title": "The Limits of Russian Power",
+          "link": "https://www.foreignaffairs.com/russia/limits-russian-power",
+          "summary": "Why Putin isn\u2019t thriving in Trump\u2019s anarchic world.",
+          "source": "Foreign Affairs",
+          "published": "Thu, 05 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "entities": [
+            "Russian",
+            "Limits",
+            "The",
+            "Power"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance",
+            "\ud83c\udf0d Players: RUSSIA"
+          ]
+        },
+        {
+          "title": "There Is Only One Sphere of Influence",
+          "link": "https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence",
+          "summary": "America can project power with little constraint\u2014and its rivals cannot.",
+          "source": "Foreign Affairs",
+          "published": "Wed, 04 Feb 2026 00:30:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "One",
+            "Only",
+            "Sphere",
+            "There",
+            "Influence"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance, \ud83d\udea9 Sovereignty Loss"
+          ]
+        }
+      ]
+    },
+    "military_security": {
+      "name": "Military & Security",
+      "icon": "\ud83d\udd2b",
+      "article_count": 15,
+      "articles": [
+        {
+          "title": "NBA roundup: Lakers stop 76ers despite Luka Doncic\u2019s injury exit",
+          "link": "https://www.aljazeera.com/sports/2026/2/6/nba-roundup-lakers-stop-76ers-despite-luka-doncics-injury-exit?traffic_source=rss",
+          "summary": "Lakers beat 76ers 119-115 in NBA, as Spurs, Wizards, Raptors, Hornets, Magic, Hawks and Warriors also record victories.",
+          "source": "Al Jazeera - World",
+          "published": "Fri, 06 Feb 2026 09:17:42 +0000",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "UK"
+          ],
+          "entities": [
+            "Lakers",
+            "Luka",
+            "Doncic\u2019s",
+            "NBA"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: UK",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Armed militia members are serving as Israeli agents in Gaza: Investigation",
+          "link": "https://www.aljazeera.com/news/2026/2/6/armed-militia-members-are-serving-as-israeli-agents-in-gaza-investigation?traffic_source=rss",
+          "summary": "Al Jazeera documentary identifies Gaza armed groups working with Israeli forces.",
+          "source": "Al Jazeera - World",
+          "published": "Fri, 06 Feb 2026 08:34:24 +0000",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "ISRAEL"
+          ],
+          "entities": [
+            "Armed",
+            "Israeli",
+            "Gaza:",
+            "Investigation"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: ISRAEL"
+          ]
+        },
+        {
+          "title": "\u2018They killed my sons\u2019: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+          "summary": "<p>Umar Bio Salihu, 53, the local head of Woro in Kwara state, says gunmen \u2018just came in and started shooting\u2019</p><p>The traditional chief of a village in western Nigeria where <a href=\"https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross\">jihadists massacred residents ",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 20:33:00 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Nigerian"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Gunmen kill more than 160 people in attacks on two west Nigeria villages",
+          "link": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+          "summary": "<p>Local politician says armed men rounded up residents, bound their hands behind their backs and shot them</p><p>More than 160 people have been killed in two villages in western Nigeria in the country\u2019s deadliest armed assaults this year, as communities reel from repeated and widespread acts of vio",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 17:40:32 GMT",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "UK"
+          ],
+          "entities": [
+            "Gunmen",
+            "Nigeria"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: UK",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Ugandan opposition leader still in hiding as feud with president\u2019s son escalates",
+          "link": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+          "summary": "<p>Bobi Wine\u2019s whereabouts unknown since he fled what he said was night raid on his home by police and military</p><p>Bobi Wine, Uganda\u2019s most prominent opposition figure, remains in hiding nearly three weeks after a <a href=\"https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 12:07:57 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [
+            "AFRICA"
+          ],
+          "entities": [
+            "Ugandan"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: AFRICA",
+            "\u26a0\ufe0f Red flags: Check conflict of interest - follow the money",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Cuba open to talks with US \u2018without pressure\u2019 after months of Trump threats",
+          "link": "https://www.theguardian.com/world/2026/feb/05/trump-cuba-us-talks",
+          "summary": "<p>Miguel D\u00edaz\u2011Canel says Cuba is willing to engage Washington amid the island\u2019s deepening economic crisis</p><p>After months of threats from <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, the president of <a href=\"https://www.theguardian.com/world/cuba+americas\">Cuba</a",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 18:26:26 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Trump",
+            "Cuba"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\u26a0\ufe0f Red flags: Sovereignty at stake - examine concessions",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Maduro\u2019s alleged frontman Alex Saab reportedly detained in Caracas",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
+          "summary": "<p>FBI and Venezuela\u2019s intelligence agency also reportedly arrest billionaire media mogul Ra\u00fal Gorr\u00edn at same address</p><p>A close and powerful associate of the deposed Venezuelan president Nicol\u00e1s Maduro has reportedly been detained during a joint operation by Venezuela\u2019s intelligence agency and t",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 10:30:34 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Maduro\u2019s",
+            "Alex",
+            "Caracas",
+            "Saab"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \u26a1 Power & Dominance",
+            "\u26a0\ufe0f Red flags: Sovereignty at stake - examine concessions"
+          ]
+        },
+        {
+          "title": "Indonesia\u2019s Eighty Billion Dollar Wake-Up Call",
+          "link": "https://thediplomat.com/2026/02/indonesias-eighty-billion-dollar-wake-up-call/",
+          "summary": "The country's recent stock crash was a clear warning that the world will no longer invest in a market dominated by a handful of powerful families.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 06:51:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Eighty",
+            "Dollar",
+            "Billion",
+            "Indonesia\u2019s",
+            "Wake-Up"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance, \ud83d\udd2b Military & Security",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "In Kyrgyzstan, US Special Envoy Gor Brushes Aside Visa Restrictions, Promotes Business",
+          "link": "https://thediplomat.com/2026/02/in-kyrgyzstan-us-special-envoy-gor-brushes-aside-visa-restrictions-promotes-business/",
+          "summary": "U.S. policy toward Central Asia has narrowed to the economic realm.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 00:40:00 +0900",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9"
+            }
+          ],
+          "countries": [
+            "ASIA"
+          ],
+          "entities": [
+            "Kyrgyzstan",
+            "Brushes",
+            "Promotes",
+            "Visa",
+            "Restrictions"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udd2b Military & Security, \ud83d\udea9 Sovereignty Loss",
+            "\ud83c\udf0d Players: ASIA",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Strength Over Peace",
+          "link": "https://www.foreignaffairs.com/united-states/strength-over-peace",
+          "summary": "Venezuela, Iran, and the dicey politics of military intervention.",
+          "source": "Foreign Affairs",
+          "published": "Thu, 05 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "IRAN"
+          ],
+          "entities": [
+            "Strength",
+            "Over",
+            "Peace"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: IRAN",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "The Paradox of Wartime Commerce",
+          "link": "https://www.foreignaffairs.com/united-states/paradox-wartime-commerce",
+          "summary": "Why states keep trading even in the midst of conflict.",
+          "source": "Foreign Affairs",
+          "published": "Tue, 03 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Wartime",
+            "The",
+            "Paradox",
+            "Commerce"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcbc Trade & Sovereignty, \ud83d\udd2b Military & Security",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "A deputy chief of Russian military intelligence was shot and wounded in Moscow",
+          "link": "https://www.thehindu.com/news/international/a-deputy-chief-of-russian-military-intelligence-was-shot-and-wounded-in-moscow/article70599302.ece",
+          "summary": "Lt. Gen. Vladimir Alekseyev was shot several time by an unidentified assailant in Moscow, Investigative Committee spokesperson Svetlana Petrenko said",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 14:13:34 +0530",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "entities": [
+            "Russian",
+            "Moscow"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: RUSSIA",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Watch: Trump calls for new nuclear treaty as New START expires",
+          "link": "https://www.thehindu.com/videos/watch-trump-calls-for-new-nuclear-treaty-as-new-start-expires/article70599193.ece",
+          "summary": "U.S. President Donald Trump has called for a new nuclear arms treaty after the New START agreement with Russia expired, sparking fears of a renewed global arms race.",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 13:08:29 +0530",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "entities": [
+            "START",
+            "New",
+            "Trump",
+            "Watch:"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcbc Trade & Sovereignty, \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: RUSSIA",
+            "\u26a0\ufe0f Red flags: Deal announced without clear benefit analysis"
+          ]
+        },
+        {
+          "title": "US, China opt out of joint declaration on AI use in military",
+          "link": "https://www.thehindu.com/sci-tech/technology/us-china-opt-out-of-joint-declaration-on-ai-use-in-military/article70598519.ece",
+          "summary": "The pledge underscores growing concern \u2060among some governments that rapid advances in artificial intelligence could outpace rules around its military use",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 13:04:34 +0530",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "CHINA"
+          ],
+          "entities": [
+            "China",
+            "US"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: CHINA",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "'Good friend in Washington nearing century but PM silent': Congress as Trump repeats India-Pakistan claim",
+          "link": "https://www.thehindu.com/news/national/good-friend-in-washington-nearing-century-but-pm-silent-congress-as-trump-repeats-india-pakistan-claim/article70598711.ece",
+          "summary": "Jairam Ramesh\u2019s remarks come after Mr. Trump repeated twice in a single day the claim that he stopped the war between India and Pakistan last year",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 12:00:15 +0530",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            }
+          ],
+          "countries": [
+            "PAKISTAN",
+            "INDIA"
+          ],
+          "entities": [
+            "Congress",
+            "India-Pakistan",
+            "Trump",
+            "Washington"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: PAKISTAN, INDIA",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        }
+      ]
+    },
+    "resources_extraction": {
+      "name": "Resources & Extraction",
+      "icon": "\ud83e\udea8",
+      "article_count": 1,
+      "articles": [
+        {
+          "title": "China and the US Want Africa\u2019s Critical Minerals. Will African Countries Actually Benefit?",
+          "link": "https://thediplomat.com/2026/02/china-and-the-us-want-africas-critical-minerals-will-african-countries-actually-benefit/",
+          "summary": "Amid the great power competition, do either the U.S. or Chinese strategies advance Africa\u2019s own vision for developing the continent\u2019s mining sector?",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 23:15:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "resources_extraction",
+              "name": "Resources & Extraction",
+              "icon": "\ud83e\udea8"
+            }
+          ],
+          "countries": [
+            "AFRICA",
+            "CHINA"
+          ],
+          "entities": [
+            "Will",
+            "Africa\u2019s",
+            "Critical",
+            "Countries",
+            "African"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance, \ud83e\udea8 Resources & Extraction",
+            "\ud83c\udf0d Players: AFRICA, CHINA"
+          ]
+        }
+      ]
+    },
+    "propaganda_narrative": {
+      "name": "Propaganda & Narratives",
+      "icon": "\ud83d\udcfa",
+      "article_count": 3,
+      "articles": [
+        {
+          "title": "Ugandan opposition leader still in hiding as feud with president\u2019s son escalates",
+          "link": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+          "summary": "<p>Bobi Wine\u2019s whereabouts unknown since he fled what he said was night raid on his home by police and military</p><p>Bobi Wine, Uganda\u2019s most prominent opposition figure, remains in hiding nearly three weeks after a <a href=\"https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 12:07:57 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [
+            "AFRICA"
+          ],
+          "entities": [
+            "Ugandan"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\ud83c\udf0d Players: AFRICA",
+            "\u26a0\ufe0f Red flags: Check conflict of interest - follow the money",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Cuba open to talks with US \u2018without pressure\u2019 after months of Trump threats",
+          "link": "https://www.theguardian.com/world/2026/feb/05/trump-cuba-us-talks",
+          "summary": "<p>Miguel D\u00edaz\u2011Canel says Cuba is willing to engage Washington amid the island\u2019s deepening economic crisis</p><p>After months of threats from <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, the president of <a href=\"https://www.theguardian.com/world/cuba+americas\">Cuba</a",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 18:26:26 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Trump",
+            "Cuba"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \ud83d\udd2b Military & Security",
+            "\u26a0\ufe0f Red flags: Sovereignty at stake - examine concessions",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "Maduro\u2019s alleged frontman Alex Saab reportedly detained in Caracas",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
+          "summary": "<p>FBI and Venezuela\u2019s intelligence agency also reportedly arrest billionaire media mogul Ra\u00fal Gorr\u00edn at same address</p><p>A close and powerful associate of the deposed Venezuelan president Nicol\u00e1s Maduro has reportedly been detained during a joint operation by Venezuela\u2019s intelligence agency and t",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 10:30:34 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt",
+              "icon": "\ud83d\udcb0"
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "Maduro\u2019s",
+            "Alex",
+            "Caracas",
+            "Saab"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udcb0 Capital Flows & Debt, \u26a1 Power & Dominance",
+            "\u26a0\ufe0f Red flags: Sovereignty at stake - examine concessions"
+          ]
+        }
+      ]
+    },
+    "sovereignty_loss": {
+      "name": "Sovereignty Loss",
+      "icon": "\ud83d\udea9",
+      "article_count": 2,
+      "articles": [
+        {
+          "title": "In Kyrgyzstan, US Special Envoy Gor Brushes Aside Visa Restrictions, Promotes Business",
+          "link": "https://thediplomat.com/2026/02/in-kyrgyzstan-us-special-envoy-gor-brushes-aside-visa-restrictions-promotes-business/",
+          "summary": "U.S. policy toward Central Asia has narrowed to the economic realm.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 00:40:00 +0900",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b"
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9"
+            }
+          ],
+          "countries": [
+            "ASIA"
+          ],
+          "entities": [
+            "Kyrgyzstan",
+            "Brushes",
+            "Promotes",
+            "Visa",
+            "Restrictions"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \ud83d\udd2b Military & Security, \ud83d\udea9 Sovereignty Loss",
+            "\ud83c\udf0d Players: ASIA",
+            "\u2753 Follow the resources/capital - what's really being fought over?"
+          ]
+        },
+        {
+          "title": "There Is Only One Sphere of Influence",
+          "link": "https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence",
+          "summary": "America can project power with little constraint\u2014and its rivals cannot.",
+          "source": "Foreign Affairs",
+          "published": "Wed, 04 Feb 2026 00:30:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1"
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9"
+            }
+          ],
+          "countries": [],
+          "entities": [
+            "One",
+            "Only",
+            "Sphere",
+            "There",
+            "Influence"
+          ],
+          "analysis": [
+            "\ud83c\udfaf Theme: \u26a1 Power & Dominance, \ud83d\udea9 Sovereignty Loss"
+          ]
+        }
+      ]
+    }
+  }
+}
