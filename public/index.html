@@ -3,363 +3,557 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daily Tech Digest</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <title>Daily Tech & Geopolitical Digest</title>
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-
+        
         body {
-            background: #000000;
-            color: #ffffff;
-            font-family: 'Merriweather', serif;
-            line-height: 1.8;
-            font-size: 16px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            color: #e0e0e0;
         }
-
-        /* Glassmorphic effect */
-        .glass {
+        
+        header {
+            background: rgba(0, 0, 0, 0.4);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 1.5rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        nav {
+            display: flex;
+            gap: 2rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        nav a {
+            color: #e0e0e0;
+            text-decoration: none;
+            font-weight: 500;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+        
+        nav a:hover,
+        nav a.active {
+            background: rgba(102, 126, 234, 0.2);
+            color: #667eea;
+            border: 1px solid rgba(102, 126, 234, 0.5);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .section-title {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .timestamp {
+            font-size: 0.9rem;
+            color: #999;
+            margin-bottom: 1rem;
+        }
+        
+        .content-section {
+            display: none;
+        }
+        
+        .content-section.active {
+            display: block;
+        }
+        
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+            gap: 2rem;
+        }
+        
+        .card {
             background: rgba(255, 255, 255, 0.05);
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.1);
             border-radius: 12px;
+            padding: 2rem;
+            transition: all 0.3s;
         }
-
-        header {
-            padding: 2rem 1rem;
-            text-align: center;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        
+        .card:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-color: rgba(102, 126, 234, 0.5);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.1);
         }
-
-        h1 {
-            font-size: 2.5rem;
+        
+        .card-headline {
+            font-size: 1.3rem;
             font-weight: 700;
-            letter-spacing: -1px;
-            margin-bottom: 0.5rem;
-            font-family: 'Inter', sans-serif;
-        }
-
-        .tagline {
-            font-size: 0.95rem;
-            color: rgba(255, 255, 255, 0.6);
-            font-style: italic;
-            font-family: 'Inter', sans-serif;
-        }
-
-        .timestamp {
-            font-size: 0.85rem;
-            color: rgba(255, 255, 255, 0.5);
-            margin-top: 0.5rem;
-        }
-
-        main {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 2rem 1rem;
-            padding-bottom: 100px;
-        }
-
-        section {
-            margin-bottom: 3rem;
-        }
-
-        h2 {
-            font-size: 1.4rem;
-            font-weight: 700;
-            margin-bottom: 1.5rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-family: 'Inter', sans-serif;
-            color: rgba(255, 255, 255, 0.95);
-        }
-
-        .article {
-            margin-bottom: 2rem;
-            padding-bottom: 2rem;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-        }
-
-        .article:last-child {
-            border-bottom: none;
-        }
-
-        .article-title {
-            font-size: 1.2rem;
-            font-weight: 700;
-            margin-bottom: 0.5rem;
+            color: #fff;
+            margin-bottom: 1rem;
             line-height: 1.4;
         }
-
-        .article-title a {
-            color: #ffffff;
-            text-decoration: none;
-            transition: color 0.2s ease;
+        
+        .card-signal {
+            background: rgba(102, 126, 234, 0.1);
+            border-left: 3px solid #667eea;
+            padding: 1rem;
+            margin-bottom: 1.2rem;
+            border-radius: 4px;
         }
-
-        .article-title a:hover {
-            color: rgba(255, 255, 255, 0.8);
+        
+        .card-signal-label {
+            font-size: 0.8rem;
+            color: #667eea;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
         }
-
-        .article-summary {
+        
+        .card-signal-text {
+            color: #e0e0e0;
             font-size: 0.95rem;
-            color: rgba(255, 255, 255, 0.8);
-            margin-bottom: 0.75rem;
-            font-style: italic;
+            line-height: 1.5;
         }
-
-        .article-meta {
+        
+        .card-field {
+            margin-bottom: 1.2rem;
+        }
+        
+        .card-label {
+            font-size: 0.75rem;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-weight: 600;
+            margin-bottom: 0.4rem;
+        }
+        
+        .card-value {
+            color: #e0e0e0;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+        
+        .card-actors {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 0;
+        }
+        
+        .actor-badge {
+            background: rgba(102, 126, 234, 0.2);
+            color: #667eea;
+            padding: 0.3rem 0.8rem;
+            border-radius: 4px;
             font-size: 0.85rem;
-            color: rgba(255, 255, 255, 0.5);
+            font-weight: 500;
+        }
+        
+        .card-bottom-line {
+            background: rgba(118, 75, 162, 0.1);
+            border-left: 3px solid #764ba2;
+            padding: 1rem;
+            margin-top: 1rem;
+            border-radius: 4px;
+        }
+        
+        .card-bottom-line-label {
+            font-size: 0.8rem;
+            color: #764ba2;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .card-bottom-line-text {
+            color: #e0e0e0;
+            font-size: 0.95rem;
+            font-weight: 500;
+        }
+        
+        .card-meta {
+            display: flex;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-top: 1.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 0.85rem;
+        }
+        
+        .meta-item {
+            display: flex;
+            flex-direction: column;
+            gap: 0.2rem;
+        }
+        
+        .meta-label {
+            color: #999;
+            text-transform: uppercase;
+            font-size: 0.7rem;
+            letter-spacing: 0.5px;
+            font-weight: 600;
+        }
+        
+        .meta-value {
+            color: #667eea;
+            font-weight: 500;
+        }
+        
+        .loading {
+            text-align: center;
+            color: #999;
+            font-size: 1.1rem;
+            padding: 2rem;
+        }
+        
+        .error {
+            background: rgba(255, 0, 0, 0.1);
+            color: #ff6b6b;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+        }
+        
+        .sections-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 1.5rem;
+        }
+        
+        .section {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 1.5rem;
+            transition: all 0.3s;
+        }
+        
+        .section h2 {
+            color: #667eea;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid rgba(102, 126, 234, 0.3);
+            padding-bottom: 0.5rem;
+        }
+        
+        .article {
+            margin-bottom: 1.2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        
+        .article-title {
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 0.4rem;
+            line-height: 1.4;
+        }
+        
+        .article a {
+            color: #667eea;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        
+        .article a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+        
+        .article-summary {
+            font-size: 0.85rem;
+            color: #aaa;
+            line-height: 1.5;
+            margin-bottom: 0.4rem;
+        }
+        
+        .article-meta {
+            font-size: 0.75rem;
+            color: #777;
             display: flex;
             gap: 1rem;
             flex-wrap: wrap;
         }
-
+        
         .source-badge {
-            display: inline-block;
-            background: rgba(255, 255, 255, 0.08);
-            padding: 0.25rem 0.75rem;
-            border-radius: 20px;
-            font-family: 'Inter', sans-serif;
-            font-size: 0.8rem;
-        }
-
-        .category-badge {
-            display: inline-block;
-            background: rgba(255, 255, 255, 0.05);
-            padding: 0.25rem 0.75rem;
-            border-radius: 20px;
-            font-family: 'Inter', sans-serif;
-            font-size: 0.8rem;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-
-        footer {
-            text-align: center;
-            padding: 2rem 1rem;
-            color: rgba(255, 255, 255, 0.4);
-            font-size: 0.9rem;
-            border-top: 1px solid rgba(255, 255, 255, 0.05);
-        }
-
-        /* Navigation */
-        .nav-bar {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: rgba(0, 0, 0, 0.95);
-            border-top: 1px solid rgba(255, 255, 255, 0.1);
-            padding: 1rem;
-            display: none;
-            justify-content: center;
-            z-index: 100;
-        }
-
-        .nav-bar nav {
-            display: flex;
-            gap: 2rem;
-            font-family: 'Inter', sans-serif;
-        }
-
-        .nav-bar a {
-            color: rgba(255, 255, 255, 0.8);
-            text-decoration: none;
-            font-size: 0.9rem;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            transition: color 0.2s ease;
-        }
-
-        .nav-bar a:hover {
-            color: #ffffff;
-        }
-
-        .section-link {
-            padding: 0.5rem 1rem;
-            border-radius: 6px;
-            background: rgba(255, 255, 255, 0.05);
-        }
-
-        /* Desktop */
-        @media (min-width: 1024px) {
-            .nav-bar {
-                display: none;
-            }
-        }
-
-        /* Tablet */
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 2rem;
-            }
-
-            h2 {
-                font-size: 1.2rem;
-            }
-
-            .article-title {
-                font-size: 1.1rem;
-            }
-
-            body {
-                font-size: 15px;
-            }
-
-            main {
-                padding-bottom: 120px;
-            }
-
-            .nav-bar {
-                display: flex;
-            }
-
-            header {
-                padding: 1.5rem 1rem;
-            }
-
-            main {
-                padding: 1.5rem 1rem;
-            }
-        }
-
-        @media (max-width: 480px) {
-            h1 {
-                font-size: 1.6rem;
-            }
-
-            h2 {
-                font-size: 1rem;
-            }
-
-            .article-title {
-                font-size: 0.95rem;
-            }
-
-            body {
-                font-size: 14px;
-            }
-
-            .article {
-                margin-bottom: 1.5rem;
-                padding-bottom: 1.5rem;
-            }
-
-            .nav-bar {
-                padding: 0.75rem 1rem;
-                bottom: 1rem;
-            }
-
-            .nav-bar nav {
-                gap: 1.5rem;
-            }
-
-            .nav-bar a {
-                font-size: 0.8rem;
-            }
-        }
-
-        /* Smooth scrolling */
-        html {
-            scroll-behavior: smooth;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 2rem;
-            color: rgba(255, 255, 255, 0.6);
-            font-family: 'Inter', sans-serif;
-        }
-
-        .error {
-            text-align: center;
-            padding: 2rem;
-            color: rgba(255, 255, 255, 0.5);
-            font-family: 'Inter', sans-serif;
+            background: rgba(102, 126, 234, 0.2);
+            color: #667eea;
+            padding: 0.2rem 0.6rem;
+            border-radius: 4px;
+            font-weight: 500;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Daily Tech Digest</h1>
-        <p class="tagline">Curated tech news. Every morning.</p>
-        <p class="timestamp" id="digest-time">Loading...</p>
+        <div class="header-content">
+            <h1>📊 Daily Intelligence Digest</h1>
+            <nav>
+                <a class="nav-link active" data-section="geopolitical">🌍 Geopolitical Analysis</a>
+                <a class="nav-link" data-section="tech">💻 Tech News</a>
+                <a class="nav-link" data-section="raw-news">📰 Raw News Feed</a>
+            </nav>
+        </div>
     </header>
-
-    <main id="content">
-        <div class="loading">Loading digest...</div>
-    </main>
-
-    <footer>
-        <p>Updated daily at 4:00 AM IST</p>
-        <p>© 2026 Daily Tech Digest</p>
-    </footer>
-
-    <!-- Bottom Nav Bar -->
-    <div class="nav-bar">
-        <nav>
-            <a href="#top-news" class="section-link">tech</a>
-        </nav>
+    
+    <div class="container">
+        <!-- Geopolitical Section -->
+        <div id="geopolitical" class="content-section active">
+            <h2 class="section-title">🌍 Geopolitical Analysis Cards</h2>
+            <p class="timestamp" id="geo-timestamp">Loading...</p>
+            <div id="geo-content" class="loading">Loading geopolitical analysis cards...</div>
+        </div>
+        
+        <!-- Tech Section -->
+        <div id="tech" class="content-section">
+            <h2 class="section-title">💻 Daily Tech Digest</h2>
+            <p class="timestamp" id="tech-timestamp">Loading...</p>
+            <div id="tech-content" class="loading">Loading tech digest...</div>
+        </div>
+        
+        <!-- Raw News Section -->
+        <div id="raw-news" class="content-section">
+            <h2 class="section-title">📰 Geopolitical News Feed</h2>
+            <p class="timestamp" id="feed-timestamp">Loading...</p>
+            <div id="feed-content" class="loading">Loading news feed...</div>
+        </div>
     </div>
-
+    
     <script>
-        async function loadDigest() {
+        // Navigation
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                
+                document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
+                document.querySelectorAll('.content-section').forEach(s => s.classList.remove('active'));
+                
+                this.classList.add('active');
+                const section = this.dataset.section;
+                document.getElementById(section).classList.add('active');
+                
+                // Load content if not loaded yet
+                if (section === 'geopolitical') loadGeopolitical();
+                else if (section === 'tech') loadTech();
+                else if (section === 'raw-news') loadRawNews();
+            });
+        });
+        
+        // Load Geopolitical Cards
+        async function loadGeopolitical() {
             try {
-                // Fetch the live digest JSON
+                const response = await fetch('./geo-analysis-cards-top10.json');
+                if (!response.ok) throw new Error('Failed to load cards');
+                
+                const data = response.json().then(data => {
+                    const content = document.getElementById('geo-content');
+                    document.getElementById('geo-timestamp').textContent = `Last updated: ${data.generated_at}`;
+                    
+                    let html = '<div class="cards-grid">';
+                    
+                    for (const card of data.cards) {
+                        html += `
+                            <div class="card">
+                                <div class="card-headline">${card.headline}</div>
+                                
+                                <div class="card-signal">
+                                    <div class="card-signal-label">⚡ Signal (Why this matters)</div>
+                                    <div class="card-signal-text">${card.signal}</div>
+                                </div>
+                                
+                                <div class="card-field">
+                                    <div class="card-label">🎭 Actors</div>
+                                    <div class="card-actors">
+                                        ${card.actors.map(a => `<span class="actor-badge">${a}</span>`).join('')}
+                                    </div>
+                                </div>
+                                
+                                <div class="card-field">
+                                    <div class="card-label">⚙️ Mechanism</div>
+                                    <div class="card-value">${card.mechanism}</div>
+                                </div>
+                                
+                                <div class="card-field">
+                                    <div class="card-label">🏆 Winners / Losers</div>
+                                    <div class="card-value">${card.winners_losers}</div>
+                                </div>
+                                
+                                <div class="card-field">
+                                    <div class="card-label">🔒 Hidden Cost / Gain</div>
+                                    <div class="card-value">${card.hidden_cost_gain}</div>
+                                </div>
+                                
+                                <div class="card-field">
+                                    <div class="card-label">➡️ Second-Order Effects</div>
+                                    <div class="card-value">${card.second_order_effects}</div>
+                                </div>
+                                
+                                <div class="card-meta">
+                                    <div class="meta-item">
+                                        <span class="meta-label">Time Horizon</span>
+                                        <span class="meta-value">${card.time_horizon.split('(')[0].trim()}</span>
+                                    </div>
+                                    <div class="meta-item">
+                                        <span class="meta-label">Reversibility</span>
+                                        <span class="meta-value">${card.reversibility.split('(')[0].trim()}</span>
+                                    </div>
+                                    <div class="meta-item">
+                                        <span class="meta-label">Confidence</span>
+                                        <span class="meta-value">${card.confidence_level}</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="card-bottom-line">
+                                    <div class="card-bottom-line-label">💭 Bottom Line</div>
+                                    <div class="card-bottom-line-text">${card.one_line_take}</div>
+                                </div>
+                            </div>`;
+                    }
+                    
+                    html += '</div>';
+                    content.innerHTML = html;
+                });
+            } catch (error) {
+                document.getElementById('geo-content').innerHTML = 
+                    `<div class="error">Error loading cards: ${error.message}</div>`;
+            }
+        }
+        
+        // Load Tech Digest
+        async function loadTech() {
+            try {
                 const response = await fetch('./digest.json');
                 if (!response.ok) throw new Error('Failed to load digest');
                 
                 const data = await response.json();
+                const content = document.getElementById('tech-content');
                 
-                // Update timestamp
-                document.getElementById('digest-time').textContent = `Last updated: ${data.generated_at}`;
+                document.getElementById('tech-timestamp').textContent = `Last updated: ${data.generated_at}`;
                 
-                // Build HTML from JSON
-                let html = '';
+                let html = '<div class="sections-grid">';
                 
-                for (const [sectionName, items] of Object.entries(data.sections)) {
-                    const sectionId = sectionName.toLowerCase().replace(/\s+/g, '-');
-                    html += `<section id="${sectionId}">
-                        <h2>${sectionName}</h2>`;
+                for (const [theme, items] of Object.entries(data.themes || {})) {
+                    if (items.length === 0) continue;
                     
-                    for (const item of items) {
-                        html += `<article class="article">
-                            <h3 class="article-title">
-                                <a href="${item.link}" target="_blank" rel="noopener noreferrer">
-                                    ${item.title}
-                                </a>
-                            </h3>
-                            <p class="article-summary">${item.summary || 'No summary available'}</p>
-                            <div class="article-meta">
-                                <span class="source-badge">${item.source}</span>
-                                <span class="category-badge">${item.category || 'News'}</span>
-                            </div>
-                        </article>`;
+                    html += `<div class="section">
+                        <h2>${theme} (${items.length})</h2>`;
+                    
+                    for (const item of items.slice(0, 5)) {
+                        html += `
+                            <div class="article">
+                                <div class="article-title">
+                                    <a href="${item.link}" target="_blank">${item.title}</a>
+                                </div>
+                                <div class="article-summary">${item.summary || ''}</div>
+                                <div class="article-meta">
+                                    <span class="source-badge">${item.source}</span>
+                                </div>
+                            </div>`;
                     }
                     
-                    html += '</section>';
+                    html += '</div>';
                 }
                 
-                document.getElementById('content').innerHTML = html;
+                html += '</div>';
+                content.innerHTML = html;
                 
             } catch (error) {
-                console.error('Error loading digest:', error);
-                document.getElementById('content').innerHTML = `
-                    <div class="error">
-                        <p>Error loading digest. Please refresh the page.</p>
-                        <p>${error.message}</p>
-                    </div>
-                `;
+                document.getElementById('tech-content').innerHTML = 
+                    `<div class="error">Error loading digest: ${error.message}</div>`;
             }
         }
         
-        // Load digest when page loads
-        document.addEventListener('DOMContentLoaded', loadDigest);
+        // Load Raw News Feed
+        async function loadRawNews() {
+            try {
+                const response = await fetch('./geo-feed.json');
+                if (!response.ok) throw new Error('Failed to load feed');
+                
+                const data = await response.json();
+                const content = document.getElementById('feed-content');
+                
+                document.getElementById('feed-timestamp').textContent = `Last updated: ${data.generated_at}`;
+                
+                let html = '<div class="sections-grid">';
+                
+                for (const [region, articles] of Object.entries(data.sections || {})) {
+                    if (articles.length === 0) continue;
+                    
+                    html += `<div class="section">
+                        <h2>${region} (${articles.length})</h2>`;
+                    
+                    for (const article of articles.slice(0, 5)) {
+                        html += `
+                            <div class="article">
+                                <div class="article-title">
+                                    <a href="${article.link}" target="_blank">${article.title}</a>
+                                </div>
+                                <div class="article-summary">${article.summary || ''}</div>
+                                <div class="article-meta">
+                                    <span class="source-badge">${article.source}</span>
+                                    <span>${new Date(article.published).toLocaleDateString()}</span>
+                                </div>
+                            </div>`;
+                    }
+                    
+                    html += '</div>';
+                }
+                
+                html += '</div>';
+                content.innerHTML = html;
+                
+            } catch (error) {
+                document.getElementById('feed-content').innerHTML = 
+                    `<div class="error">Error loading feed: ${error.message}</div>`;
+            }
+        }
+        
+        // Load geopolitical cards on page load
+        window.addEventListener('load', loadGeopolitical);
     </script>
 </body>
 </html>
