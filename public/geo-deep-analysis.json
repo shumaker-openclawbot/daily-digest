@@ -1,0 +1,3367 @@
+{
+  "generated_at": "2026-02-06 10:24 ",
+  "total_articles": 50,
+  "methodology": {
+    "description": "DEEP geopolitical analysis: Follow incentives, not headlines. Track money, power, sovereignty loss.",
+    "approach": [
+      "1. CUI BONO - Who benefits? Who loses?",
+      "2. FOLLOW THE MONEY - Capital flows, debt traps, profit centers",
+      "3. POWER DYNAMICS - Hegemon shifts, bloc formation, influence consolidation",
+      "4. SOVEREIGNTY - What's permanent? What's surrendered?",
+      "5. ELITE ACCOUNTABILITY - Whose interests are being served?",
+      "6. NARRATIVE vs REALITY - What story vs. what's hidden?",
+      "7. CROSS-EVENT PATTERNS - What's the bigger picture?"
+    ]
+  },
+  "cross_article_patterns": {
+    "trade_wars": [
+      "\u26a0\ufe0f Multiple tariff events detected (4 mentions) - coordinated trade war emerging?"
+    ],
+    "capital_flows_direction": [
+      "\ud83d\udcb0 Heavy capital movement (8 mentions) - direction? Purpose? Debt creation?"
+    ],
+    "sovereignty_erosion": [
+      "\ud83d\udea9 Sovereignty at stake - multiple constraints being imposed?"
+    ]
+  },
+  "themes": {
+    "trade_sovereignty": {
+      "name": "Trade & Sovereignty",
+      "icon": "\ud83d\udcbc",
+      "article_count": 6,
+      "articles": [
+        {
+          "title": "Mexico\u2019s tariffs on India are a double whammy after US tariffs",
+          "link": "https://www.aljazeera.com/economy/2026/2/6/mexicos-tariffs-on-india-are-a-double-whammy-after-us-tariffs?traffic_source=rss",
+          "summary": "The steep hikes by Mexico have devastated several Indian industries already reeling under crushing US tariffs.",
+          "source": "Al Jazeera - World",
+          "published": "Fri, 06 Feb 2026 08:44:53 +0000",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            }
+          ],
+          "countries": [
+            "MEXICO",
+            "INDIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?",
+            "\ud83c\udf0d Dynamic: MEXICO \u2194\ufe0f INDIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Price manipulation - consumer/producer impact"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "US Government Removes Embargo on Arms Sales to Cambodia",
+          "link": "https://thediplomat.com/2026/02/us-government-removes-embargo-on-arms-sales-to-cambodia/",
+          "summary": "The Department of Commerce's ruling is the latest sign of the positive momentum in relations between Phnom Penh and Washington.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 09:15:00 +0900",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [
+              "Government"
+            ],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?"
+          ],
+          "red_flags": [
+            "Military-industrial complex at play - follow the profit"
+          ],
+          "counter_narratives": [
+            "\u270b Counter: Who actually benefits? At whose expense?",
+            "\u270b Counter: What costs are being hidden in the fine print?"
+          ],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "India\u2019s Strategic Autonomy for a Capital Lifeline?",
+          "link": "https://thediplomat.com/2026/02/indias-strategic-autonomy-for-a-capital-lifeline/",
+          "summary": "With the February 2 U.S.-India tariff deal announcement, New Delhi has apparently traded its energy security for capital reassurance.",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 22:42:00 +0900",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "resources_extraction",
+              "name": "Resources & Extraction",
+              "icon": "\ud83e\udea8",
+              "questions": [
+                "Who owns the resources now? Who will own them after?",
+                "At what environmental/human cost is extraction happening?",
+                "Who are the middlemen profiting?",
+                "Is resource control shifting between powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "INDIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?",
+            "\ud83c\udf0d Focus: INDIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Security for whom? Against what real threat?",
+            "\u270b Counter: Who profits from securitization and military spending?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?",
+            "\ud83d\udcb8 Price manipulation - consumer/producer impact"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "The Paradox of Wartime Commerce",
+          "link": "https://www.foreignaffairs.com/united-states/paradox-wartime-commerce",
+          "summary": "Why states keep trading even in the midst of conflict.",
+          "source": "Foreign Affairs",
+          "published": "Tue, 03 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "Watch: Trump calls for new nuclear treaty as New START expires",
+          "link": "https://www.thehindu.com/videos/watch-trump-calls-for-new-nuclear-treaty-as-new-start-expires/article70599193.ece",
+          "summary": "U.S. President Donald Trump has called for a new nuclear arms treaty after the New START agreement with Russia expired, sparking fears of a renewed global arms race.",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 13:08:29 +0530",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9",
+              "questions": [
+                "What commitments are permanent? What can't be reversed?",
+                "Is sovereignty being traded for short-term gains?",
+                "Who has veto power? Who can override local decisions?",
+                "What's the long-term cost to independence?"
+              ]
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?",
+            "\ud83c\udf0d Focus: RUSSIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "Indonesia, Australia sign new security treaty to affirm deeper ties",
+          "link": "https://www.thehindu.com/news/international/indonesia-australia-sign-new-security-treaty-to-affirm-deeper-ties/article70598923.ece",
+          "summary": "Analysts said the treaty is becoming increasingly important to Australia in the face of growing tensions with China in the region",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 12:32:57 +0530",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9",
+              "questions": [
+                "What commitments are permanent? What can't be reversed?",
+                "Is sovereignty being traded for short-term gains?",
+                "Who has veto power? Who can override local decisions?",
+                "What's the long-term cost to independence?"
+              ]
+            }
+          ],
+          "countries": [
+            "CHINA",
+            "INDONESIA",
+            "AUSTRALIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?",
+            "\ud83c\udf0d Dynamic: CHINA \u2194\ufe0f INDONESIA \u2194\ufe0f AUSTRALIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Security for whom? Against what real threat?",
+            "\u270b Counter: Who profits from securitization and military spending?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        }
+      ]
+    },
+    "capital_flows": {
+      "name": "Capital Flows & Debt Leverage",
+      "icon": "\ud83d\udcb0",
+      "article_count": 14,
+      "articles": [
+        {
+          "title": "\u2018They killed my sons\u2019: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+          "summary": "<p>Umar Bio Salihu, 53, the local head of Woro in Kwara state, says gunmen \u2018just came in and started shooting\u2019</p><p>The traditional chief of a village in western Nigeria where <a href=\"https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross\">jihadists massacred residents earlier this week</a> has recounted a night of ter",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 20:33:00 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "NIGERIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: NIGERIA"
+          ],
+          "red_flags": [
+            "Family in negotiations - conflict of interest risk"
+          ],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Ugandan opposition leader still in hiding as feud with president\u2019s son escalates",
+          "link": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+          "summary": "<p>Bobi Wine\u2019s whereabouts unknown since he fled what he said was night raid on his home by police and military</p><p>Bobi Wine, Uganda\u2019s most prominent opposition figure, remains in hiding nearly three weeks after a <a href=\"https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine\">disputed election</a>, as a hi",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 12:07:57 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [
+            "EU"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: EU"
+          ],
+          "red_flags": [
+            "Family in negotiations - conflict of interest risk"
+          ],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Death of Nigerian singer after snakebite highlights crisis of \u2018preventable\u2019 fatalities",
+          "link": "https://www.theguardian.com/global-development/2026/feb/04/death-of-nigerian-singer-highlights-crisis-of-preventable-snakebite-fatalities",
+          "summary": "<p>Ifunanya Nwangene died in hospital after being bitten in her Abuja home, raising questions about&nbsp;the availability of effective antivenoms</p><p>In a last message to her friends, Ifunanya Nwangene wrote: \u201cPlease come.\u201d</p><p>The 26-year-old singer and former contestant on The Voice Nigeria had been bitten by a snake while asleep in her flat ",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 10:00:39 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            }
+          ],
+          "countries": [
+            "NIGERIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: NIGERIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Development for whom? Local benefit or extraction?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Trump-led abuses amid \u2018democratic recession\u2019 put human rights in peril, HRW report says",
+          "link": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
+          "summary": "<p>Rights group says growing authoritarianism and abuses in US, Russia and China threaten global rules-based order</p><p>The world is in a \u201cdemocratic recession\u201d with almost three-quarters of the global population now living under autocratic rulers \u2013 levels not seen since the 1980s, according to a new report.</p><p>The system underpinning human rig",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 00:01:28 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            }
+          ],
+          "countries": [
+            "CHINA",
+            "RUSSIA"
+          ],
+          "key_entities": {
+            "people": [
+              "Trump-led",
+              "abuses",
+              "amid"
+            ],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Dynamic: CHINA \u2194\ufe0f RUSSIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Development for whom? Local benefit or extraction?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Cuba open to talks with US \u2018without pressure\u2019 after months of Trump threats",
+          "link": "https://www.theguardian.com/world/2026/feb/05/trump-cuba-us-talks",
+          "summary": "<p>Miguel D\u00edaz\u2011Canel says Cuba is willing to engage Washington amid the island\u2019s deepening economic crisis</p><p>After months of threats from <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, the president of <a href=\"https://www.theguardian.com/world/cuba+americas\">Cuba</a>, Miguel D\u00edaz-Canel, has said that his government",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 18:26:26 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Eight current and former Toronto police arrested in organized crime inquiry",
+          "link": "https://www.theguardian.com/world/2026/feb/05/toronto-police-organized-crime-canada",
+          "summary": "<p>Investigation exposes \u2018corrosive\u2019 reach of organized crime in Canada, with links to bribes, drug trade and a murder plot</p><p>At least eight current and former <a href=\"https://www.theguardian.com/world/toronto--news-\">Toronto</a> police officers have been arrested following a sweeping investigation that officials say exposed the \u201ccorrosive\u201d re",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 17:34:41 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "CANADA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: CANADA"
+          ],
+          "red_flags": [
+            "Family in negotiations - conflict of interest risk"
+          ],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?",
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Maduro\u2019s alleged frontman Alex Saab reportedly detained in Caracas",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
+          "summary": "<p>FBI and Venezuela\u2019s intelligence agency also reportedly arrest billionaire media mogul Ra\u00fal Gorr\u00edn at same address</p><p>A close and powerful associate of the deposed Venezuelan president Nicol\u00e1s Maduro has reportedly been detained during a joint operation by Venezuela\u2019s intelligence agency and the FBI.</p><p>Alex Saab, a wealthy Colombian-Venez",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 10:30:34 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Strong for whom? Whose interests are being served?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "The people betting on catastrophic world events \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/feb/04/the-people-betting-on-catastrophic-world-events-podcast",
+          "summary": "<p>Prediction markets allow you to put money on everything from the US attacking Iran to Jesus returning. <strong>Saahil Desai </strong>explains their dizzying rise</p><p>In the early hours of 3 January, Donald Trump ordered a surprise attack on the Venezuelan capital, Caracas, to kidnap the country\u2019s leader, Nicol\u00e1s Maduro. Millions of Venezuelans",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 03:00:31 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "IRAN"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: IRAN"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Strong for whom? Whose interests are being served?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "India\u2019s Strategic Autonomy for a Capital Lifeline?",
+          "link": "https://thediplomat.com/2026/02/indias-strategic-autonomy-for-a-capital-lifeline/",
+          "summary": "With the February 2 U.S.-India tariff deal announcement, New Delhi has apparently traded its energy security for capital reassurance.",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 22:42:00 +0900",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "resources_extraction",
+              "name": "Resources & Extraction",
+              "icon": "\ud83e\udea8",
+              "questions": [
+                "Who owns the resources now? Who will own them after?",
+                "At what environmental/human cost is extraction happening?",
+                "Who are the middlemen profiting?",
+                "Is resource control shifting between powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "INDIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?",
+            "\ud83c\udf0d Focus: INDIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Security for whom? Against what real threat?",
+            "\u270b Counter: Who profits from securitization and military spending?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?",
+            "\ud83d\udcb8 Price manipulation - consumer/producer impact"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Bill seeking to scrap pension benefits to Sri Lankan MPs gets Supreme Court nod",
+          "link": "https://www.thehindu.com/news/international/bill-seeking-to-scrap-pension-benefits-to-sri-lankan-mps-gets-supreme-court-nod/article70599294.ece",
+          "summary": "This comes after the Supreme Court was hearing on five fundamental rights petitions seeking the court's intervention to declare that the Bill was inconsistent with the Constitution",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 14:44:09 +0530",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Who actually benefits? At whose expense?",
+            "\u270b Counter: What costs are being hidden in the fine print?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "A deputy chief of Russian military intelligence was shot and wounded in Moscow",
+          "link": "https://www.thehindu.com/news/international/a-deputy-chief-of-russian-military-intelligence-was-shot-and-wounded-in-moscow/article70599302.ece",
+          "summary": "Lt. Gen. Vladimir Alekseyev was shot several time by an unidentified assailant in Moscow, Investigative Committee spokesperson Svetlana Petrenko said",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 14:13:34 +0530",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: RUSSIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?",
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Death toll rises to 13 in bus mishap in western Nepal",
+          "link": "https://www.thehindu.com/news/international/death-toll-nepal-bus-mishap-friday-updates/article70599115.ece",
+          "summary": "Rescue workers said the accident likely occurred after a pressure pipe burst while the heavily loaded bus was climbing uphill",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 13:04:38 +0530",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        }
+      ]
+    },
+    "power_dynamics": {
+      "name": "Power & Dominance",
+      "icon": "\u26a1",
+      "article_count": 12,
+      "articles": [
+        {
+          "title": "\u2018Magical atmosphere\u2019: Kite fever lights up Lahore as Basant boosts economy",
+          "link": "https://www.aljazeera.com/features/2026/2/6/magical-atmosphere-kite-fever-lights-up-lahore-as-basant-boosts-economy?traffic_source=rss",
+          "summary": "Spring festival comeback injects millions of dollars into local economy as businesses cash in on Basant frenzy.",
+          "source": "Al Jazeera - World",
+          "published": "Fri, 06 Feb 2026 08:57:38 +0000",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "Maduro\u2019s alleged frontman Alex Saab reportedly detained in Caracas",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
+          "summary": "<p>FBI and Venezuela\u2019s intelligence agency also reportedly arrest billionaire media mogul Ra\u00fal Gorr\u00edn at same address</p><p>A close and powerful associate of the deposed Venezuelan president Nicol\u00e1s Maduro has reportedly been detained during a joint operation by Venezuela\u2019s intelligence agency and the FBI.</p><p>Alex Saab, a wealthy Colombian-Venez",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 10:30:34 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Strong for whom? Whose interests are being served?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "The people betting on catastrophic world events \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/feb/04/the-people-betting-on-catastrophic-world-events-podcast",
+          "summary": "<p>Prediction markets allow you to put money on everything from the US attacking Iran to Jesus returning. <strong>Saahil Desai </strong>explains their dizzying rise</p><p>In the early hours of 3 January, Donald Trump ordered a surprise attack on the Venezuelan capital, Caracas, to kidnap the country\u2019s leader, Nicol\u00e1s Maduro. Millions of Venezuelans",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 03:00:31 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "IRAN"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: IRAN"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Strong for whom? Whose interests are being served?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Indonesia\u2019s Eighty Billion Dollar Wake-Up Call",
+          "link": "https://thediplomat.com/2026/02/indonesias-eighty-billion-dollar-wake-up-call/",
+          "summary": "The country's recent stock crash was a clear warning that the world will no longer invest in a market dominated by a handful of powerful families.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 06:51:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "INDONESIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?",
+            "\ud83c\udf0d Focus: INDONESIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Strong for whom? Whose interests are being served?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Bangladesh\u2019s 2026 Election Is a Litmus Test for Global Democratic Revival",
+          "link": "https://thediplomat.com/2026/02/bangladeshs-2026-election-is-a-litmus-test-for-global-democratic-revival/",
+          "summary": "If successful, Bangladesh could inspire beleaguered democrats across Asia and beyond. If not, it risks validating the resilience of hybrid regimes that mimic elections while stifling competition.",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 23:16:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            }
+          ],
+          "countries": [
+            "BANGLADESH"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?",
+            "\ud83c\udf0d Focus: BANGLADESH"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "China and the US Want Africa\u2019s Critical Minerals. Will African Countries Actually Benefit?",
+          "link": "https://thediplomat.com/2026/02/china-and-the-us-want-africas-critical-minerals-will-african-countries-actually-benefit/",
+          "summary": "Amid the great power competition, do either the U.S. or Chinese strategies advance Africa\u2019s own vision for developing the continent\u2019s mining sector?",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 23:15:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "resources_extraction",
+              "name": "Resources & Extraction",
+              "icon": "\ud83e\udea8",
+              "questions": [
+                "Who owns the resources now? Who will own them after?",
+                "At what environmental/human cost is extraction happening?",
+                "Who are the middlemen profiting?",
+                "Is resource control shifting between powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "CHINA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?",
+            "\ud83c\udf0d Focus: CHINA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "Europe\u2019s Next Hegemon",
+          "link": "https://www.foreignaffairs.com/germany/europes-next-hegemon-liana-fix",
+          "summary": "The perils of German power.",
+          "source": "Foreign Affairs",
+          "published": "Fri, 06 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            }
+          ],
+          "countries": [
+            "EU"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?",
+            "\ud83c\udf0d Focus: EU"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": [
+            "\u26a1 Hegemony under question - power transition happening?"
+          ]
+        },
+        {
+          "title": "The Real Risks of the Saudi-UAE Feud",
+          "link": "https://www.foreignaffairs.com/united-states/real-risks-saudi-uae-feud",
+          "summary": "Regional rivalry will raise tensions far beyond the Gulf.",
+          "source": "Foreign Affairs",
+          "published": "Fri, 06 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            }
+          ],
+          "countries": [
+            "UAE",
+            "EU",
+            "SAUDI"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?",
+            "\ud83c\udf0d Dynamic: UAE \u2194\ufe0f EU \u2194\ufe0f SAUDI"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "The Limits of Russian Power",
+          "link": "https://www.foreignaffairs.com/russia/limits-russian-power",
+          "summary": "Why Putin isn\u2019t thriving in Trump\u2019s anarchic world.",
+          "source": "Foreign Affairs",
+          "published": "Thu, 05 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?",
+            "\ud83c\udf0d Focus: RUSSIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "There Is Only One Sphere of Influence",
+          "link": "https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence",
+          "summary": "America can project power with little constraint\u2014and its rivals cannot.",
+          "source": "Foreign Affairs",
+          "published": "Wed, 04 Feb 2026 00:30:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9",
+              "questions": [
+                "What commitments are permanent? What can't be reversed?",
+                "Is sovereignty being traded for short-term gains?",
+                "Who has veto power? Who can override local decisions?",
+                "What's the long-term cost to independence?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "The Predatory Hegemon",
+          "link": "https://www.foreignaffairs.com/united-states/predatory-hegemon-walt",
+          "summary": "",
+          "source": "Foreign Affairs",
+          "published": "Tue, 03 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": [
+            "\u26a1 Hegemony under question - power transition happening?"
+          ]
+        },
+        {
+          "title": "Peace Through Leverage in Gaza",
+          "link": "https://www.foreignaffairs.com/israel/peace-through-leverage-gaza",
+          "summary": "How to limit Hamas\u2019s influence and ensure Israel\u2019s compliance.",
+          "source": "Foreign Affairs",
+          "published": "Mon, 02 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            }
+          ],
+          "countries": [
+            "ISRAEL"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?",
+            "\ud83c\udf0d Focus: ISRAEL"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        }
+      ]
+    },
+    "military_security": {
+      "name": "Military & Security",
+      "icon": "\ud83d\udd2b",
+      "article_count": 17,
+      "articles": [
+        {
+          "title": "NBA roundup: Lakers stop 76ers despite Luka Doncic\u2019s injury exit",
+          "link": "https://www.aljazeera.com/sports/2026/2/6/nba-roundup-lakers-stop-76ers-despite-luka-doncics-injury-exit?traffic_source=rss",
+          "summary": "Lakers beat 76ers 119-115 in NBA, as Spurs, Wizards, Raptors, Hornets, Magic, Hawks and Warriors also record victories.",
+          "source": "Al Jazeera - World",
+          "published": "Fri, 06 Feb 2026 09:17:42 +0000",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "UK"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd2b Key Question: Follow the resources being fought over, not the stated reasons",
+            "   Also ask: Who arms whom? Who profits from the conflict?",
+            "\ud83c\udf0d Focus: UK"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "Armed militia members are serving as Israeli agents in Gaza: Investigation",
+          "link": "https://www.aljazeera.com/news/2026/2/6/armed-militia-members-are-serving-as-israeli-agents-in-gaza-investigation?traffic_source=rss",
+          "summary": "Al Jazeera documentary identifies Gaza armed groups working with Israeli forces.",
+          "source": "Al Jazeera - World",
+          "published": "Fri, 06 Feb 2026 08:34:24 +0000",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "ISRAEL"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd2b Key Question: Follow the resources being fought over, not the stated reasons",
+            "   Also ask: Who arms whom? Who profits from the conflict?",
+            "\ud83c\udf0d Focus: ISRAEL"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "\u2018They killed my sons\u2019: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+          "summary": "<p>Umar Bio Salihu, 53, the local head of Woro in Kwara state, says gunmen \u2018just came in and started shooting\u2019</p><p>The traditional chief of a village in western Nigeria where <a href=\"https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross\">jihadists massacred residents earlier this week</a> has recounted a night of ter",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 20:33:00 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "NIGERIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: NIGERIA"
+          ],
+          "red_flags": [
+            "Family in negotiations - conflict of interest risk"
+          ],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Gunmen kill more than 160 people in attacks on two west Nigeria villages",
+          "link": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+          "summary": "<p>Local politician says armed men rounded up residents, bound their hands behind their backs and shot them</p><p>More than 160 people have been killed in two villages in western Nigeria in the country\u2019s deadliest armed assaults this year, as communities reel from repeated and widespread acts of violence perpetrated by jihadists and other armed gro",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 17:40:32 GMT",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "NIGERIA",
+            "UK"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd2b Key Question: Follow the resources being fought over, not the stated reasons",
+            "   Also ask: Who arms whom? Who profits from the conflict?",
+            "\ud83c\udf0d Dynamic: NIGERIA \u2194\ufe0f UK"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "Ugandan opposition leader still in hiding as feud with president\u2019s son escalates",
+          "link": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+          "summary": "<p>Bobi Wine\u2019s whereabouts unknown since he fled what he said was night raid on his home by police and military</p><p>Bobi Wine, Uganda\u2019s most prominent opposition figure, remains in hiding nearly three weeks after a <a href=\"https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine\">disputed election</a>, as a hi",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 12:07:57 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [
+            "EU"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: EU"
+          ],
+          "red_flags": [
+            "Family in negotiations - conflict of interest risk"
+          ],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Cuba open to talks with US \u2018without pressure\u2019 after months of Trump threats",
+          "link": "https://www.theguardian.com/world/2026/feb/05/trump-cuba-us-talks",
+          "summary": "<p>Miguel D\u00edaz\u2011Canel says Cuba is willing to engage Washington amid the island\u2019s deepening economic crisis</p><p>After months of threats from <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, the president of <a href=\"https://www.theguardian.com/world/cuba+americas\">Cuba</a>, Miguel D\u00edaz-Canel, has said that his government",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 18:26:26 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Maduro\u2019s alleged frontman Alex Saab reportedly detained in Caracas",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
+          "summary": "<p>FBI and Venezuela\u2019s intelligence agency also reportedly arrest billionaire media mogul Ra\u00fal Gorr\u00edn at same address</p><p>A close and powerful associate of the deposed Venezuelan president Nicol\u00e1s Maduro has reportedly been detained during a joint operation by Venezuela\u2019s intelligence agency and the FBI.</p><p>Alex Saab, a wealthy Colombian-Venez",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 10:30:34 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Strong for whom? Whose interests are being served?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Indonesia\u2019s Eighty Billion Dollar Wake-Up Call",
+          "link": "https://thediplomat.com/2026/02/indonesias-eighty-billion-dollar-wake-up-call/",
+          "summary": "The country's recent stock crash was a clear warning that the world will no longer invest in a market dominated by a handful of powerful families.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 06:51:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "INDONESIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?",
+            "\ud83c\udf0d Focus: INDONESIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Strong for whom? Whose interests are being served?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "US Government Removes Embargo on Arms Sales to Cambodia",
+          "link": "https://thediplomat.com/2026/02/us-government-removes-embargo-on-arms-sales-to-cambodia/",
+          "summary": "The Department of Commerce's ruling is the latest sign of the positive momentum in relations between Phnom Penh and Washington.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 09:15:00 +0900",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [
+              "Government"
+            ],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?"
+          ],
+          "red_flags": [
+            "Military-industrial complex at play - follow the profit"
+          ],
+          "counter_narratives": [
+            "\u270b Counter: Who actually benefits? At whose expense?",
+            "\u270b Counter: What costs are being hidden in the fine print?"
+          ],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "In Kyrgyzstan, US Special Envoy Gor Brushes Aside Visa Restrictions, Promotes Business",
+          "link": "https://thediplomat.com/2026/02/in-kyrgyzstan-us-special-envoy-gor-brushes-aside-visa-restrictions-promotes-business/",
+          "summary": "U.S. policy toward Central Asia has narrowed to the economic realm.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 00:40:00 +0900",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9",
+              "questions": [
+                "What commitments are permanent? What can't be reversed?",
+                "Is sovereignty being traded for short-term gains?",
+                "Who has veto power? Who can override local decisions?",
+                "What's the long-term cost to independence?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd2b Key Question: Follow the resources being fought over, not the stated reasons",
+            "   Also ask: Who arms whom? Who profits from the conflict?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "India\u2019s Strategic Autonomy for a Capital Lifeline?",
+          "link": "https://thediplomat.com/2026/02/indias-strategic-autonomy-for-a-capital-lifeline/",
+          "summary": "With the February 2 U.S.-India tariff deal announcement, New Delhi has apparently traded its energy security for capital reassurance.",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 22:42:00 +0900",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "resources_extraction",
+              "name": "Resources & Extraction",
+              "icon": "\ud83e\udea8",
+              "questions": [
+                "Who owns the resources now? Who will own them after?",
+                "At what environmental/human cost is extraction happening?",
+                "Who are the middlemen profiting?",
+                "Is resource control shifting between powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "INDIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?",
+            "\ud83c\udf0d Focus: INDIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Security for whom? Against what real threat?",
+            "\u270b Counter: Who profits from securitization and military spending?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?",
+            "\ud83d\udcb8 Price manipulation - consumer/producer impact"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Strength Over Peace",
+          "link": "https://www.foreignaffairs.com/united-states/strength-over-peace",
+          "summary": "Venezuela, Iran, and the dicey politics of military intervention.",
+          "source": "Foreign Affairs",
+          "published": "Thu, 05 Feb 2026 00:00:00 -0500",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "IRAN"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd2b Key Question: Follow the resources being fought over, not the stated reasons",
+            "   Also ask: Who arms whom? Who profits from the conflict?",
+            "\ud83c\udf0d Focus: IRAN"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        }
+      ]
+    },
+    "resources_extraction": {
+      "name": "Resources & Extraction",
+      "icon": "\ud83e\udea8",
+      "article_count": 2,
+      "articles": [
+        {
+          "title": "China and the US Want Africa\u2019s Critical Minerals. Will African Countries Actually Benefit?",
+          "link": "https://thediplomat.com/2026/02/china-and-the-us-want-africas-critical-minerals-will-african-countries-actually-benefit/",
+          "summary": "Amid the great power competition, do either the U.S. or Chinese strategies advance Africa\u2019s own vision for developing the continent\u2019s mining sector?",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 23:15:00 +0900",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "resources_extraction",
+              "name": "Resources & Extraction",
+              "icon": "\ud83e\udea8",
+              "questions": [
+                "Who owns the resources now? Who will own them after?",
+                "At what environmental/human cost is extraction happening?",
+                "Who are the middlemen profiting?",
+                "Is resource control shifting between powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "CHINA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?",
+            "\ud83c\udf0d Focus: CHINA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "India\u2019s Strategic Autonomy for a Capital Lifeline?",
+          "link": "https://thediplomat.com/2026/02/indias-strategic-autonomy-for-a-capital-lifeline/",
+          "summary": "With the February 2 U.S.-India tariff deal announcement, New Delhi has apparently traded its energy security for capital reassurance.",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 22:42:00 +0900",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "resources_extraction",
+              "name": "Resources & Extraction",
+              "icon": "\ud83e\udea8",
+              "questions": [
+                "Who owns the resources now? Who will own them after?",
+                "At what environmental/human cost is extraction happening?",
+                "Who are the middlemen profiting?",
+                "Is resource control shifting between powers?"
+              ]
+            }
+          ],
+          "countries": [
+            "INDIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?",
+            "\ud83c\udf0d Focus: INDIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Security for whom? Against what real threat?",
+            "\u270b Counter: Who profits from securitization and military spending?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?",
+            "\ud83d\udcb8 Price manipulation - consumer/producer impact"
+          ],
+          "power_shift": []
+        }
+      ]
+    },
+    "elite_accountability": {
+      "name": "Elite & Accountability",
+      "icon": "\ud83d\udd0d",
+      "article_count": 8,
+      "articles": [
+        {
+          "title": "\u2018They killed my sons\u2019: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+          "summary": "<p>Umar Bio Salihu, 53, the local head of Woro in Kwara state, says gunmen \u2018just came in and started shooting\u2019</p><p>The traditional chief of a village in western Nigeria where <a href=\"https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross\">jihadists massacred residents earlier this week</a> has recounted a night of ter",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 20:33:00 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "NIGERIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: NIGERIA"
+          ],
+          "red_flags": [
+            "Family in negotiations - conflict of interest risk"
+          ],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Ugandan opposition leader still in hiding as feud with president\u2019s son escalates",
+          "link": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+          "summary": "<p>Bobi Wine\u2019s whereabouts unknown since he fled what he said was night raid on his home by police and military</p><p>Bobi Wine, Uganda\u2019s most prominent opposition figure, remains in hiding nearly three weeks after a <a href=\"https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine\">disputed election</a>, as a hi",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 12:07:57 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [
+            "EU"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: EU"
+          ],
+          "red_flags": [
+            "Family in negotiations - conflict of interest risk"
+          ],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Eight current and former Toronto police arrested in organized crime inquiry",
+          "link": "https://www.theguardian.com/world/2026/feb/05/toronto-police-organized-crime-canada",
+          "summary": "<p>Investigation exposes \u2018corrosive\u2019 reach of organized crime in Canada, with links to bribes, drug trade and a murder plot</p><p>At least eight current and former <a href=\"https://www.theguardian.com/world/toronto--news-\">Toronto</a> police officers have been arrested following a sweeping investigation that officials say exposed the \u201ccorrosive\u201d re",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 17:34:41 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "CANADA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: CANADA"
+          ],
+          "red_flags": [
+            "Family in negotiations - conflict of interest risk"
+          ],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?",
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Venezuela plan to turn notorious prison into cultural centre scrubs past horrors, critics say",
+          "link": "https://www.theguardian.com/world/2026/feb/05/el-helicoide-delcy-rodriguez-venezuela",
+          "summary": "<p>The move is among several measures the acting president has touted since Maduro\u2019s capture \u2013 yet critics say it erases Venezuela\u2019s long history of repression</p><p>It was designed in the 1950s to be the world\u2019s first \u201cdrive-through shopping centre\u201d, a futuristic structure with more than than two miles of ramps looping past 300 shops, as well as c",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 10:00:04 GMT",
+          "themes": [
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd0d Key Question: Who is negotiating? What are their personal financial interests?",
+            "   Also ask: Are they aligned with their country's interests or their own?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "The people betting on catastrophic world events \u2013 podcast",
+          "link": "https://www.theguardian.com/news/audio/2026/feb/04/the-people-betting-on-catastrophic-world-events-podcast",
+          "summary": "<p>Prediction markets allow you to put money on everything from the US attacking Iran to Jesus returning. <strong>Saahil Desai </strong>explains their dizzying rise</p><p>In the early hours of 3 January, Donald Trump ordered a surprise attack on the Venezuelan capital, Caracas, to kidnap the country\u2019s leader, Nicol\u00e1s Maduro. Millions of Venezuelans",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 03:00:31 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "IRAN"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: IRAN"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Strong for whom? Whose interests are being served?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "What Yang Sung Ho\u2019s Dismissal Reveals About Kim Jong Un\u2019s New Accountability",
+          "link": "https://thediplomat.com/2026/02/what-yang-sung-hos-dismissal-reveals-about-kim-jong-uns-new-accountability/",
+          "summary": "The public humiliation of Vice Premier Yang Sung Ho is part of a longer pattern: Kim has been escalating his accountability rhetoric for years.",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 22:32:00 +0900",
+          "themes": [
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd0d Key Question: Who is negotiating? What are their personal financial interests?",
+            "   Also ask: Are they aligned with their country's interests or their own?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "A deputy chief of Russian military intelligence was shot and wounded in Moscow",
+          "link": "https://www.thehindu.com/news/international/a-deputy-chief-of-russian-military-intelligence-was-shot-and-wounded-in-moscow/article70599302.ece",
+          "summary": "Lt. Gen. Vladimir Alekseyev was shot several time by an unidentified assailant in Moscow, Investigative Committee spokesperson Svetlana Petrenko said",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 14:13:34 +0530",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: RUSSIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?",
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Watch: Ukraine and Russia swap over 300 prisoners after \u2018productive\u2019 Abu Dhabi talks",
+          "link": "https://www.thehindu.com/videos/ukraine-and-russia-swap-over-300-prisoners-after-productive-abu-dhabi-talks/article70598650.ece",
+          "summary": "Ukraine and Russia have carried out a major prisoner exchange following U.S.-mediated talks in Abu Dhabi, marking the first such swap in five months.",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 12:24:52 +0530",
+          "themes": [
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [
+            "UKRAINE",
+            "RUSSIA",
+            "UK"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd0d Key Question: Who is negotiating? What are their personal financial interests?",
+            "   Also ask: Are they aligned with their country's interests or their own?",
+            "\ud83c\udf0d Dynamic: UKRAINE \u2194\ufe0f RUSSIA \u2194\ufe0f UK"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        }
+      ]
+    },
+    "propaganda_narrative": {
+      "name": "Propaganda & Narratives",
+      "icon": "\ud83d\udcfa",
+      "article_count": 5,
+      "articles": [
+        {
+          "title": "Ugandan opposition leader still in hiding as feud with president\u2019s son escalates",
+          "link": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+          "summary": "<p>Bobi Wine\u2019s whereabouts unknown since he fled what he said was night raid on his home by police and military</p><p>Bobi Wine, Uganda\u2019s most prominent opposition figure, remains in hiding nearly three weeks after a <a href=\"https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine\">disputed election</a>, as a hi",
+          "source": "The Guardian - World",
+          "published": "Wed, 04 Feb 2026 12:07:57 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [
+            "EU"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?",
+            "\ud83c\udf0d Focus: EU"
+          ],
+          "red_flags": [
+            "Family in negotiations - conflict of interest risk"
+          ],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Cuba open to talks with US \u2018without pressure\u2019 after months of Trump threats",
+          "link": "https://www.theguardian.com/world/2026/feb/05/trump-cuba-us-talks",
+          "summary": "<p>Miguel D\u00edaz\u2011Canel says Cuba is willing to engage Washington amid the island\u2019s deepening economic crisis</p><p>After months of threats from <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, the president of <a href=\"https://www.theguardian.com/world/cuba+americas\">Cuba</a>, Miguel D\u00edaz-Canel, has said that his government",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 18:26:26 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Maduro\u2019s alleged frontman Alex Saab reportedly detained in Caracas",
+          "link": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
+          "summary": "<p>FBI and Venezuela\u2019s intelligence agency also reportedly arrest billionaire media mogul Ra\u00fal Gorr\u00edn at same address</p><p>A close and powerful associate of the deposed Venezuelan president Nicol\u00e1s Maduro has reportedly been detained during a joint operation by Venezuela\u2019s intelligence agency and the FBI.</p><p>Alex Saab, a wealthy Colombian-Venez",
+          "source": "The Guardian - World",
+          "published": "Thu, 05 Feb 2026 10:30:34 GMT",
+          "themes": [
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcb0 Key Question: Who controls the capital? What strings are attached?",
+            "   Also ask: Is this creating a debt trap or legitimate investment?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Strong for whom? Whose interests are being served?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Capital involved - trace source, amount, terms",
+            "\ud83d\udcb8 Interest? Returns? Who profits?"
+          ],
+          "power_shift": []
+        },
+        {
+          "title": "Japan\u2019s Inbound Tourism Is Booming, But Japanese Are Less Interested in Going Abroad",
+          "link": "https://thediplomat.com/2026/02/japans-inbound-tourism-is-booming-but-japanese-are-less-interested-in-going-abroad/",
+          "summary": "Japan\u2019s government is cutting passport fees in a bid to incentivize overseas travel, which has yet to recover from the pandemic.",
+          "source": "The Diplomat",
+          "published": "Thu, 05 Feb 2026 23:38:00 +0900",
+          "themes": [
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [
+            "JAPAN"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcfa Key Question: What story is being told? What's the counter-narrative?",
+            "   Also ask: Who benefits from this framing?",
+            "\ud83c\udf0d Focus: JAPAN"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "Watch: Ukraine and Russia swap over 300 prisoners after \u2018productive\u2019 Abu Dhabi talks",
+          "link": "https://www.thehindu.com/videos/ukraine-and-russia-swap-over-300-prisoners-after-productive-abu-dhabi-talks/article70598650.ece",
+          "summary": "Ukraine and Russia have carried out a major prisoner exchange following U.S.-mediated talks in Abu Dhabi, marking the first such swap in five months.",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 12:24:52 +0530",
+          "themes": [
+            {
+              "key": "elite_accountability",
+              "name": "Elite & Accountability",
+              "icon": "\ud83d\udd0d",
+              "questions": [
+                "Who is negotiating? What are their personal financial interests?",
+                "Are they aligned with their country's interests or their own?",
+                "Follow the family connections - who benefits indirectly?",
+                "Who funds them? Who are they indebted to?"
+              ]
+            },
+            {
+              "key": "propaganda_narrative",
+              "name": "Propaganda & Narratives",
+              "icon": "\ud83d\udcfa",
+              "questions": [
+                "What story is being told? What's the counter-narrative?",
+                "Who benefits from this framing?",
+                "What's being hidden or minimized in coverage?",
+                "Compare mainstream vs. independent reporting"
+              ]
+            }
+          ],
+          "countries": [
+            "UKRAINE",
+            "RUSSIA",
+            "UK"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd0d Key Question: Who is negotiating? What are their personal financial interests?",
+            "   Also ask: Are they aligned with their country's interests or their own?",
+            "\ud83c\udf0d Dynamic: UKRAINE \u2194\ufe0f RUSSIA \u2194\ufe0f UK"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        }
+      ]
+    },
+    "sovereignty_loss": {
+      "name": "Sovereignty Loss",
+      "icon": "\ud83d\udea9",
+      "article_count": 4,
+      "articles": [
+        {
+          "title": "In Kyrgyzstan, US Special Envoy Gor Brushes Aside Visa Restrictions, Promotes Business",
+          "link": "https://thediplomat.com/2026/02/in-kyrgyzstan-us-special-envoy-gor-brushes-aside-visa-restrictions-promotes-business/",
+          "summary": "U.S. policy toward Central Asia has narrowed to the economic realm.",
+          "source": "The Diplomat",
+          "published": "Fri, 06 Feb 2026 00:40:00 +0900",
+          "themes": [
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9",
+              "questions": [
+                "What commitments are permanent? What can't be reversed?",
+                "Is sovereignty being traded for short-term gains?",
+                "Who has veto power? Who can override local decisions?",
+                "What's the long-term cost to independence?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udd2b Key Question: Follow the resources being fought over, not the stated reasons",
+            "   Also ask: Who arms whom? Who profits from the conflict?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "There Is Only One Sphere of Influence",
+          "link": "https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence",
+          "summary": "America can project power with little constraint\u2014and its rivals cannot.",
+          "source": "Foreign Affairs",
+          "published": "Wed, 04 Feb 2026 00:30:00 -0500",
+          "themes": [
+            {
+              "key": "power_dynamics",
+              "name": "Power & Dominance",
+              "icon": "\u26a1",
+              "questions": [
+                "Who gains more influence? Who loses leverage?",
+                "Is this consolidating a bloc or fragmenting existing ones?",
+                "What's the long-game power shift?",
+                "Who benefits from the hierarchy created?"
+              ]
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9",
+              "questions": [
+                "What commitments are permanent? What can't be reversed?",
+                "Is sovereignty being traded for short-term gains?",
+                "Who has veto power? Who can override local decisions?",
+                "What's the long-term cost to independence?"
+              ]
+            }
+          ],
+          "countries": [],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \u26a1 Key Question: Who gains more influence? Who loses leverage?",
+            "   Also ask: Is this consolidating a bloc or fragmenting existing ones?"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "Watch: Trump calls for new nuclear treaty as New START expires",
+          "link": "https://www.thehindu.com/videos/watch-trump-calls-for-new-nuclear-treaty-as-new-start-expires/article70599193.ece",
+          "summary": "U.S. President Donald Trump has called for a new nuclear arms treaty after the New START agreement with Russia expired, sparking fears of a renewed global arms race.",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 13:08:29 +0530",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "military_security",
+              "name": "Military & Security",
+              "icon": "\ud83d\udd2b",
+              "questions": [
+                "Follow the resources being fought over, not the stated reasons",
+                "Who arms whom? Who profits from the conflict?",
+                "What territory/resources are at stake?",
+                "Is this a proxy war for bigger powers?"
+              ]
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9",
+              "questions": [
+                "What commitments are permanent? What can't be reversed?",
+                "Is sovereignty being traded for short-term gains?",
+                "Who has veto power? Who can override local decisions?",
+                "What's the long-term cost to independence?"
+              ]
+            }
+          ],
+          "countries": [
+            "RUSSIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?",
+            "\ud83c\udf0d Focus: RUSSIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [],
+          "follow_the_money": [],
+          "power_shift": []
+        },
+        {
+          "title": "Indonesia, Australia sign new security treaty to affirm deeper ties",
+          "link": "https://www.thehindu.com/news/international/indonesia-australia-sign-new-security-treaty-to-affirm-deeper-ties/article70598923.ece",
+          "summary": "Analysts said the treaty is becoming increasingly important to Australia in the face of growing tensions with China in the region",
+          "source": "The Hindu - World",
+          "published": "Fri, 06 Feb 2026 12:32:57 +0530",
+          "themes": [
+            {
+              "key": "trade_sovereignty",
+              "name": "Trade & Sovereignty",
+              "icon": "\ud83d\udcbc",
+              "questions": [
+                "Who surrenders what? Who profits from this arrangement?",
+                "Are the terms public or hidden? What's the asymmetry?",
+                "Who negotiated this? What are their financial interests?",
+                "Will this be reversible or permanent? What's locked in?"
+              ]
+            },
+            {
+              "key": "capital_flows",
+              "name": "Capital Flows & Debt Leverage",
+              "icon": "\ud83d\udcb0",
+              "questions": [
+                "Who controls the capital? What strings are attached?",
+                "Is this creating a debt trap or legitimate investment?",
+                "Who profits from the interest payments? Where does the money go?",
+                "What happens if payments can't be made? Sovereignty loss?"
+              ]
+            },
+            {
+              "key": "sovereignty_loss",
+              "name": "Sovereignty Loss",
+              "icon": "\ud83d\udea9",
+              "questions": [
+                "What commitments are permanent? What can't be reversed?",
+                "Is sovereignty being traded for short-term gains?",
+                "Who has veto power? Who can override local decisions?",
+                "What's the long-term cost to independence?"
+              ]
+            }
+          ],
+          "countries": [
+            "CHINA",
+            "INDONESIA",
+            "AUSTRALIA"
+          ],
+          "key_entities": {
+            "people": [],
+            "orgs": [],
+            "events": []
+          },
+          "specific_analysis": [
+            "\ud83c\udfaf \ud83d\udcbc Key Question: Who surrenders what? Who profits from this arrangement?",
+            "   Also ask: Are the terms public or hidden? What's the asymmetry?",
+            "\ud83c\udf0d Dynamic: CHINA \u2194\ufe0f INDONESIA \u2194\ufe0f AUSTRALIA"
+          ],
+          "red_flags": [],
+          "counter_narratives": [
+            "\u270b Counter: Security for whom? Against what real threat?",
+            "\u270b Counter: Who profits from securitization and military spending?"
+          ],
+          "follow_the_money": [
+            "\ud83d\udcb8 Debt creation - repayment terms? Conditions?"
+          ],
+          "power_shift": []
+        }
+      ]
+    }
+  }
+}
