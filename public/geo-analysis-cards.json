@@ -1,0 +1,354 @@
+{
+  "generated_at": "2026-02-06 11:05 UTC",
+  "total_cards": 17,
+  "description": "Individual geopolitical analysis cards - one card per significant event with full framework",
+  "framework": [
+    "Headline",
+    "Signal (Why this matters)",
+    "Actors",
+    "Mechanism",
+    "Winners/Losers",
+    "Hidden Cost/Gain",
+    "Second-Order Effects",
+    "Time Horizon",
+    "Effect on Future Options",
+    "Reversibility",
+    "Confidence Level",
+    "One-Line Take"
+  ],
+  "cards": [
+    {
+      "headline": "What are Iranians saying about the threat of war?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/6/what-are-iranians-saying-about-the-threat-of-war?traffic_source=rss",
+      "source": "Al Jazeera - World",
+      "published": "Fri, 06 Feb 2026 10:22:46 +0000",
+      "signal": "Military action tests resolve and signals willingness to use force; demonstrates shift in conflict dynamics or strategic risk tolerance.",
+      "actors": [
+        "Iran"
+      ],
+      "mechanism": "Capital-with-conditions: Loans/investments carry interest payments, collateral claims, policy conditions. Creditor gains leverage over debtor's domestic choices.",
+      "winners_losers": "WINNERS: Military-industrial complex gains weapons sales and contracts; dominant military power gains territorial/geopolitical gains. LOSERS: Civilian populations face casualties and displacement; defeated state loses sovereignty. CHANNEL: Armed violence and coercion.",
+      "hidden_cost_gain": "Debt obligations constrain future government spending permanently. Interest payments enrich foreign creditors indefinitely. Privatization demands strip state assets. Becomes self-reinforcing.",
+      "second_order_effects": "Aggressor emboldened by success. Victim's weakness attracts further predation. Regional states forced to choose sides. Escalation spirals as deterrence fails.",
+      "time_horizon": "Structural (repayment obligations extend 20-30 years; create permanent leverage)",
+      "effect_on_future_options": "CONSTRAINS: Repayment obligations constrain future budgets. Creditors gain veto over domestic policy. Structural adjustment demands.",
+      "reversibility": "Costly (obligations cannot be erased; default damages credit for decades)",
+      "confidence_level": "Medium (depends on commodity prices, sustainability, political stability)",
+      "one_line_take": "Military action demonstrates willingness to use force; precedent invites further aggression; victim's weakness becomes target."
+    },
+    {
+      "headline": "NBA roundup: Lakers stop 76ers despite Luka Doncic\u2019s injury exit",
+      "link": "https://www.aljazeera.com/sports/2026/2/6/nba-roundup-lakers-stop-76ers-despite-luka-doncics-injury-exit?traffic_source=rss",
+      "source": "Al Jazeera - World",
+      "published": "Fri, 06 Feb 2026 09:17:42 +0000",
+      "signal": "Military action tests resolve and signals willingness to use force; demonstrates shift in conflict dynamics or strategic risk tolerance.",
+      "actors": [
+        "UK",
+        "UN"
+      ],
+      "mechanism": "Military coercion: Threat or use of force creates vulnerability; victim must concede to demands or face escalation.",
+      "winners_losers": "WINNERS: Military-industrial complex gains weapons sales and contracts; dominant military power gains territorial/geopolitical gains. LOSERS: Civilian populations face casualties and displacement; defeated state loses sovereignty. CHANNEL: Armed violence and coercion.",
+      "hidden_cost_gain": "Long-term irreversible impacts obscured by short-term visible gains. What appears reversible becomes structural.",
+      "second_order_effects": "Aggressor emboldened by success. Victim's weakness attracts further predation. Regional states forced to choose sides. Escalation spirals as deterrence fails.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "CONSTRAINS: Establishes new status quo politically hard to reverse.",
+      "reversibility": "Costly (reversal requires significant disruption)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Military action demonstrates willingness to use force; precedent invites further aggression; victim's weakness becomes target."
+    },
+    {
+      "headline": "\u2018They killed my sons\u2019: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
+      "link": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+      "source": "The Guardian - World",
+      "published": "Thu, 05 Feb 2026 20:33:00 GMT",
+      "signal": "Military action tests resolve and signals willingness to use force; demonstrates shift in conflict dynamics or strategic risk tolerance.",
+      "actors": [
+        "UN",
+        "Nigeria"
+      ],
+      "mechanism": "Military coercion: Threat or use of force creates vulnerability; victim must concede to demands or face escalation.",
+      "winners_losers": "WINNERS: Military-industrial complex gains weapons sales and contracts; dominant military power gains territorial/geopolitical gains. LOSERS: Civilian populations face casualties and displacement; defeated state loses sovereignty. CHANNEL: Armed violence and coercion.",
+      "hidden_cost_gain": "Long-term irreversible impacts obscured by short-term visible gains. What appears reversible becomes structural.",
+      "second_order_effects": "Aggressor emboldened by success. Victim's weakness attracts further predation. Regional states forced to choose sides. Escalation spirals as deterrence fails.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "CONSTRAINS: Establishes new status quo politically hard to reverse.",
+      "reversibility": "Costly (reversal requires significant disruption)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Military action demonstrates willingness to use force; precedent invites further aggression; victim's weakness becomes target."
+    },
+    {
+      "headline": "Gunmen kill more than 160 people in attacks on two west Nigeria villages",
+      "link": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+      "source": "The Guardian - World",
+      "published": "Wed, 04 Feb 2026 17:40:32 GMT",
+      "signal": "Military action tests resolve and signals willingness to use force; demonstrates shift in conflict dynamics or strategic risk tolerance.",
+      "actors": [
+        "UK",
+        "UN",
+        "Nigeria"
+      ],
+      "mechanism": "Military coercion: Threat or use of force creates vulnerability; victim must concede to demands or face escalation.",
+      "winners_losers": "WINNERS: Military-industrial complex gains weapons sales and contracts; dominant military power gains territorial/geopolitical gains. LOSERS: Civilian populations face casualties and displacement; defeated state loses sovereignty. CHANNEL: Armed violence and coercion.",
+      "hidden_cost_gain": "Long-term irreversible impacts obscured by short-term visible gains. What appears reversible becomes structural.",
+      "second_order_effects": "Aggressor emboldened by success. Victim's weakness attracts further predation. Regional states forced to choose sides. Escalation spirals as deterrence fails.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "CONSTRAINS: Establishes new status quo politically hard to reverse.",
+      "reversibility": "Costly (reversal requires significant disruption)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Military action demonstrates willingness to use force; precedent invites further aggression; victim's weakness becomes target."
+    },
+    {
+      "headline": "Ugandan opposition leader still in hiding as feud with president\u2019s son escalates",
+      "link": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+      "source": "The Guardian - World",
+      "published": "Wed, 04 Feb 2026 12:07:57 GMT",
+      "signal": "Personal interests of political elites are being negotiated as national interests, collapsing the boundary between state and private profit.",
+      "actors": [
+        "EU",
+        "UN",
+        "Uganda"
+      ],
+      "mechanism": "Equipment dependency: Once armed with specific weapons, buyer must maintain supplier relationship for spare parts, training, upgrades. Supply becomes geopolitical lever.",
+      "winners_losers": "WINNERS: US/supplier defense contractors gain market access and long-term equipment sales; geopolitical influence expands. LOSERS: Allied states lose autonomy in military procurement and doctrine; doctrine convergence eliminates strategic options. CHANNEL: Equipment dependency and interoperability lock-in.",
+      "hidden_cost_gain": "Equipment dependency creates permanent supplier leverage. Spare parts can be weaponized. Doctrine convergence eliminates future strategic options. Military subordination becomes normal.",
+      "second_order_effects": "Supplier becomes confident asserting demands. Doctrine convergence reduces strategic autonomy. Supplier expands military presence. Conflicts become more likely as military capabilities align with power politics.",
+      "time_horizon": "Strategic (geopolitical repositioning plays out over years; embedded through doctrine)",
+      "effect_on_future_options": "LOCKS IN: Equipment, doctrine, training, interoperability tied to supplier. Cannot diversify without retraining entire military.",
+      "reversibility": "Costly (requires rearming with alternatives, doctrine retraining, geopolitical realignment)",
+      "confidence_level": "High (personal interest motive clear; outcomes predictable)",
+      "one_line_take": "Personal wealth accumulation dressed as state interest; incentive structure permanently corrupted; elites now entrenched."
+    },
+    {
+      "headline": "Death of Nigerian singer after snakebite highlights crisis of \u2018preventable\u2019 fatalities",
+      "link": "https://www.theguardian.com/global-development/2026/feb/04/death-of-nigerian-singer-highlights-crisis-of-preventable-snakebite-fatalities",
+      "source": "The Guardian - World",
+      "published": "Wed, 04 Feb 2026 10:00:39 GMT",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "UN",
+        "Nigeria"
+      ],
+      "mechanism": "Capital-with-conditions: Loans/investments carry interest payments, collateral claims, policy conditions. Creditor gains leverage over debtor's domestic choices.",
+      "winners_losers": "WINNERS: Concentrated benefits (profits, market access, power). LOSERS: Distributed costs (consumers, taxpayers, excluded groups) harder to organize politically.",
+      "hidden_cost_gain": "Debt obligations constrain future government spending permanently. Interest payments enrich foreign creditors indefinitely. Privatization demands strip state assets. Becomes self-reinforcing.",
+      "second_order_effects": "Precedent makes similar arrangements more likely with other states. Escalation becomes default dynamic. Power concentrates.",
+      "time_horizon": "Structural (repayment obligations extend 20-30 years; create permanent leverage)",
+      "effect_on_future_options": "CONSTRAINS: Repayment obligations constrain future budgets. Creditors gain veto over domestic policy. Structural adjustment demands.",
+      "reversibility": "Costly (obligations cannot be erased; default damages credit for decades)",
+      "confidence_level": "Medium (depends on commodity prices, sustainability, political stability)",
+      "one_line_take": "Event accelerates power concentration; weaker actors lose options; precedent makes worse outcomes more likely."
+    },
+    {
+      "headline": "The Plastic Pollution Crisis",
+      "link": "https://thediplomat.com/2026/02/the-plastic-pollution-crisis/",
+      "source": "The Diplomat",
+      "published": "Fri, 06 Feb 2026 15:53:00 +0900",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "UN"
+      ],
+      "mechanism": "Power flows through asymmetric control of critical resources (capital, military, energy, information) that create dependency.",
+      "winners_losers": "WINNERS: Concentrated benefits (profits, market access, power). LOSERS: Distributed costs (consumers, taxpayers, excluded groups) harder to organize politically.",
+      "hidden_cost_gain": "Long-term irreversible impacts obscured by short-term visible gains. What appears reversible becomes structural.",
+      "second_order_effects": "Precedent makes similar arrangements more likely with other states. Escalation becomes default dynamic. Power concentrates.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "CONSTRAINS: Establishes new status quo politically hard to reverse.",
+      "reversibility": "Costly (reversal requires significant disruption)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Event accelerates power concentration; weaker actors lose options; precedent makes worse outcomes more likely."
+    },
+    {
+      "headline": "Indonesia\u2019s Eighty Billion Dollar Wake-Up Call",
+      "link": "https://thediplomat.com/2026/02/indonesias-eighty-billion-dollar-wake-up-call/",
+      "source": "The Diplomat",
+      "published": "Fri, 06 Feb 2026 06:51:00 +0900",
+      "signal": "Military action tests resolve and signals willingness to use force; demonstrates shift in conflict dynamics or strategic risk tolerance.",
+      "actors": [
+        "UN",
+        "Indonesia"
+      ],
+      "mechanism": "Military coercion: Threat or use of force creates vulnerability; victim must concede to demands or face escalation.",
+      "winners_losers": "WINNERS: Military-industrial complex gains weapons sales and contracts; dominant military power gains territorial/geopolitical gains. LOSERS: Civilian populations face casualties and displacement; defeated state loses sovereignty. CHANNEL: Armed violence and coercion.",
+      "hidden_cost_gain": "Debt obligations constrain future government spending permanently. Interest payments enrich foreign creditors indefinitely. Privatization demands strip state assets. Becomes self-reinforcing.",
+      "second_order_effects": "Aggressor emboldened by success. Victim's weakness attracts further predation. Regional states forced to choose sides. Escalation spirals as deterrence fails.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "CONSTRAINS: Establishes new status quo politically hard to reverse.",
+      "reversibility": "Costly (reversal requires significant disruption)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Military action demonstrates willingness to use force; precedent invites further aggression; victim's weakness becomes target."
+    },
+    {
+      "headline": "US Government Removes Embargo on Arms Sales to Cambodia",
+      "link": "https://thediplomat.com/2026/02/us-government-removes-embargo-on-arms-sales-to-cambodia/",
+      "source": "The Diplomat",
+      "published": "Fri, 06 Feb 2026 09:15:00 +0900",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "Not explicitly named in article"
+      ],
+      "mechanism": "Equipment dependency: Once armed with specific weapons, buyer must maintain supplier relationship for spare parts, training, upgrades. Supply becomes geopolitical lever.",
+      "winners_losers": "WINNERS: US/supplier defense contractors gain market access and long-term equipment sales; geopolitical influence expands. LOSERS: Allied states lose autonomy in military procurement and doctrine; doctrine convergence eliminates strategic options. CHANNEL: Equipment dependency and interoperability lock-in.",
+      "hidden_cost_gain": "Equipment dependency creates permanent supplier leverage. Spare parts can be weaponized. Doctrine convergence eliminates future strategic options. Military subordination becomes normal.",
+      "second_order_effects": "Supplier becomes confident asserting demands. Doctrine convergence reduces strategic autonomy. Supplier expands military presence. Conflicts become more likely as military capabilities align with power politics.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "LOCKS IN: Equipment, doctrine, training, interoperability tied to supplier. Cannot diversify without retraining entire military.",
+      "reversibility": "Costly (requires rearming with alternatives, doctrine retraining, geopolitical realignment)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Event accelerates power concentration; weaker actors lose options; precedent makes worse outcomes more likely."
+    },
+    {
+      "headline": "In Kyrgyzstan, US Special Envoy Gor Brushes Aside Visa Restrictions, Promotes Business",
+      "link": "https://thediplomat.com/2026/02/in-kyrgyzstan-us-special-envoy-gor-brushes-aside-visa-restrictions-promotes-business/",
+      "source": "The Diplomat",
+      "published": "Fri, 06 Feb 2026 00:40:00 +0900",
+      "signal": "Military action tests resolve and signals willingness to use force; demonstrates shift in conflict dynamics or strategic risk tolerance.",
+      "actors": [
+        "Not explicitly named in article"
+      ],
+      "mechanism": "Military coercion: Threat or use of force creates vulnerability; victim must concede to demands or face escalation.",
+      "winners_losers": "WINNERS: Military-industrial complex gains weapons sales and contracts; dominant military power gains territorial/geopolitical gains. LOSERS: Civilian populations face casualties and displacement; defeated state loses sovereignty. CHANNEL: Armed violence and coercion.",
+      "hidden_cost_gain": "Long-term irreversible impacts obscured by short-term visible gains. What appears reversible becomes structural.",
+      "second_order_effects": "Aggressor emboldened by success. Victim's weakness attracts further predation. Regional states forced to choose sides. Escalation spirals as deterrence fails.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "CONSTRAINS: Establishes new status quo politically hard to reverse.",
+      "reversibility": "Costly (reversal requires significant disruption)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Military action demonstrates willingness to use force; precedent invites further aggression; victim's weakness becomes target."
+    },
+    {
+      "headline": "Europe\u2019s Next Hegemon",
+      "link": "https://www.foreignaffairs.com/germany/europes-next-hegemon-liana-fix",
+      "source": "Foreign Affairs",
+      "published": "Fri, 06 Feb 2026 00:00:00 -0500",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "EU"
+      ],
+      "mechanism": "Power flows through asymmetric control of critical resources (capital, military, energy, information) that create dependency.",
+      "winners_losers": "WINNERS: Concentrated benefits (profits, market access, power). LOSERS: Distributed costs (consumers, taxpayers, excluded groups) harder to organize politically.",
+      "hidden_cost_gain": "Long-term irreversible impacts obscured by short-term visible gains. What appears reversible becomes structural.",
+      "second_order_effects": "Precedent makes similar arrangements more likely with other states. Escalation becomes default dynamic. Power concentrates.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "CONSTRAINS: Establishes new status quo politically hard to reverse.",
+      "reversibility": "Costly (reversal requires significant disruption)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Event accelerates power concentration; weaker actors lose options; precedent makes worse outcomes more likely."
+    },
+    {
+      "headline": "Strength Over Peace",
+      "link": "https://www.foreignaffairs.com/united-states/strength-over-peace",
+      "source": "Foreign Affairs",
+      "published": "Thu, 05 Feb 2026 00:00:00 -0500",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "Iran",
+        "Venezuela"
+      ],
+      "mechanism": "Equipment dependency: Once armed with specific weapons, buyer must maintain supplier relationship for spare parts, training, upgrades. Supply becomes geopolitical lever.",
+      "winners_losers": "WINNERS: US/supplier defense contractors gain market access and long-term equipment sales; geopolitical influence expands. LOSERS: Allied states lose autonomy in military procurement and doctrine; doctrine convergence eliminates strategic options. CHANNEL: Equipment dependency and interoperability lock-in.",
+      "hidden_cost_gain": "Equipment dependency creates permanent supplier leverage. Spare parts can be weaponized. Doctrine convergence eliminates future strategic options. Military subordination becomes normal.",
+      "second_order_effects": "Supplier becomes confident asserting demands. Doctrine convergence reduces strategic autonomy. Supplier expands military presence. Conflicts become more likely as military capabilities align with power politics.",
+      "time_horizon": "Strategic (geopolitical repositioning plays out over years; embedded through doctrine)",
+      "effect_on_future_options": "LOCKS IN: Equipment, doctrine, training, interoperability tied to supplier. Cannot diversify without retraining entire military.",
+      "reversibility": "Costly (requires rearming with alternatives, doctrine retraining, geopolitical realignment)",
+      "confidence_level": "Medium (geopolitical effects depend on response; multiple scenarios possible)",
+      "one_line_take": "Event accelerates power concentration; weaker actors lose options; precedent makes worse outcomes more likely."
+    },
+    {
+      "headline": "The Limits of Russian Power",
+      "link": "https://www.foreignaffairs.com/russia/limits-russian-power",
+      "source": "Foreign Affairs",
+      "published": "Thu, 05 Feb 2026 00:00:00 -0500",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "Russia"
+      ],
+      "mechanism": "Power flows through asymmetric control of critical resources (capital, military, energy, information) that create dependency.",
+      "winners_losers": "WINNERS: Concentrated benefits (profits, market access, power). LOSERS: Distributed costs (consumers, taxpayers, excluded groups) harder to organize politically.",
+      "hidden_cost_gain": "Long-term irreversible impacts obscured by short-term visible gains. What appears reversible becomes structural.",
+      "second_order_effects": "Precedent makes similar arrangements more likely with other states. Escalation becomes default dynamic. Power concentrates.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "CONSTRAINS: Establishes new status quo politically hard to reverse.",
+      "reversibility": "Costly (reversal requires significant disruption)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Event accelerates power concentration; weaker actors lose options; precedent makes worse outcomes more likely."
+    },
+    {
+      "headline": "There Is Only One Sphere of Influence",
+      "link": "https://www.foreignaffairs.com/united-states/there-only-one-sphere-influence",
+      "source": "Foreign Affairs",
+      "published": "Wed, 04 Feb 2026 00:30:00 -0500",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "Not explicitly named in article"
+      ],
+      "mechanism": "Power flows through asymmetric control of critical resources (capital, military, energy, information) that create dependency.",
+      "winners_losers": "WINNERS: Concentrated benefits (profits, market access, power). LOSERS: Distributed costs (consumers, taxpayers, excluded groups) harder to organize politically.",
+      "hidden_cost_gain": "Long-term irreversible impacts obscured by short-term visible gains. What appears reversible becomes structural.",
+      "second_order_effects": "Precedent makes similar arrangements more likely with other states. Escalation becomes default dynamic. Power concentrates.",
+      "time_horizon": "Strategic (medium-term effects over 1-3 years)",
+      "effect_on_future_options": "CONSTRAINS: Establishes new status quo politically hard to reverse.",
+      "reversibility": "Costly (reversal requires significant disruption)",
+      "confidence_level": "Medium (multiple variables affect outcome)",
+      "one_line_take": "Event accelerates power concentration; weaker actors lose options; precedent makes worse outcomes more likely."
+    },
+    {
+      "headline": "Explosion at religious centre in Pakistan's Islamabad; casualties feared",
+      "link": "https://www.thehindu.com/news/international/explosion-at-religious-centre-in-pakistan-islamabad-injured-casualties/article70599632.ece",
+      "source": "The Hindu - World",
+      "published": "Fri, 06 Feb 2026 15:53:23 +0530",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "Pakistan"
+      ],
+      "mechanism": "Capital-with-conditions: Loans/investments carry interest payments, collateral claims, policy conditions. Creditor gains leverage over debtor's domestic choices.",
+      "winners_losers": "WINNERS: Concentrated benefits (profits, market access, power). LOSERS: Distributed costs (consumers, taxpayers, excluded groups) harder to organize politically.",
+      "hidden_cost_gain": "Debt obligations constrain future government spending permanently. Interest payments enrich foreign creditors indefinitely. Privatization demands strip state assets. Becomes self-reinforcing.",
+      "second_order_effects": "Precedent makes similar arrangements more likely with other states. Escalation becomes default dynamic. Power concentrates.",
+      "time_horizon": "Structural (repayment obligations extend 20-30 years; create permanent leverage)",
+      "effect_on_future_options": "CONSTRAINS: Repayment obligations constrain future budgets. Creditors gain veto over domestic policy. Structural adjustment demands.",
+      "reversibility": "Costly (obligations cannot be erased; default damages credit for decades)",
+      "confidence_level": "Medium (depends on commodity prices, sustainability, political stability)",
+      "one_line_take": "Event accelerates power concentration; weaker actors lose options; precedent makes worse outcomes more likely."
+    },
+    {
+      "headline": "A deputy chief of Russian military intelligence was shot and wounded in Moscow",
+      "link": "https://www.thehindu.com/news/international/a-deputy-chief-of-russian-military-intelligence-was-shot-and-wounded-in-moscow/article70599302.ece",
+      "source": "The Hindu - World",
+      "published": "Fri, 06 Feb 2026 14:13:34 +0530",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "UN",
+        "Russia"
+      ],
+      "mechanism": "Equipment dependency: Once armed with specific weapons, buyer must maintain supplier relationship for spare parts, training, upgrades. Supply becomes geopolitical lever.",
+      "winners_losers": "WINNERS: US/supplier defense contractors gain market access and long-term equipment sales; geopolitical influence expands. LOSERS: Allied states lose autonomy in military procurement and doctrine; doctrine convergence eliminates strategic options. CHANNEL: Equipment dependency and interoperability lock-in.",
+      "hidden_cost_gain": "Debt obligations constrain future government spending permanently. Interest payments enrich foreign creditors indefinitely. Privatization demands strip state assets. Becomes self-reinforcing.",
+      "second_order_effects": "Supplier becomes confident asserting demands. Doctrine convergence reduces strategic autonomy. Supplier expands military presence. Conflicts become more likely as military capabilities align with power politics.",
+      "time_horizon": "Strategic (geopolitical repositioning plays out over years; embedded through doctrine)",
+      "effect_on_future_options": "LOCKS IN: Equipment, doctrine, training, interoperability tied to supplier. Cannot diversify without retraining entire military.",
+      "reversibility": "Costly (requires rearming with alternatives, doctrine retraining, geopolitical realignment)",
+      "confidence_level": "Medium (geopolitical effects depend on response; multiple scenarios possible)",
+      "one_line_take": "Event accelerates power concentration; weaker actors lose options; precedent makes worse outcomes more likely."
+    },
+    {
+      "headline": "Watch: Trump calls for new nuclear treaty as New START expires",
+      "link": "https://www.thehindu.com/videos/watch-trump-calls-for-new-nuclear-treaty-as-new-start-expires/article70599193.ece",
+      "source": "The Hindu - World",
+      "published": "Fri, 06 Feb 2026 13:08:29 +0530",
+      "signal": "This event redistributes power, resources, or constraints between key actors in ways that reshape future possibilities.",
+      "actors": [
+        "Russia"
+      ],
+      "mechanism": "Equipment dependency: Once armed with specific weapons, buyer must maintain supplier relationship for spare parts, training, upgrades. Supply becomes geopolitical lever.",
+      "winners_losers": "WINNERS: US/supplier defense contractors gain market access and long-term equipment sales; geopolitical influence expands. LOSERS: Allied states lose autonomy in military procurement and doctrine; doctrine convergence eliminates strategic options. CHANNEL: Equipment dependency and interoperability lock-in.",
+      "hidden_cost_gain": "Equipment dependency creates permanent supplier leverage. Spare parts can be weaponized. Doctrine convergence eliminates future strategic options. Military subordination becomes normal.",
+      "second_order_effects": "Supplier becomes confident asserting demands. Doctrine convergence reduces strategic autonomy. Supplier expands military presence. Conflicts become more likely as military capabilities align with power politics.",
+      "time_horizon": "Structural (locks in constraints for decades; reversibility is political suicide)",
+      "effect_on_future_options": "LOCKS IN: Equipment, doctrine, training, interoperability tied to supplier. Cannot diversify without retraining entire military.",
+      "reversibility": "Near-irreversible (requires international negotiation; withdrawal triggers sanctions)",
+      "confidence_level": "High (legal constraints explicit; reversibility requires negotiation)",
+      "one_line_take": "Locked in structural constraints that cannot be reversed without international confrontation and domestic upheaval."
+    }
+  ]
+}
